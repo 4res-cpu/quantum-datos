@@ -1,19 +1,19 @@
 {
   "_comentario": "Lo lee el launcher al abrirse. Para publicar un modpack nuevo usa tools/publicar-modpack.js (ver GUIA-ORGANIZADOR.md).",
   "modpack": {
-    "version": "3.4.8",
+    "version": "3.4.9",
     "nombre": "Eventos Quantum",
     "minecraft": "1.21.8",
     "fabricLoader": "0.19.5",
-    "url": "https://github.com/4res-cpu/quantum-datos/releases/download/modpack-3.4.8/Eventos_Quantum_3.4.8.mrpack",
-    "size": 18105063,
-    "sha1": "5d016f3d88117f1af8c02b232a0c5de48bc4d46e",
-    "sha512": "34e6fbee2d55af410e025ea91726805d6a6fbafad452b3f8f4ac2f0ef51bfe5c57a61c09782f921894265781686d57e56dd4a1b1b89e74f5fec504d567a322ba",
-    "publicado": "2026-10-21T05:46:16.597Z",
-    "nota": "Las texturas del mapa ahora vienen incluidas."
+    "url": "https://github.com/4res-cpu/quantum-datos/releases/download/modpack-3.4.9/Eventos_Quantum_3.4.9.mrpack",
+    "size": 18445191,
+    "sha1": "75438b9a13f24ecb22cbbc6353e1c0fdb2841a85",
+    "sha512": "16ae120760b88a18a3a113b97c993952f81ee9e1a8ab58229ae5cc440a33be27d0ebcf22549567719e8f57006444581ec15727a93e998d5f2cec45fe8a98a68b",
+    "publicado": "2026-10-22T03:51:25.082Z",
+    "nota": "Nueva interfaz: barras de vida y agua, inventario oscuro y pantalla de entrada."
   },
   "launcher": {
-    "version": "1.1.3",
+    "version": "1.1.4",
     "descarga": "https://github.com/4res-cpu/quantum-launcher/releases/latest"
   }
 }
