@@ -9,3 +9,5 @@ llamado `quantum-datos`.
 - Los `.mrpack` van en *Releases* de este repositorio (etiqueta `modpack-X.Y.Z`).
 
 Instrucciones completas: `docs/GUIA-ORGANIZADOR.md` en el repositorio del launcher.
+- `voces/quantum_voces_vN.zip`: paquete de voces de los NPC y del narrador. Lo manda QuantumCore (1.6.34+) al entrar
+  al servidor de EVENTOS, aparte del paquete del servidor. No cambiar un zip ya publicado: subir uno nuevo (vN+1).
