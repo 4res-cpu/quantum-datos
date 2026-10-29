@@ -1,16 +1,16 @@
 {
   "_comentario": "Lo lee el launcher al abrirse. Para publicar un modpack nuevo usa tools/publicar-modpack.js (ver GUIA-ORGANIZADOR.md).",
   "modpack": {
-    "version": "3.4.9",
+    "version": "3.5.0",
     "nombre": "Eventos Quantum",
     "minecraft": "1.21.8",
     "fabricLoader": "0.19.5",
-    "url": "https://github.com/4res-cpu/quantum-datos/releases/download/modpack-3.4.9/Eventos_Quantum_3.4.9.mrpack",
-    "size": 18445191,
-    "sha1": "75438b9a13f24ecb22cbbc6353e1c0fdb2841a85",
-    "sha512": "16ae120760b88a18a3a113b97c993952f81ee9e1a8ab58229ae5cc440a33be27d0ebcf22549567719e8f57006444581ec15727a93e998d5f2cec45fe8a98a68b",
-    "publicado": "2026-10-22T03:51:25.082Z",
-    "nota": "Nueva interfaz: barras de vida y agua, inventario oscuro y pantalla de entrada."
+    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Eventos_Quantum_3.5.0.mrpack",
+    "size": 18461349,
+    "sha1": "db240ea1f1654a448edc46ce9bf3e29fd28ec1e7",
+    "sha512": "6e3dea43de52393002539560140c86cb4f4df8244b4fcbd81eba44cd98cc26df3b45c61067533dbbfdfbde702ec6fa3ae21f1c5c5d9db5d4f702825040aa8fd6",
+    "publicado": "2026-10-29T12:51:57.000Z",
+    "nota": "Rangos nuevos de la mitología griega y etiquetas de clan."
   },
   "launcher": {
     "version": "1.1.4",
