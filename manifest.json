@@ -1,16 +1,16 @@
 {
   "_comentario": "Lo lee el launcher al abrirse. Para publicar un modpack nuevo usa tools/publicar-modpack.js (ver GUIA-ORGANIZADOR.md).",
   "modpack": {
-    "version": "3.5.3",
+    "version": "3.5.4",
     "nombre": "Eventos Quantum",
     "minecraft": "1.21.8",
     "fabricLoader": "0.19.5",
-    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Eventos_Quantum_3.5.3.mrpack",
-    "size": 18478560,
-    "sha1": "98c4d764ce3fe16141ab53736915b9afb79f44de",
-    "sha512": "b703f25fd7773a525bf94f0e2615fc9b4eec0fe6439a768027007987d2cabd955faf0b8db686214d715b10e0a7c8099b09c43b5be19d4aecce533971f141d5cb",
-    "publicado": "2026-10-30T03:21:12.000Z",
-    "nota": "Rangos con los retratos del artista (pixel art nítido)."
+    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Eventos_Quantum_3.5.4.mrpack",
+    "size": 18486075,
+    "sha1": "a9225a7e8a22364824b62b8198d0cc1dec3d7bce",
+    "sha512": "13525ab5f54d580560c05b9393370b5864ae69ee3be4c22dc660f5651de30b3284522192b135d289cee8c17b171b07d80a4a631d62ed3c39cdad081bfd5b1542",
+    "publicado": "2026-10-30T03:35:28.000Z",
+    "nota": "Rangos con los retratos del artista: más color y contraste."
   },
   "launcher": {
     "version": "1.1.4",
