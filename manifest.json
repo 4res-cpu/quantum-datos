@@ -6,10 +6,10 @@
     "minecraft": "1.21.8",
     "fabricLoader": "0.19.5",
     "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Eventos_Quantum_3.5.1.mrpack",
-    "size": 18474928,
-    "sha1": "8439b1cff8fccf2f51b785daefcf0a29595d5c5e",
-    "sha512": "35e696bb7b6e5b91ea1bff31e9050dbacead3653361b7b1a7529dba282e202d096ae6d793d41bb5f1b5eef1aa828128a5c2ab8438d339edc5572f5b7a92e3832",
-    "publicado": "2026-10-30T03:14:12.000Z",
+    "size": 18474927,
+    "sha1": "86465a2b86eedc329d22be3069dc5481cc76c897",
+    "sha512": "3362e8b7309685f4c98512beb0ced517894c795fdadbfa5cf8e7675727c2898eb302e49906dddeb3440b423e9525e81bc31be931588131e467ec1b80da43a413",
+    "publicado": "2026-10-30T03:15:02.000Z",
     "nota": "Rangos con los retratos nuevos del artista."
   },
   "launcher": {
