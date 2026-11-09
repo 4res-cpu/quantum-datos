@@ -1,22 +1,22 @@
 {
   "noticias": [
     {
-      "titulo": "Inscripciones abiertas",
-      "fecha": "2026-10-20",
+      "titulo": "QUANTUM ZOMBIES",
+      "fecha": "2026-11-09",
       "destacada": true,
-      "texto": "Apúntate en el canal #inscripciones del Discord antes del 30 de octubre.",
+      "texto": "Nuevo servidor de supervivencia zombi: armas, hordas en las noches de sangre, infección, sed y temperatura. Pulsa Jugar y el launcher instala todo solo.",
       "enlace": "https://discord.gg/srGGsHJug8",
       "textoEnlace": "Ir al Discord"
     },
     {
-      "titulo": "Nuevo launcher del evento",
-      "fecha": "2026-10-20",
-      "texto": "Ya no hace falta TLauncher ni copiar carpetas: descarga el Quantum Launcher, entra con tu cuenta y pulsa Jugar. Instala Java, Minecraft 1.21.8, Fabric y todos los mods solo."
+      "titulo": "Primera vez si eres no premium",
+      "fecha": "2026-11-09",
+      "texto": "Al entrar escribe /register <contraseña> <contraseña>. Las siguientes veces: /login <contraseña>."
     },
     {
-      "titulo": "Modpack 3.4.7",
-      "fecha": "2026-10-16",
-      "texto": "Versión actual del modpack. Si eres no premium, la primera vez escribe /register <contraseña> <contraseña> en el servidor."
+      "titulo": "Consejos",
+      "fecha": "2026-11-09",
+      "texto": "Los shaders vienen activados: si te va lento, pulsa K para apagarlos. Chat de voz: tecla V. Mapa: tecla M. Busca agua, refugio y armas antes de la primera noche."
     }
   ]
 }
