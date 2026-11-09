@@ -1,19 +1,19 @@
 {
   "_comentario": "Lo lee el launcher al abrirse. Para publicar un modpack nuevo usa tools/publicar-modpack.js (ver GUIA-ORGANIZADOR.md).",
   "modpack": {
-    "version": "3.5.7",
-    "nombre": "Eventos Quantum",
+    "version": "zombies-1.0.0",
+    "nombre": "Quantum Zombies",
     "minecraft": "1.21.8",
     "fabricLoader": "0.19.5",
-    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Eventos_Quantum_3.5.7.mrpack",
-    "size": 18488847,
-    "sha1": "6541121551ecc076fa76b3fde32c10a5e3a5a825",
-    "sha512": "7d1b0aab1dac25ec19a8dd6ea14ae846161e02b5e6c9f102221d3f3a1965cb03d4c4e18c9b605ecaaa5064f4dab4fad7fec7c3207730418062eabe1cabaab2bc",
-    "publicado": "2026-10-30T03:43:59.000Z",
-    "nota": "Rangos con los retratos del artista (versión final)."
+    "url": "https://github.com/4res-cpu/quantum-datos/releases/download/modpack-zombies-1.0.0/Quantum_Zombies_1.0.0.mrpack",
+    "size": 26798,
+    "sha1": "8e8d0c415abd8f00e8603ef1c244a2261779a983",
+    "sha512": "734779e4cff19a890905923bc5aac5d578c3fa59374de68eab2c2647a79fb1ede926f711c5b572c7dc02c9dc5535a788e39dd9962b02558abe2339e14c2bc4de",
+    "publicado": "2026-11-09T14:30:00.000Z",
+    "nota": "Quantum Zombies: armas, hordas, sed y temperatura, shaders y chat de voz."
   },
   "launcher": {
-    "version": "1.1.4",
+    "version": "1.2.0",
     "descarga": "https://github.com/4res-cpu/quantum-launcher/releases/latest"
   }
 }
