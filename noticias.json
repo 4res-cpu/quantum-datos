@@ -1,22 +1,17 @@
 {
   "noticias": [
     {
-      "titulo": "QUANTUM ZOMBIES",
-      "fecha": "2026-11-09",
+      "titulo": "QUANTUM NETWORK",
+      "fecha": "2026-11-10",
       "destacada": true,
-      "texto": "Nuevo servidor de supervivencia zombi: armas, hordas en las noches de sangre, infección, sed y temperatura. Pulsa Jugar y el launcher instala todo solo.",
+      "texto": "Estamos montando la network: Cobblemon «Fractura», Sky Wars y más modos desde un solo launcher. Pronto, fecha de apertura.",
       "enlace": "https://discord.gg/srGGsHJug8",
       "textoEnlace": "Ir al Discord"
     },
     {
       "titulo": "Primera vez si eres no premium",
-      "fecha": "2026-11-09",
-      "texto": "Al entrar escribe /register <contraseña> <contraseña>. Las siguientes veces: /login <contraseña>."
-    },
-    {
-      "titulo": "Consejos",
-      "fecha": "2026-11-09",
-      "texto": "Los shaders vienen activados: si te va lento, pulsa K para apagarlos. Chat de voz: tecla V. Mapa: tecla M. Busca agua, refugio y armas antes de la primera noche."
+      "fecha": "2026-11-10",
+      "texto": "Al entrar al lobby escribe /register <contraseña> <contraseña>. Las siguientes veces: /login <contraseña>."
     }
   ]
 }
