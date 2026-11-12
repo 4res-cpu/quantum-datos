@@ -1,0 +1,28 @@
+{
+ "start_at": "a",
+ "layout": {
+  "type": "blabber:rpg"
+ },
+ "states": {
+  "a": {
+   "text": [
+    "",
+    "¿Como va tu compañero? Cuidalo bien. Cuando quieras salir a explorar usa ",
+    {
+     "text": "/trigger survival",
+     "color": "yellow"
+    },
+    "."
+   ],
+   "choices": [
+    {
+     "text": "¡Gracias, Profesor!",
+     "next": "fin"
+    }
+   ]
+  },
+  "fin": {
+   "type": "end_dialogue"
+  }
+ }
+}
