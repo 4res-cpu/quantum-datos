@@ -1,0 +1,20 @@
+QUANTUM NETWORK - KIT DEL SERVIDOR COBBLEMON
+==========================================
+Con esta carpeta se puede montar el servidor en cualquier host.
+
+1. Servidor Fabric 1.21.1 (loader 0.19.5), Java 21, nombre del mundo: cobblemon, online-mode=false.
+2. Mods: descargar todos los enlaces de mods_servidor.txt a /mods.
+3. Copiar config/ a /config (legendarios cada 90 min).
+4. Copiar datapacks/quantum_network a /cobblemon/datapacks/.
+5. Copiar mundo/quanta/region/*.mca a /cobblemon/dimensions/quantum/quanta/region/.
+6. El lobby: copiar region, entities y poi de FINAL_Lobby_2026-11-07.zip (carpeta mundo/)
+   a /cobblemon/dimensions/quantum/lobby/.
+7. server-icon.png a la raiz.
+
+Dentro del juego, como admin (una sola vez):
+  /function quantum:rangos/instalar        crea los rangos en LuckPerms
+  /function quantum:lobby/arreglar         quita Halloween del lobby y repone ladrillos
+  /function quantum:profesor/colocar       pone al Profesor donde estes parado (en Quanta)
+Dar rango:   /function quantum:rangos/_vip {j:"Nombre"}
+             (owner, coowner, manager, admin, mod, helper, soporte, mvpplus, mvp, vipplus, vip, usuario)
+Jugadores:   /trigger lobby   /trigger quanta   /trigger survival
