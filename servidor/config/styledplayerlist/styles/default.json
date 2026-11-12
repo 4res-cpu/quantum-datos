@@ -1,0 +1,68 @@
+{
+ "style_name": "Quantum",
+ "update_tick_time": 8,
+ "list_header": {
+  "change_rate": 1,
+  "values": [
+   [
+    "",
+    "<gradient:#7c3aed:#9d4edd:#c77dff:#e9d5ff><bold>   ✦ QUANTUM NETWORK ✦   </bold></gradient>",
+    "<color:#b9b3cc>Cobblemon · Región de Quanta</color>",
+    "",
+    "<color:#847d9e>Jugadores</color> <color:#e9d5ff>%server:online%</color><color:#847d9e>/</color><color:#e9d5ff>%server:max_players%</color>   <color:#847d9e>Ping</color> <color:#b9f27c>%player:ping% ms</color>",
+    ""
+   ],
+   [
+    "",
+    "<gradient:#9d4edd:#c77dff:#e9d5ff:#c77dff><bold>   ✦ QUANTUM NETWORK ✦   </bold></gradient>",
+    "<color:#b9b3cc>Cobblemon · Región de Quanta</color>",
+    "",
+    "<color:#847d9e>Jugadores</color> <color:#e9d5ff>%server:online%</color><color:#847d9e>/</color><color:#e9d5ff>%server:max_players%</color>   <color:#847d9e>Ping</color> <color:#b9f27c>%player:ping% ms</color>",
+    ""
+   ],
+   [
+    "",
+    "<gradient:#c77dff:#e9d5ff:#c77dff:#9d4edd><bold>   ✦ QUANTUM NETWORK ✦   </bold></gradient>",
+    "<color:#b9b3cc>Cobblemon · Región de Quanta</color>",
+    "",
+    "<color:#847d9e>Jugadores</color> <color:#e9d5ff>%server:online%</color><color:#847d9e>/</color><color:#e9d5ff>%server:max_players%</color>   <color:#847d9e>Ping</color> <color:#b9f27c>%player:ping% ms</color>",
+    ""
+   ],
+   [
+    "",
+    "<gradient:#e9d5ff:#c77dff:#9d4edd:#7c3aed><bold>   ✦ QUANTUM NETWORK ✦   </bold></gradient>",
+    "<color:#b9b3cc>Cobblemon · Región de Quanta</color>",
+    "",
+    "<color:#847d9e>Jugadores</color> <color:#e9d5ff>%server:online%</color><color:#847d9e>/</color><color:#e9d5ff>%server:max_players%</color>   <color:#847d9e>Ping</color> <color:#b9f27c>%player:ping% ms</color>",
+    ""
+   ],
+   [
+    "",
+    "<gradient:#c77dff:#9d4edd:#7c3aed:#9d4edd><bold>   ✦ QUANTUM NETWORK ✦   </bold></gradient>",
+    "<color:#b9b3cc>Cobblemon · Región de Quanta</color>",
+    "",
+    "<color:#847d9e>Jugadores</color> <color:#e9d5ff>%server:online%</color><color:#847d9e>/</color><color:#e9d5ff>%server:max_players%</color>   <color:#847d9e>Ping</color> <color:#b9f27c>%player:ping% ms</color>",
+    ""
+   ],
+   [
+    "",
+    "<gradient:#9d4edd:#7c3aed:#9d4edd:#c77dff><bold>   ✦ QUANTUM NETWORK ✦   </bold></gradient>",
+    "<color:#b9b3cc>Cobblemon · Región de Quanta</color>",
+    "",
+    "<color:#847d9e>Jugadores</color> <color:#e9d5ff>%server:online%</color><color:#847d9e>/</color><color:#e9d5ff>%server:max_players%</color>   <color:#847d9e>Ping</color> <color:#b9f27c>%player:ping% ms</color>",
+    ""
+   ]
+  ]
+ },
+ "list_footer": {
+  "change_rate": 1,
+  "values": [
+   [
+    "",
+    "<color:#847d9e>/trigger lobby  ·  /trigger quanta  ·  /trigger survival</color>",
+    "<color:#c77dff>Legendarios cada 1h 30m</color>  <color:#847d9e>·</color>  <color:#b9b3cc>/spawnevent</color>",
+    ""
+   ]
+  ]
+ }
+}
