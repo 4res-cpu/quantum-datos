@@ -1,15 +1,15 @@
 {
   "_comentario": "Lo lee el launcher al abrirse.",
   "modpack": {
-    "version": "network-0.1.2",
+    "version": "network-0.1.3",
     "nombre": "Quantum Network",
     "minecraft": "1.21.1",
     "fabricLoader": "0.19.5",
-    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.1.2.mrpack",
-    "size": 470752,
-    "sha1": "824f84a01db7bc9e76b35352a008d12e87039a0f",
-    "sha512": "3d82c938f382fc238838a9cca9b01bf77710502694ca8a25f4b38910ce4c8ee8a9317ab9ee339234a3cc05fa2a3f4f10b3d56e4cc5e363fa066ae6a095e692dc",
-    "publicado": "2026-11-12T14:30:00.000Z",
+    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.1.3.mrpack",
+    "size": 470747,
+    "sha1": "e79a1d2ecc531762f333dca8f6c6630a90ca997b",
+    "sha512": "c13bd77ea195fce74998b75b77f099c259c8f784fbf2c1e4c0384e0cb593545fa0693816b08ed2525c2c95b5c003ff03a7984f1be54b001b4026551c0a811ec1",
+    "publicado": "2026-11-12T17:10:00.000Z",
     "nota": "Raids, casino, armería Pokémon, chapas de IVs, CobbleDollars y logo nuevo."
   },
   "launcher": {
