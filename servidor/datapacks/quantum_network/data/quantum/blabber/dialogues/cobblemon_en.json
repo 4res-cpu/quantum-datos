@@ -1,0 +1,71 @@
+{
+ "start_at": "a",
+ "layout": {
+  "type": "blabber:rpg"
+ },
+ "states": {
+  "a": {
+   "text": [
+    "",
+    {
+     "text": "COBBLEMON\n",
+     "color": "yellow",
+     "bold": true
+    },
+    {
+     "text": "The Fracture tore open the sky of Quanta and brought Pokémon from every region. Ready to enter?",
+     "color": "white"
+    }
+   ],
+   "choices": [
+    {
+     "text": [
+      "",
+      {
+       "text": "Enter the Quanta Region",
+       "color": "light_purple"
+      }
+     ],
+     "next": "quanta"
+    },
+    {
+     "text": [
+      "",
+      {
+       "text": "Go to the Survival World",
+       "color": "green"
+      }
+     ],
+     "next": "surv"
+    },
+    {
+     "text": "Not now",
+     "next": "fin"
+    }
+   ]
+  },
+  "quanta": {
+   "type": "end_dialogue",
+   "text": "",
+   "choices": [],
+   "action": {
+    "type": "blabber:command",
+    "value": "function quantum:ir_quanta"
+   }
+  },
+  "surv": {
+   "type": "end_dialogue",
+   "text": "",
+   "choices": [],
+   "action": {
+    "type": "blabber:command",
+    "value": "function quantum:ir_survival"
+   }
+  },
+  "fin": {
+   "type": "end_dialogue",
+   "text": "",
+   "choices": []
+  }
+ }
+}

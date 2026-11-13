@@ -1,0 +1,30 @@
+{
+ "start_at": "a",
+ "layout": {
+  "type": "blabber:rpg"
+ },
+ "states": {
+  "a": {
+   "text": [
+    "",
+    "Como está seu parceiro? Cuide bem dele. Quando quiser explorar, use sua ",
+    {
+     "text": "bússola",
+     "color": "aqua"
+    },
+    "."
+   ],
+   "choices": [
+    {
+     "text": "Obrigado, Professor!",
+     "next": "fin"
+    }
+   ]
+  },
+  "fin": {
+   "type": "end_dialogue",
+   "text": "",
+   "choices": []
+  }
+ }
+}
