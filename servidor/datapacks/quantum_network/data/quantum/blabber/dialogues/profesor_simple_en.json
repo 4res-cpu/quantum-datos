@@ -1,0 +1,1573 @@
+{
+ "start_at": "saludo",
+ "unskippable": true,
+ "layout": {
+  "type": "blabber:rpg"
+ },
+ "states": {
+  "saludo": {
+   "text": [
+    "",
+    {
+     "text": "Ah, there you are! ",
+     "color": "yellow"
+    },
+    "I'm ",
+    {
+     "text": "Professor Quark",
+     "color": "yellow",
+     "bold": true
+    },
+    ". Welcome to ",
+    {
+     "text": "Quanta",
+     "color": "#b57bff",
+     "bold": true
+    },
+    ", the region where it all begins."
+   ],
+   "choices": [
+    {
+     "text": "What is this place?",
+     "next": "lore"
+    },
+    {
+     "text": "I want my first Pokémon",
+     "next": "region"
+    }
+   ]
+  },
+  "lore": {
+   "text": [
+    "",
+    "Long ago a ",
+    {
+     "text": "Fracture",
+     "color": "#b57bff"
+    },
+    " tore the sky of Quanta. Look up: those rifts are still open. Pokémon from every region come through them... and sometimes, legendaries. We need trainers to help us understand it."
+   ],
+   "choices": [
+    {
+     "text": "Count on me",
+     "next": "region"
+    }
+   ]
+  },
+  "region": {
+   "text": [
+    "",
+    "Every trainer starts with a partner. ",
+    {
+     "text": "Which region should it come from?",
+     "color": "yellow"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Kanto",
+     "next": "r_kanto"
+    },
+    {
+     "text": "Johto",
+     "next": "r_johto"
+    },
+    {
+     "text": "Hoenn",
+     "next": "r_hoenn"
+    },
+    {
+     "text": "Sinnoh",
+     "next": "r_sinnoh"
+    },
+    {
+     "text": "Unova",
+     "next": "r_teselia"
+    },
+    {
+     "text": "Kalos",
+     "next": "r_kalos"
+    },
+    {
+     "text": "Alola",
+     "next": "r_alola"
+    },
+    {
+     "text": "Galar",
+     "next": "r_galar"
+    },
+    {
+     "text": "Paldea",
+     "next": "r_paldea"
+    }
+   ]
+  },
+  "r_kanto": {
+   "text": [
+    "",
+    {
+     "text": "Kanto. ",
+     "color": "yellow"
+    },
+    "Good choice. These are its three starters, take your time:"
+   ],
+   "choices": [
+    {
+     "text": [
+      "",
+      {
+       "text": "Bulbasaur",
+       "color": "green"
+      },
+      {
+       "text": "  (Grass)",
+       "color": "gray"
+      }
+     ],
+     "next": "c_bulbasaur"
+    },
+    {
+     "text": [
+      "",
+      {
+       "text": "Charmander",
+       "color": "red"
+      },
+      {
+       "text": "  (Fire)",
+       "color": "gray"
+      }
+     ],
+     "next": "c_charmander"
+    },
+    {
+     "text": [
+      "",
+      {
+       "text": "Squirtle",
+       "color": "aqua"
+      },
+      {
+       "text": "  (Water)",
+       "color": "gray"
+      }
+     ],
+     "next": "c_squirtle"
+    },
+    {
+     "text": "← Another region",
+     "next": "region"
+    }
+   ]
+  },
+  "c_bulbasaur": {
+   "text": [
+    "",
+    "Are you sure you want ",
+    {
+     "text": "Bulbasaur",
+     "color": "green",
+     "bold": true
+    },
+    "? It will be your partner from today. ",
+    {
+     "text": "This choice cannot be changed.",
+     "color": "gray"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Yes, Bulbasaur!",
+     "next": "d_bulbasaur"
+    },
+    {
+     "text": "Let me think",
+     "next": "r_kanto"
+    }
+   ]
+  },
+  "d_bulbasaur": {
+   "type": "end_dialogue",
+   "text": "",
+   "choices": [],
+   "action": {
+    "type": "blabber:command",
+    "value": "function quantum:profesor/dar/bulbasaur"
+   }
+  },
+  "c_charmander": {
+   "text": [
+    "",
+    "Are you sure you want ",
+    {
+     "text": "Charmander",
+     "color": "red",
+     "bold": true
+    },
+    "? It will be your partner from today. ",
+    {
+     "text": "This choice cannot be changed.",
+     "color": "gray"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Yes, Charmander!",
+     "next": "d_charmander"
+    },
+    {
+     "text": "Let me think",
+     "next": "r_kanto"
+    }
+   ]
+  },
+  "d_charmander": {
+   "type": "end_dialogue",
+   "text": "",
+   "choices": [],
+   "action": {
+    "type": "blabber:command",
+    "value": "function quantum:profesor/dar/charmander"
+   }
+  },
+  "c_squirtle": {
+   "text": [
+    "",
+    "Are you sure you want ",
+    {
+     "text": "Squirtle",
+     "color": "aqua",
+     "bold": true
+    },
+    "? It will be your partner from today. ",
+    {
+     "text": "This choice cannot be changed.",
+     "color": "gray"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Yes, Squirtle!",
+     "next": "d_squirtle"
+    },
+    {
+     "text": "Let me think",
+     "next": "r_kanto"
+    }
+   ]
+  },
+  "d_squirtle": {
+   "type": "end_dialogue",
+   "text": "",
+   "choices": [],
+   "action": {
+    "type": "blabber:command",
+    "value": "function quantum:profesor/dar/squirtle"
+   }
+  },
+  "r_johto": {
+   "text": [
+    "",
+    {
+     "text": "Johto. ",
+     "color": "yellow"
+    },
+    "Good choice. These are its three starters, take your time:"
+   ],
+   "choices": [
+    {
+     "text": [
+      "",
+      {
+       "text": "Chikorita",
+       "color": "green"
+      },
+      {
+       "text": "  (Grass)",
+       "color": "gray"
+      }
+     ],
+     "next": "c_chikorita"
+    },
+    {
+     "text": [
+      "",
+      {
+       "text": "Cyndaquil",
+       "color": "red"
+      },
+      {
+       "text": "  (Fire)",
+       "color": "gray"
+      }
+     ],
+     "next": "c_cyndaquil"
+    },
+    {
+     "text": [
+      "",
+      {
+       "text": "Totodile",
+       "color": "aqua"
+      },
+      {
+       "text": "  (Water)",
+       "color": "gray"
+      }
+     ],
+     "next": "c_totodile"
+    },
+    {
+     "text": "← Another region",
+     "next": "region"
+    }
+   ]
+  },
+  "c_chikorita": {
+   "text": [
+    "",
+    "Are you sure you want ",
+    {
+     "text": "Chikorita",
+     "color": "green",
+     "bold": true
+    },
+    "? It will be your partner from today. ",
+    {
+     "text": "This choice cannot be changed.",
+     "color": "gray"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Yes, Chikorita!",
+     "next": "d_chikorita"
+    },
+    {
+     "text": "Let me think",
+     "next": "r_johto"
+    }
+   ]
+  },
+  "d_chikorita": {
+   "type": "end_dialogue",
+   "text": "",
+   "choices": [],
+   "action": {
+    "type": "blabber:command",
+    "value": "function quantum:profesor/dar/chikorita"
+   }
+  },
+  "c_cyndaquil": {
+   "text": [
+    "",
+    "Are you sure you want ",
+    {
+     "text": "Cyndaquil",
+     "color": "red",
+     "bold": true
+    },
+    "? It will be your partner from today. ",
+    {
+     "text": "This choice cannot be changed.",
+     "color": "gray"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Yes, Cyndaquil!",
+     "next": "d_cyndaquil"
+    },
+    {
+     "text": "Let me think",
+     "next": "r_johto"
+    }
+   ]
+  },
+  "d_cyndaquil": {
+   "type": "end_dialogue",
+   "text": "",
+   "choices": [],
+   "action": {
+    "type": "blabber:command",
+    "value": "function quantum:profesor/dar/cyndaquil"
+   }
+  },
+  "c_totodile": {
+   "text": [
+    "",
+    "Are you sure you want ",
+    {
+     "text": "Totodile",
+     "color": "aqua",
+     "bold": true
+    },
+    "? It will be your partner from today. ",
+    {
+     "text": "This choice cannot be changed.",
+     "color": "gray"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Yes, Totodile!",
+     "next": "d_totodile"
+    },
+    {
+     "text": "Let me think",
+     "next": "r_johto"
+    }
+   ]
+  },
+  "d_totodile": {
+   "type": "end_dialogue",
+   "text": "",
+   "choices": [],
+   "action": {
+    "type": "blabber:command",
+    "value": "function quantum:profesor/dar/totodile"
+   }
+  },
+  "r_hoenn": {
+   "text": [
+    "",
+    {
+     "text": "Hoenn. ",
+     "color": "yellow"
+    },
+    "Good choice. These are its three starters, take your time:"
+   ],
+   "choices": [
+    {
+     "text": [
+      "",
+      {
+       "text": "Treecko",
+       "color": "green"
+      },
+      {
+       "text": "  (Grass)",
+       "color": "gray"
+      }
+     ],
+     "next": "c_treecko"
+    },
+    {
+     "text": [
+      "",
+      {
+       "text": "Torchic",
+       "color": "red"
+      },
+      {
+       "text": "  (Fire)",
+       "color": "gray"
+      }
+     ],
+     "next": "c_torchic"
+    },
+    {
+     "text": [
+      "",
+      {
+       "text": "Mudkip",
+       "color": "aqua"
+      },
+      {
+       "text": "  (Water)",
+       "color": "gray"
+      }
+     ],
+     "next": "c_mudkip"
+    },
+    {
+     "text": "← Another region",
+     "next": "region"
+    }
+   ]
+  },
+  "c_treecko": {
+   "text": [
+    "",
+    "Are you sure you want ",
+    {
+     "text": "Treecko",
+     "color": "green",
+     "bold": true
+    },
+    "? It will be your partner from today. ",
+    {
+     "text": "This choice cannot be changed.",
+     "color": "gray"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Yes, Treecko!",
+     "next": "d_treecko"
+    },
+    {
+     "text": "Let me think",
+     "next": "r_hoenn"
+    }
+   ]
+  },
+  "d_treecko": {
+   "type": "end_dialogue",
+   "text": "",
+   "choices": [],
+   "action": {
+    "type": "blabber:command",
+    "value": "function quantum:profesor/dar/treecko"
+   }
+  },
+  "c_torchic": {
+   "text": [
+    "",
+    "Are you sure you want ",
+    {
+     "text": "Torchic",
+     "color": "red",
+     "bold": true
+    },
+    "? It will be your partner from today. ",
+    {
+     "text": "This choice cannot be changed.",
+     "color": "gray"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Yes, Torchic!",
+     "next": "d_torchic"
+    },
+    {
+     "text": "Let me think",
+     "next": "r_hoenn"
+    }
+   ]
+  },
+  "d_torchic": {
+   "type": "end_dialogue",
+   "text": "",
+   "choices": [],
+   "action": {
+    "type": "blabber:command",
+    "value": "function quantum:profesor/dar/torchic"
+   }
+  },
+  "c_mudkip": {
+   "text": [
+    "",
+    "Are you sure you want ",
+    {
+     "text": "Mudkip",
+     "color": "aqua",
+     "bold": true
+    },
+    "? It will be your partner from today. ",
+    {
+     "text": "This choice cannot be changed.",
+     "color": "gray"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Yes, Mudkip!",
+     "next": "d_mudkip"
+    },
+    {
+     "text": "Let me think",
+     "next": "r_hoenn"
+    }
+   ]
+  },
+  "d_mudkip": {
+   "type": "end_dialogue",
+   "text": "",
+   "choices": [],
+   "action": {
+    "type": "blabber:command",
+    "value": "function quantum:profesor/dar/mudkip"
+   }
+  },
+  "r_sinnoh": {
+   "text": [
+    "",
+    {
+     "text": "Sinnoh. ",
+     "color": "yellow"
+    },
+    "Good choice. These are its three starters, take your time:"
+   ],
+   "choices": [
+    {
+     "text": [
+      "",
+      {
+       "text": "Turtwig",
+       "color": "green"
+      },
+      {
+       "text": "  (Grass)",
+       "color": "gray"
+      }
+     ],
+     "next": "c_turtwig"
+    },
+    {
+     "text": [
+      "",
+      {
+       "text": "Chimchar",
+       "color": "red"
+      },
+      {
+       "text": "  (Fire)",
+       "color": "gray"
+      }
+     ],
+     "next": "c_chimchar"
+    },
+    {
+     "text": [
+      "",
+      {
+       "text": "Piplup",
+       "color": "aqua"
+      },
+      {
+       "text": "  (Water)",
+       "color": "gray"
+      }
+     ],
+     "next": "c_piplup"
+    },
+    {
+     "text": "← Another region",
+     "next": "region"
+    }
+   ]
+  },
+  "c_turtwig": {
+   "text": [
+    "",
+    "Are you sure you want ",
+    {
+     "text": "Turtwig",
+     "color": "green",
+     "bold": true
+    },
+    "? It will be your partner from today. ",
+    {
+     "text": "This choice cannot be changed.",
+     "color": "gray"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Yes, Turtwig!",
+     "next": "d_turtwig"
+    },
+    {
+     "text": "Let me think",
+     "next": "r_sinnoh"
+    }
+   ]
+  },
+  "d_turtwig": {
+   "type": "end_dialogue",
+   "text": "",
+   "choices": [],
+   "action": {
+    "type": "blabber:command",
+    "value": "function quantum:profesor/dar/turtwig"
+   }
+  },
+  "c_chimchar": {
+   "text": [
+    "",
+    "Are you sure you want ",
+    {
+     "text": "Chimchar",
+     "color": "red",
+     "bold": true
+    },
+    "? It will be your partner from today. ",
+    {
+     "text": "This choice cannot be changed.",
+     "color": "gray"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Yes, Chimchar!",
+     "next": "d_chimchar"
+    },
+    {
+     "text": "Let me think",
+     "next": "r_sinnoh"
+    }
+   ]
+  },
+  "d_chimchar": {
+   "type": "end_dialogue",
+   "text": "",
+   "choices": [],
+   "action": {
+    "type": "blabber:command",
+    "value": "function quantum:profesor/dar/chimchar"
+   }
+  },
+  "c_piplup": {
+   "text": [
+    "",
+    "Are you sure you want ",
+    {
+     "text": "Piplup",
+     "color": "aqua",
+     "bold": true
+    },
+    "? It will be your partner from today. ",
+    {
+     "text": "This choice cannot be changed.",
+     "color": "gray"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Yes, Piplup!",
+     "next": "d_piplup"
+    },
+    {
+     "text": "Let me think",
+     "next": "r_sinnoh"
+    }
+   ]
+  },
+  "d_piplup": {
+   "type": "end_dialogue",
+   "text": "",
+   "choices": [],
+   "action": {
+    "type": "blabber:command",
+    "value": "function quantum:profesor/dar/piplup"
+   }
+  },
+  "r_teselia": {
+   "text": [
+    "",
+    {
+     "text": "Unova. ",
+     "color": "yellow"
+    },
+    "Good choice. These are its three starters, take your time:"
+   ],
+   "choices": [
+    {
+     "text": [
+      "",
+      {
+       "text": "Snivy",
+       "color": "green"
+      },
+      {
+       "text": "  (Grass)",
+       "color": "gray"
+      }
+     ],
+     "next": "c_snivy"
+    },
+    {
+     "text": [
+      "",
+      {
+       "text": "Tepig",
+       "color": "red"
+      },
+      {
+       "text": "  (Fire)",
+       "color": "gray"
+      }
+     ],
+     "next": "c_tepig"
+    },
+    {
+     "text": [
+      "",
+      {
+       "text": "Oshawott",
+       "color": "aqua"
+      },
+      {
+       "text": "  (Water)",
+       "color": "gray"
+      }
+     ],
+     "next": "c_oshawott"
+    },
+    {
+     "text": "← Another region",
+     "next": "region"
+    }
+   ]
+  },
+  "c_snivy": {
+   "text": [
+    "",
+    "Are you sure you want ",
+    {
+     "text": "Snivy",
+     "color": "green",
+     "bold": true
+    },
+    "? It will be your partner from today. ",
+    {
+     "text": "This choice cannot be changed.",
+     "color": "gray"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Yes, Snivy!",
+     "next": "d_snivy"
+    },
+    {
+     "text": "Let me think",
+     "next": "r_teselia"
+    }
+   ]
+  },
+  "d_snivy": {
+   "type": "end_dialogue",
+   "text": "",
+   "choices": [],
+   "action": {
+    "type": "blabber:command",
+    "value": "function quantum:profesor/dar/snivy"
+   }
+  },
+  "c_tepig": {
+   "text": [
+    "",
+    "Are you sure you want ",
+    {
+     "text": "Tepig",
+     "color": "red",
+     "bold": true
+    },
+    "? It will be your partner from today. ",
+    {
+     "text": "This choice cannot be changed.",
+     "color": "gray"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Yes, Tepig!",
+     "next": "d_tepig"
+    },
+    {
+     "text": "Let me think",
+     "next": "r_teselia"
+    }
+   ]
+  },
+  "d_tepig": {
+   "type": "end_dialogue",
+   "text": "",
+   "choices": [],
+   "action": {
+    "type": "blabber:command",
+    "value": "function quantum:profesor/dar/tepig"
+   }
+  },
+  "c_oshawott": {
+   "text": [
+    "",
+    "Are you sure you want ",
+    {
+     "text": "Oshawott",
+     "color": "aqua",
+     "bold": true
+    },
+    "? It will be your partner from today. ",
+    {
+     "text": "This choice cannot be changed.",
+     "color": "gray"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Yes, Oshawott!",
+     "next": "d_oshawott"
+    },
+    {
+     "text": "Let me think",
+     "next": "r_teselia"
+    }
+   ]
+  },
+  "d_oshawott": {
+   "type": "end_dialogue",
+   "text": "",
+   "choices": [],
+   "action": {
+    "type": "blabber:command",
+    "value": "function quantum:profesor/dar/oshawott"
+   }
+  },
+  "r_kalos": {
+   "text": [
+    "",
+    {
+     "text": "Kalos. ",
+     "color": "yellow"
+    },
+    "Good choice. These are its three starters, take your time:"
+   ],
+   "choices": [
+    {
+     "text": [
+      "",
+      {
+       "text": "Chespin",
+       "color": "green"
+      },
+      {
+       "text": "  (Grass)",
+       "color": "gray"
+      }
+     ],
+     "next": "c_chespin"
+    },
+    {
+     "text": [
+      "",
+      {
+       "text": "Fennekin",
+       "color": "red"
+      },
+      {
+       "text": "  (Fire)",
+       "color": "gray"
+      }
+     ],
+     "next": "c_fennekin"
+    },
+    {
+     "text": [
+      "",
+      {
+       "text": "Froakie",
+       "color": "aqua"
+      },
+      {
+       "text": "  (Water)",
+       "color": "gray"
+      }
+     ],
+     "next": "c_froakie"
+    },
+    {
+     "text": "← Another region",
+     "next": "region"
+    }
+   ]
+  },
+  "c_chespin": {
+   "text": [
+    "",
+    "Are you sure you want ",
+    {
+     "text": "Chespin",
+     "color": "green",
+     "bold": true
+    },
+    "? It will be your partner from today. ",
+    {
+     "text": "This choice cannot be changed.",
+     "color": "gray"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Yes, Chespin!",
+     "next": "d_chespin"
+    },
+    {
+     "text": "Let me think",
+     "next": "r_kalos"
+    }
+   ]
+  },
+  "d_chespin": {
+   "type": "end_dialogue",
+   "text": "",
+   "choices": [],
+   "action": {
+    "type": "blabber:command",
+    "value": "function quantum:profesor/dar/chespin"
+   }
+  },
+  "c_fennekin": {
+   "text": [
+    "",
+    "Are you sure you want ",
+    {
+     "text": "Fennekin",
+     "color": "red",
+     "bold": true
+    },
+    "? It will be your partner from today. ",
+    {
+     "text": "This choice cannot be changed.",
+     "color": "gray"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Yes, Fennekin!",
+     "next": "d_fennekin"
+    },
+    {
+     "text": "Let me think",
+     "next": "r_kalos"
+    }
+   ]
+  },
+  "d_fennekin": {
+   "type": "end_dialogue",
+   "text": "",
+   "choices": [],
+   "action": {
+    "type": "blabber:command",
+    "value": "function quantum:profesor/dar/fennekin"
+   }
+  },
+  "c_froakie": {
+   "text": [
+    "",
+    "Are you sure you want ",
+    {
+     "text": "Froakie",
+     "color": "aqua",
+     "bold": true
+    },
+    "? It will be your partner from today. ",
+    {
+     "text": "This choice cannot be changed.",
+     "color": "gray"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Yes, Froakie!",
+     "next": "d_froakie"
+    },
+    {
+     "text": "Let me think",
+     "next": "r_kalos"
+    }
+   ]
+  },
+  "d_froakie": {
+   "type": "end_dialogue",
+   "text": "",
+   "choices": [],
+   "action": {
+    "type": "blabber:command",
+    "value": "function quantum:profesor/dar/froakie"
+   }
+  },
+  "r_alola": {
+   "text": [
+    "",
+    {
+     "text": "Alola. ",
+     "color": "yellow"
+    },
+    "Good choice. These are its three starters, take your time:"
+   ],
+   "choices": [
+    {
+     "text": [
+      "",
+      {
+       "text": "Rowlet",
+       "color": "green"
+      },
+      {
+       "text": "  (Grass)",
+       "color": "gray"
+      }
+     ],
+     "next": "c_rowlet"
+    },
+    {
+     "text": [
+      "",
+      {
+       "text": "Litten",
+       "color": "red"
+      },
+      {
+       "text": "  (Fire)",
+       "color": "gray"
+      }
+     ],
+     "next": "c_litten"
+    },
+    {
+     "text": [
+      "",
+      {
+       "text": "Popplio",
+       "color": "aqua"
+      },
+      {
+       "text": "  (Water)",
+       "color": "gray"
+      }
+     ],
+     "next": "c_popplio"
+    },
+    {
+     "text": "← Another region",
+     "next": "region"
+    }
+   ]
+  },
+  "c_rowlet": {
+   "text": [
+    "",
+    "Are you sure you want ",
+    {
+     "text": "Rowlet",
+     "color": "green",
+     "bold": true
+    },
+    "? It will be your partner from today. ",
+    {
+     "text": "This choice cannot be changed.",
+     "color": "gray"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Yes, Rowlet!",
+     "next": "d_rowlet"
+    },
+    {
+     "text": "Let me think",
+     "next": "r_alola"
+    }
+   ]
+  },
+  "d_rowlet": {
+   "type": "end_dialogue",
+   "text": "",
+   "choices": [],
+   "action": {
+    "type": "blabber:command",
+    "value": "function quantum:profesor/dar/rowlet"
+   }
+  },
+  "c_litten": {
+   "text": [
+    "",
+    "Are you sure you want ",
+    {
+     "text": "Litten",
+     "color": "red",
+     "bold": true
+    },
+    "? It will be your partner from today. ",
+    {
+     "text": "This choice cannot be changed.",
+     "color": "gray"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Yes, Litten!",
+     "next": "d_litten"
+    },
+    {
+     "text": "Let me think",
+     "next": "r_alola"
+    }
+   ]
+  },
+  "d_litten": {
+   "type": "end_dialogue",
+   "text": "",
+   "choices": [],
+   "action": {
+    "type": "blabber:command",
+    "value": "function quantum:profesor/dar/litten"
+   }
+  },
+  "c_popplio": {
+   "text": [
+    "",
+    "Are you sure you want ",
+    {
+     "text": "Popplio",
+     "color": "aqua",
+     "bold": true
+    },
+    "? It will be your partner from today. ",
+    {
+     "text": "This choice cannot be changed.",
+     "color": "gray"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Yes, Popplio!",
+     "next": "d_popplio"
+    },
+    {
+     "text": "Let me think",
+     "next": "r_alola"
+    }
+   ]
+  },
+  "d_popplio": {
+   "type": "end_dialogue",
+   "text": "",
+   "choices": [],
+   "action": {
+    "type": "blabber:command",
+    "value": "function quantum:profesor/dar/popplio"
+   }
+  },
+  "r_galar": {
+   "text": [
+    "",
+    {
+     "text": "Galar. ",
+     "color": "yellow"
+    },
+    "Good choice. These are its three starters, take your time:"
+   ],
+   "choices": [
+    {
+     "text": [
+      "",
+      {
+       "text": "Grookey",
+       "color": "green"
+      },
+      {
+       "text": "  (Grass)",
+       "color": "gray"
+      }
+     ],
+     "next": "c_grookey"
+    },
+    {
+     "text": [
+      "",
+      {
+       "text": "Scorbunny",
+       "color": "red"
+      },
+      {
+       "text": "  (Fire)",
+       "color": "gray"
+      }
+     ],
+     "next": "c_scorbunny"
+    },
+    {
+     "text": [
+      "",
+      {
+       "text": "Sobble",
+       "color": "aqua"
+      },
+      {
+       "text": "  (Water)",
+       "color": "gray"
+      }
+     ],
+     "next": "c_sobble"
+    },
+    {
+     "text": "← Another region",
+     "next": "region"
+    }
+   ]
+  },
+  "c_grookey": {
+   "text": [
+    "",
+    "Are you sure you want ",
+    {
+     "text": "Grookey",
+     "color": "green",
+     "bold": true
+    },
+    "? It will be your partner from today. ",
+    {
+     "text": "This choice cannot be changed.",
+     "color": "gray"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Yes, Grookey!",
+     "next": "d_grookey"
+    },
+    {
+     "text": "Let me think",
+     "next": "r_galar"
+    }
+   ]
+  },
+  "d_grookey": {
+   "type": "end_dialogue",
+   "text": "",
+   "choices": [],
+   "action": {
+    "type": "blabber:command",
+    "value": "function quantum:profesor/dar/grookey"
+   }
+  },
+  "c_scorbunny": {
+   "text": [
+    "",
+    "Are you sure you want ",
+    {
+     "text": "Scorbunny",
+     "color": "red",
+     "bold": true
+    },
+    "? It will be your partner from today. ",
+    {
+     "text": "This choice cannot be changed.",
+     "color": "gray"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Yes, Scorbunny!",
+     "next": "d_scorbunny"
+    },
+    {
+     "text": "Let me think",
+     "next": "r_galar"
+    }
+   ]
+  },
+  "d_scorbunny": {
+   "type": "end_dialogue",
+   "text": "",
+   "choices": [],
+   "action": {
+    "type": "blabber:command",
+    "value": "function quantum:profesor/dar/scorbunny"
+   }
+  },
+  "c_sobble": {
+   "text": [
+    "",
+    "Are you sure you want ",
+    {
+     "text": "Sobble",
+     "color": "aqua",
+     "bold": true
+    },
+    "? It will be your partner from today. ",
+    {
+     "text": "This choice cannot be changed.",
+     "color": "gray"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Yes, Sobble!",
+     "next": "d_sobble"
+    },
+    {
+     "text": "Let me think",
+     "next": "r_galar"
+    }
+   ]
+  },
+  "d_sobble": {
+   "type": "end_dialogue",
+   "text": "",
+   "choices": [],
+   "action": {
+    "type": "blabber:command",
+    "value": "function quantum:profesor/dar/sobble"
+   }
+  },
+  "r_paldea": {
+   "text": [
+    "",
+    {
+     "text": "Paldea. ",
+     "color": "yellow"
+    },
+    "Good choice. These are its three starters, take your time:"
+   ],
+   "choices": [
+    {
+     "text": [
+      "",
+      {
+       "text": "Sprigatito",
+       "color": "green"
+      },
+      {
+       "text": "  (Grass)",
+       "color": "gray"
+      }
+     ],
+     "next": "c_sprigatito"
+    },
+    {
+     "text": [
+      "",
+      {
+       "text": "Fuecoco",
+       "color": "red"
+      },
+      {
+       "text": "  (Fire)",
+       "color": "gray"
+      }
+     ],
+     "next": "c_fuecoco"
+    },
+    {
+     "text": [
+      "",
+      {
+       "text": "Quaxly",
+       "color": "aqua"
+      },
+      {
+       "text": "  (Water)",
+       "color": "gray"
+      }
+     ],
+     "next": "c_quaxly"
+    },
+    {
+     "text": "← Another region",
+     "next": "region"
+    }
+   ]
+  },
+  "c_sprigatito": {
+   "text": [
+    "",
+    "Are you sure you want ",
+    {
+     "text": "Sprigatito",
+     "color": "green",
+     "bold": true
+    },
+    "? It will be your partner from today. ",
+    {
+     "text": "This choice cannot be changed.",
+     "color": "gray"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Yes, Sprigatito!",
+     "next": "d_sprigatito"
+    },
+    {
+     "text": "Let me think",
+     "next": "r_paldea"
+    }
+   ]
+  },
+  "d_sprigatito": {
+   "type": "end_dialogue",
+   "text": "",
+   "choices": [],
+   "action": {
+    "type": "blabber:command",
+    "value": "function quantum:profesor/dar/sprigatito"
+   }
+  },
+  "c_fuecoco": {
+   "text": [
+    "",
+    "Are you sure you want ",
+    {
+     "text": "Fuecoco",
+     "color": "red",
+     "bold": true
+    },
+    "? It will be your partner from today. ",
+    {
+     "text": "This choice cannot be changed.",
+     "color": "gray"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Yes, Fuecoco!",
+     "next": "d_fuecoco"
+    },
+    {
+     "text": "Let me think",
+     "next": "r_paldea"
+    }
+   ]
+  },
+  "d_fuecoco": {
+   "type": "end_dialogue",
+   "text": "",
+   "choices": [],
+   "action": {
+    "type": "blabber:command",
+    "value": "function quantum:profesor/dar/fuecoco"
+   }
+  },
+  "c_quaxly": {
+   "text": [
+    "",
+    "Are you sure you want ",
+    {
+     "text": "Quaxly",
+     "color": "aqua",
+     "bold": true
+    },
+    "? It will be your partner from today. ",
+    {
+     "text": "This choice cannot be changed.",
+     "color": "gray"
+    }
+   ],
+   "choices": [
+    {
+     "text": "Yes, Quaxly!",
+     "next": "d_quaxly"
+    },
+    {
+     "text": "Let me think",
+     "next": "r_paldea"
+    }
+   ]
+  },
+  "d_quaxly": {
+   "type": "end_dialogue",
+   "text": "",
+   "choices": [],
+   "action": {
+    "type": "blabber:command",
+    "value": "function quantum:profesor/dar/quaxly"
+   }
+  }
+ }
+}

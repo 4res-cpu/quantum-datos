@@ -1,0 +1,30 @@
+{
+ "start_at": "a",
+ "layout": {
+  "type": "blabber:rpg"
+ },
+ "states": {
+  "a": {
+   "text": [
+    "",
+    "How is your partner doing? Take good care of it. When you want to explore, use your ",
+    {
+     "text": "compass",
+     "color": "aqua"
+    },
+    "."
+   ],
+   "choices": [
+    {
+     "text": "Thanks, Professor!",
+     "next": "fin"
+    }
+   ]
+  },
+  "fin": {
+   "type": "end_dialogue",
+   "text": "",
+   "choices": []
+  }
+ }
+}
