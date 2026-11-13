@@ -1,19 +1,19 @@
 {
   "_comentario": "Lo lee el launcher al abrirse.",
   "modpack": {
-    "version": "network-0.1.6",
+    "version": "network-0.1.7",
     "nombre": "Quantum Network",
     "minecraft": "1.21.1",
     "fabricLoader": "0.19.5",
-    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.1.6.mrpack",
-    "size": 372722,
-    "sha1": "de96ec3f3ffa7f2f22eb797fdc812d44be15d538",
-    "sha512": "e2cce9f1d506fba866d210f298669464ac6842b7ed6770eae7892ba731eadeeeb62433a4602bc48bd2dd472705b30ff246b29e7b3bae1fe551486bf40daa278b",
-    "publicado": "2026-11-12T20:00:00.000Z",
-    "nota": "Axiom, título de ventana corregido."
+    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.1.7.mrpack",
+    "size": 393842,
+    "sha1": "af58a76d9468fa3c1b4158351bd0fa68a7ccb6e3",
+    "sha512": "909ee2ec685ed24072223ff4b09fc31eaf4428eafb41b6dea5b3bd06e03756e27b7ad9deffbb344da33e127111696b26af264db216cbdad7a88a00b1688f07b8",
+    "publicado": "2026-11-13T00:30:00.000Z",
+    "nota": "Easy NPC, logo nuevo, insignias de rango."
   },
   "launcher": {
-    "version": "1.4.0",
+    "version": "1.4.1",
     "descarga": "https://github.com/4res-cpu/quantum-launcher/releases/latest"
   }
 }
