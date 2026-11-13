@@ -10,7 +10,7 @@ Con esta carpeta se puede montar el servidor en cualquier host.
 6. Lobby: copiar region, entities y poi de FINAL_Lobby_2026-11-07.zip (carpeta mundo/)
    a /cobblemon/dimensions/quantum/lobby/.
 7. server-icon.png a la raiz. En server.properties:
-   resource-pack=https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/recursos/QuantumRangos.zip
+   resource-pack=https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/recursos/QuantumRangos2.zip
    require-resource-pack=true
 
 Como admin, una sola vez:
@@ -25,3 +25,11 @@ Otros:
   /function quantum:grietas/borrar           borra las grietas del cielo (se recrean al pasar por la plaza)
 Los jugadores viajan con la brujula "Menu Quantum" (clic derecho). No hay comandos para ellos.
 Zonas llanas de Quanta para construir: ver mundo/quanta2/zonas.json (nombre, x, y, z, radio).
+
+Mod propio (mods_propios/quantumnet-*.jar, va en /mods del servidor; codigo en la carpeta mod/ del repositorio):
+  /idioma  /language      elegir idioma (es, en, pt); se pregunta solo la primera vez
+  /cosmeticos /cosmetics  particulas por rango (VIP, VIP+, MVP, MVP+, staff)
+  /staff                  panel de staff: ir, congelar, silenciar, expulsar, banear, historial
+  En el lobby se retiran solos los Pokemon que alguien saque.
+Carteles flotantes del lobby (parate donde lo quieras):
+  /function quantum:lobby/holo/bienvenida | cobblemon | skywars | duels | buildbattle | quitar
