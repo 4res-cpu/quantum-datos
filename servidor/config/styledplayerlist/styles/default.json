@@ -59,8 +59,8 @@
   "values": [
    [
     "",
-    "<color:#847d9e>/trigger lobby  ·  /trigger quanta  ·  /trigger survival</color>",
-    "<color:#c77dff>Legendarios cada 1h 30m</color>  <color:#847d9e>·</color>  <color:#b9b3cc>/spawnevent</color>",
+    "<color:#847d9e>Próximo legendario en</color> <color:#ffd43b>%player:objective qn_leg% min</color>",
+    "<color:#847d9e>Viaja con tu</color> <color:#4cc9f0>brújula</color>  <color:#847d9e>·</color>  <color:#b9b3cc>Mundo Survival ±10.000 bloques</color>",
     ""
    ]
   ]

@@ -24,11 +24,11 @@
      "color": "#b57bff",
      "bold": true
     },
-    ", la region donde todo empieza."
+    ", la región donde todo empieza."
    ],
    "choices": [
     {
-     "text": "¿Que es este lugar?",
+     "text": "¿Qué es este lugar?",
      "next": "lore"
     },
     {
@@ -45,7 +45,7 @@
      "text": "Fractura",
      "color": "#b57bff"
     },
-    " rasgo el cielo de Quanta. Desde entonces aparecen Pokémon de todas las regiones... y algunos legendarios cada cierto tiempo. Necesitamos entrenadores que nos ayuden a entenderla."
+    " rasgó el cielo de Quanta. Mira hacia arriba: esas grietas siguen abiertas. Por ellas llegan Pokémon de todas las regiones... y a veces, legendarios. Necesitamos entrenadores que nos ayuden a entenderla."
    ],
    "choices": [
     {
@@ -59,7 +59,7 @@
     "",
     "Cada entrenador empieza con un compañero. ",
     {
-     "text": "¿De que region quieres que sea?",
+     "text": "¿De qué región quieres que sea?",
      "color": "yellow"
     }
    ],
@@ -102,9 +102,6 @@
     }
    ]
   },
-  "adios": {
-   "type": "end_dialogue"
-  },
   "r_kanto": {
    "text": [
     "",
@@ -112,7 +109,7 @@
      "text": "Kanto. ",
      "color": "yellow"
     },
-    "Buena eleccion. Estos son sus tres iniciales, elige con calma:"
+    "Buena elección. Estos son sus tres iniciales, elige con calma:"
    ],
    "choices": [
     {
@@ -158,9 +155,14 @@
      "next": "c_squirtle"
     },
     {
-     "text": "← Otra region",
+     "text": "← Otra región",
      "next": "region"
     }
+   ],
+   "illustrations": [
+    "bulbasaur_t",
+    "charmander_t",
+    "squirtle_t"
    ]
   },
   "c_bulbasaur": {
@@ -172,28 +174,33 @@
      "color": "green",
      "bold": true
     },
-    "? Sera tu compañero desde hoy. ",
+    "? Será tu compañero desde hoy. ",
     {
-     "text": "Esta decision no se puede cambiar.",
+     "text": "Esta decisión no se puede cambiar.",
      "color": "gray"
     }
    ],
    "choices": [
     {
-     "text": "¡Si, Bulbasaur!",
+     "text": "¡Sí, Bulbasaur!",
      "next": "d_bulbasaur"
     },
     {
-     "text": "Dejame pensarlo",
+     "text": "Déjame pensarlo",
      "next": "r_kanto"
     }
+   ],
+   "illustrations": [
+    "bulbasaur_s"
    ]
   },
   "d_bulbasaur": {
    "type": "end_dialogue",
+   "text": "",
+   "choices": [],
    "action": {
     "type": "blabber:command",
-    "value": "/function quantum:profesor/dar/bulbasaur"
+    "value": "function quantum:profesor/dar/bulbasaur"
    }
   },
   "c_charmander": {
@@ -205,28 +212,33 @@
      "color": "red",
      "bold": true
     },
-    "? Sera tu compañero desde hoy. ",
+    "? Será tu compañero desde hoy. ",
     {
-     "text": "Esta decision no se puede cambiar.",
+     "text": "Esta decisión no se puede cambiar.",
      "color": "gray"
     }
    ],
    "choices": [
     {
-     "text": "¡Si, Charmander!",
+     "text": "¡Sí, Charmander!",
      "next": "d_charmander"
     },
     {
-     "text": "Dejame pensarlo",
+     "text": "Déjame pensarlo",
      "next": "r_kanto"
     }
+   ],
+   "illustrations": [
+    "charmander_s"
    ]
   },
   "d_charmander": {
    "type": "end_dialogue",
+   "text": "",
+   "choices": [],
    "action": {
     "type": "blabber:command",
-    "value": "/function quantum:profesor/dar/charmander"
+    "value": "function quantum:profesor/dar/charmander"
    }
   },
   "c_squirtle": {
@@ -238,28 +250,33 @@
      "color": "aqua",
      "bold": true
     },
-    "? Sera tu compañero desde hoy. ",
+    "? Será tu compañero desde hoy. ",
     {
-     "text": "Esta decision no se puede cambiar.",
+     "text": "Esta decisión no se puede cambiar.",
      "color": "gray"
     }
    ],
    "choices": [
     {
-     "text": "¡Si, Squirtle!",
+     "text": "¡Sí, Squirtle!",
      "next": "d_squirtle"
     },
     {
-     "text": "Dejame pensarlo",
+     "text": "Déjame pensarlo",
      "next": "r_kanto"
     }
+   ],
+   "illustrations": [
+    "squirtle_s"
    ]
   },
   "d_squirtle": {
    "type": "end_dialogue",
+   "text": "",
+   "choices": [],
    "action": {
     "type": "blabber:command",
-    "value": "/function quantum:profesor/dar/squirtle"
+    "value": "function quantum:profesor/dar/squirtle"
    }
   },
   "r_johto": {
@@ -269,7 +286,7 @@
      "text": "Johto. ",
      "color": "yellow"
     },
-    "Buena eleccion. Estos son sus tres iniciales, elige con calma:"
+    "Buena elección. Estos son sus tres iniciales, elige con calma:"
    ],
    "choices": [
     {
@@ -315,9 +332,14 @@
      "next": "c_totodile"
     },
     {
-     "text": "← Otra region",
+     "text": "← Otra región",
      "next": "region"
     }
+   ],
+   "illustrations": [
+    "chikorita_t",
+    "cyndaquil_t",
+    "totodile_t"
    ]
   },
   "c_chikorita": {
@@ -329,28 +351,33 @@
      "color": "green",
      "bold": true
     },
-    "? Sera tu compañero desde hoy. ",
+    "? Será tu compañero desde hoy. ",
     {
-     "text": "Esta decision no se puede cambiar.",
+     "text": "Esta decisión no se puede cambiar.",
      "color": "gray"
     }
    ],
    "choices": [
     {
-     "text": "¡Si, Chikorita!",
+     "text": "¡Sí, Chikorita!",
      "next": "d_chikorita"
     },
     {
-     "text": "Dejame pensarlo",
+     "text": "Déjame pensarlo",
      "next": "r_johto"
     }
+   ],
+   "illustrations": [
+    "chikorita_s"
    ]
   },
   "d_chikorita": {
    "type": "end_dialogue",
+   "text": "",
+   "choices": [],
    "action": {
     "type": "blabber:command",
-    "value": "/function quantum:profesor/dar/chikorita"
+    "value": "function quantum:profesor/dar/chikorita"
    }
   },
   "c_cyndaquil": {
@@ -362,28 +389,33 @@
      "color": "red",
      "bold": true
     },
-    "? Sera tu compañero desde hoy. ",
+    "? Será tu compañero desde hoy. ",
     {
-     "text": "Esta decision no se puede cambiar.",
+     "text": "Esta decisión no se puede cambiar.",
      "color": "gray"
     }
    ],
    "choices": [
     {
-     "text": "¡Si, Cyndaquil!",
+     "text": "¡Sí, Cyndaquil!",
      "next": "d_cyndaquil"
     },
     {
-     "text": "Dejame pensarlo",
+     "text": "Déjame pensarlo",
      "next": "r_johto"
     }
+   ],
+   "illustrations": [
+    "cyndaquil_s"
    ]
   },
   "d_cyndaquil": {
    "type": "end_dialogue",
+   "text": "",
+   "choices": [],
    "action": {
     "type": "blabber:command",
-    "value": "/function quantum:profesor/dar/cyndaquil"
+    "value": "function quantum:profesor/dar/cyndaquil"
    }
   },
   "c_totodile": {
@@ -395,28 +427,33 @@
      "color": "aqua",
      "bold": true
     },
-    "? Sera tu compañero desde hoy. ",
+    "? Será tu compañero desde hoy. ",
     {
-     "text": "Esta decision no se puede cambiar.",
+     "text": "Esta decisión no se puede cambiar.",
      "color": "gray"
     }
    ],
    "choices": [
     {
-     "text": "¡Si, Totodile!",
+     "text": "¡Sí, Totodile!",
      "next": "d_totodile"
     },
     {
-     "text": "Dejame pensarlo",
+     "text": "Déjame pensarlo",
      "next": "r_johto"
     }
+   ],
+   "illustrations": [
+    "totodile_s"
    ]
   },
   "d_totodile": {
    "type": "end_dialogue",
+   "text": "",
+   "choices": [],
    "action": {
     "type": "blabber:command",
-    "value": "/function quantum:profesor/dar/totodile"
+    "value": "function quantum:profesor/dar/totodile"
    }
   },
   "r_hoenn": {
@@ -426,7 +463,7 @@
      "text": "Hoenn. ",
      "color": "yellow"
     },
-    "Buena eleccion. Estos son sus tres iniciales, elige con calma:"
+    "Buena elección. Estos son sus tres iniciales, elige con calma:"
    ],
    "choices": [
     {
@@ -472,9 +509,14 @@
      "next": "c_mudkip"
     },
     {
-     "text": "← Otra region",
+     "text": "← Otra región",
      "next": "region"
     }
+   ],
+   "illustrations": [
+    "treecko_t",
+    "torchic_t",
+    "mudkip_t"
    ]
   },
   "c_treecko": {
@@ -486,28 +528,33 @@
      "color": "green",
      "bold": true
     },
-    "? Sera tu compañero desde hoy. ",
+    "? Será tu compañero desde hoy. ",
     {
-     "text": "Esta decision no se puede cambiar.",
+     "text": "Esta decisión no se puede cambiar.",
      "color": "gray"
     }
    ],
    "choices": [
     {
-     "text": "¡Si, Treecko!",
+     "text": "¡Sí, Treecko!",
      "next": "d_treecko"
     },
     {
-     "text": "Dejame pensarlo",
+     "text": "Déjame pensarlo",
      "next": "r_hoenn"
     }
+   ],
+   "illustrations": [
+    "treecko_s"
    ]
   },
   "d_treecko": {
    "type": "end_dialogue",
+   "text": "",
+   "choices": [],
    "action": {
     "type": "blabber:command",
-    "value": "/function quantum:profesor/dar/treecko"
+    "value": "function quantum:profesor/dar/treecko"
    }
   },
   "c_torchic": {
@@ -519,28 +566,33 @@
      "color": "red",
      "bold": true
     },
-    "? Sera tu compañero desde hoy. ",
+    "? Será tu compañero desde hoy. ",
     {
-     "text": "Esta decision no se puede cambiar.",
+     "text": "Esta decisión no se puede cambiar.",
      "color": "gray"
     }
    ],
    "choices": [
     {
-     "text": "¡Si, Torchic!",
+     "text": "¡Sí, Torchic!",
      "next": "d_torchic"
     },
     {
-     "text": "Dejame pensarlo",
+     "text": "Déjame pensarlo",
      "next": "r_hoenn"
     }
+   ],
+   "illustrations": [
+    "torchic_s"
    ]
   },
   "d_torchic": {
    "type": "end_dialogue",
+   "text": "",
+   "choices": [],
    "action": {
     "type": "blabber:command",
-    "value": "/function quantum:profesor/dar/torchic"
+    "value": "function quantum:profesor/dar/torchic"
    }
   },
   "c_mudkip": {
@@ -552,28 +604,33 @@
      "color": "aqua",
      "bold": true
     },
-    "? Sera tu compañero desde hoy. ",
+    "? Será tu compañero desde hoy. ",
     {
-     "text": "Esta decision no se puede cambiar.",
+     "text": "Esta decisión no se puede cambiar.",
      "color": "gray"
     }
    ],
    "choices": [
     {
-     "text": "¡Si, Mudkip!",
+     "text": "¡Sí, Mudkip!",
      "next": "d_mudkip"
     },
     {
-     "text": "Dejame pensarlo",
+     "text": "Déjame pensarlo",
      "next": "r_hoenn"
     }
+   ],
+   "illustrations": [
+    "mudkip_s"
    ]
   },
   "d_mudkip": {
    "type": "end_dialogue",
+   "text": "",
+   "choices": [],
    "action": {
     "type": "blabber:command",
-    "value": "/function quantum:profesor/dar/mudkip"
+    "value": "function quantum:profesor/dar/mudkip"
    }
   },
   "r_sinnoh": {
@@ -583,7 +640,7 @@
      "text": "Sinnoh. ",
      "color": "yellow"
     },
-    "Buena eleccion. Estos son sus tres iniciales, elige con calma:"
+    "Buena elección. Estos son sus tres iniciales, elige con calma:"
    ],
    "choices": [
     {
@@ -629,9 +686,14 @@
      "next": "c_piplup"
     },
     {
-     "text": "← Otra region",
+     "text": "← Otra región",
      "next": "region"
     }
+   ],
+   "illustrations": [
+    "turtwig_t",
+    "chimchar_t",
+    "piplup_t"
    ]
   },
   "c_turtwig": {
@@ -643,28 +705,33 @@
      "color": "green",
      "bold": true
     },
-    "? Sera tu compañero desde hoy. ",
+    "? Será tu compañero desde hoy. ",
     {
-     "text": "Esta decision no se puede cambiar.",
+     "text": "Esta decisión no se puede cambiar.",
      "color": "gray"
     }
    ],
    "choices": [
     {
-     "text": "¡Si, Turtwig!",
+     "text": "¡Sí, Turtwig!",
      "next": "d_turtwig"
     },
     {
-     "text": "Dejame pensarlo",
+     "text": "Déjame pensarlo",
      "next": "r_sinnoh"
     }
+   ],
+   "illustrations": [
+    "turtwig_s"
    ]
   },
   "d_turtwig": {
    "type": "end_dialogue",
+   "text": "",
+   "choices": [],
    "action": {
     "type": "blabber:command",
-    "value": "/function quantum:profesor/dar/turtwig"
+    "value": "function quantum:profesor/dar/turtwig"
    }
   },
   "c_chimchar": {
@@ -676,28 +743,33 @@
      "color": "red",
      "bold": true
     },
-    "? Sera tu compañero desde hoy. ",
+    "? Será tu compañero desde hoy. ",
     {
-     "text": "Esta decision no se puede cambiar.",
+     "text": "Esta decisión no se puede cambiar.",
      "color": "gray"
     }
    ],
    "choices": [
     {
-     "text": "¡Si, Chimchar!",
+     "text": "¡Sí, Chimchar!",
      "next": "d_chimchar"
     },
     {
-     "text": "Dejame pensarlo",
+     "text": "Déjame pensarlo",
      "next": "r_sinnoh"
     }
+   ],
+   "illustrations": [
+    "chimchar_s"
    ]
   },
   "d_chimchar": {
    "type": "end_dialogue",
+   "text": "",
+   "choices": [],
    "action": {
     "type": "blabber:command",
-    "value": "/function quantum:profesor/dar/chimchar"
+    "value": "function quantum:profesor/dar/chimchar"
    }
   },
   "c_piplup": {
@@ -709,28 +781,33 @@
      "color": "aqua",
      "bold": true
     },
-    "? Sera tu compañero desde hoy. ",
+    "? Será tu compañero desde hoy. ",
     {
-     "text": "Esta decision no se puede cambiar.",
+     "text": "Esta decisión no se puede cambiar.",
      "color": "gray"
     }
    ],
    "choices": [
     {
-     "text": "¡Si, Piplup!",
+     "text": "¡Sí, Piplup!",
      "next": "d_piplup"
     },
     {
-     "text": "Dejame pensarlo",
+     "text": "Déjame pensarlo",
      "next": "r_sinnoh"
     }
+   ],
+   "illustrations": [
+    "piplup_s"
    ]
   },
   "d_piplup": {
    "type": "end_dialogue",
+   "text": "",
+   "choices": [],
    "action": {
     "type": "blabber:command",
-    "value": "/function quantum:profesor/dar/piplup"
+    "value": "function quantum:profesor/dar/piplup"
    }
   },
   "r_teselia": {
@@ -740,7 +817,7 @@
      "text": "Teselia. ",
      "color": "yellow"
     },
-    "Buena eleccion. Estos son sus tres iniciales, elige con calma:"
+    "Buena elección. Estos son sus tres iniciales, elige con calma:"
    ],
    "choices": [
     {
@@ -786,9 +863,14 @@
      "next": "c_oshawott"
     },
     {
-     "text": "← Otra region",
+     "text": "← Otra región",
      "next": "region"
     }
+   ],
+   "illustrations": [
+    "snivy_t",
+    "tepig_t",
+    "oshawott_t"
    ]
   },
   "c_snivy": {
@@ -800,28 +882,33 @@
      "color": "green",
      "bold": true
     },
-    "? Sera tu compañero desde hoy. ",
+    "? Será tu compañero desde hoy. ",
     {
-     "text": "Esta decision no se puede cambiar.",
+     "text": "Esta decisión no se puede cambiar.",
      "color": "gray"
     }
    ],
    "choices": [
     {
-     "text": "¡Si, Snivy!",
+     "text": "¡Sí, Snivy!",
      "next": "d_snivy"
     },
     {
-     "text": "Dejame pensarlo",
+     "text": "Déjame pensarlo",
      "next": "r_teselia"
     }
+   ],
+   "illustrations": [
+    "snivy_s"
    ]
   },
   "d_snivy": {
    "type": "end_dialogue",
+   "text": "",
+   "choices": [],
    "action": {
     "type": "blabber:command",
-    "value": "/function quantum:profesor/dar/snivy"
+    "value": "function quantum:profesor/dar/snivy"
    }
   },
   "c_tepig": {
@@ -833,28 +920,33 @@
      "color": "red",
      "bold": true
     },
-    "? Sera tu compañero desde hoy. ",
+    "? Será tu compañero desde hoy. ",
     {
-     "text": "Esta decision no se puede cambiar.",
+     "text": "Esta decisión no se puede cambiar.",
      "color": "gray"
     }
    ],
    "choices": [
     {
-     "text": "¡Si, Tepig!",
+     "text": "¡Sí, Tepig!",
      "next": "d_tepig"
     },
     {
-     "text": "Dejame pensarlo",
+     "text": "Déjame pensarlo",
      "next": "r_teselia"
     }
+   ],
+   "illustrations": [
+    "tepig_s"
    ]
   },
   "d_tepig": {
    "type": "end_dialogue",
+   "text": "",
+   "choices": [],
    "action": {
     "type": "blabber:command",
-    "value": "/function quantum:profesor/dar/tepig"
+    "value": "function quantum:profesor/dar/tepig"
    }
   },
   "c_oshawott": {
@@ -866,28 +958,33 @@
      "color": "aqua",
      "bold": true
     },
-    "? Sera tu compañero desde hoy. ",
+    "? Será tu compañero desde hoy. ",
     {
-     "text": "Esta decision no se puede cambiar.",
+     "text": "Esta decisión no se puede cambiar.",
      "color": "gray"
     }
    ],
    "choices": [
     {
-     "text": "¡Si, Oshawott!",
+     "text": "¡Sí, Oshawott!",
      "next": "d_oshawott"
     },
     {
-     "text": "Dejame pensarlo",
+     "text": "Déjame pensarlo",
      "next": "r_teselia"
     }
+   ],
+   "illustrations": [
+    "oshawott_s"
    ]
   },
   "d_oshawott": {
    "type": "end_dialogue",
+   "text": "",
+   "choices": [],
    "action": {
     "type": "blabber:command",
-    "value": "/function quantum:profesor/dar/oshawott"
+    "value": "function quantum:profesor/dar/oshawott"
    }
   },
   "r_kalos": {
@@ -897,7 +994,7 @@
      "text": "Kalos. ",
      "color": "yellow"
     },
-    "Buena eleccion. Estos son sus tres iniciales, elige con calma:"
+    "Buena elección. Estos son sus tres iniciales, elige con calma:"
    ],
    "choices": [
     {
@@ -943,9 +1040,14 @@
      "next": "c_froakie"
     },
     {
-     "text": "← Otra region",
+     "text": "← Otra región",
      "next": "region"
     }
+   ],
+   "illustrations": [
+    "chespin_t",
+    "fennekin_t",
+    "froakie_t"
    ]
   },
   "c_chespin": {
@@ -957,28 +1059,33 @@
      "color": "green",
      "bold": true
     },
-    "? Sera tu compañero desde hoy. ",
+    "? Será tu compañero desde hoy. ",
     {
-     "text": "Esta decision no se puede cambiar.",
+     "text": "Esta decisión no se puede cambiar.",
      "color": "gray"
     }
    ],
    "choices": [
     {
-     "text": "¡Si, Chespin!",
+     "text": "¡Sí, Chespin!",
      "next": "d_chespin"
     },
     {
-     "text": "Dejame pensarlo",
+     "text": "Déjame pensarlo",
      "next": "r_kalos"
     }
+   ],
+   "illustrations": [
+    "chespin_s"
    ]
   },
   "d_chespin": {
    "type": "end_dialogue",
+   "text": "",
+   "choices": [],
    "action": {
     "type": "blabber:command",
-    "value": "/function quantum:profesor/dar/chespin"
+    "value": "function quantum:profesor/dar/chespin"
    }
   },
   "c_fennekin": {
@@ -990,28 +1097,33 @@
      "color": "red",
      "bold": true
     },
-    "? Sera tu compañero desde hoy. ",
+    "? Será tu compañero desde hoy. ",
     {
-     "text": "Esta decision no se puede cambiar.",
+     "text": "Esta decisión no se puede cambiar.",
      "color": "gray"
     }
    ],
    "choices": [
     {
-     "text": "¡Si, Fennekin!",
+     "text": "¡Sí, Fennekin!",
      "next": "d_fennekin"
     },
     {
-     "text": "Dejame pensarlo",
+     "text": "Déjame pensarlo",
      "next": "r_kalos"
     }
+   ],
+   "illustrations": [
+    "fennekin_s"
    ]
   },
   "d_fennekin": {
    "type": "end_dialogue",
+   "text": "",
+   "choices": [],
    "action": {
     "type": "blabber:command",
-    "value": "/function quantum:profesor/dar/fennekin"
+    "value": "function quantum:profesor/dar/fennekin"
    }
   },
   "c_froakie": {
@@ -1023,28 +1135,33 @@
      "color": "aqua",
      "bold": true
     },
-    "? Sera tu compañero desde hoy. ",
+    "? Será tu compañero desde hoy. ",
     {
-     "text": "Esta decision no se puede cambiar.",
+     "text": "Esta decisión no se puede cambiar.",
      "color": "gray"
     }
    ],
    "choices": [
     {
-     "text": "¡Si, Froakie!",
+     "text": "¡Sí, Froakie!",
      "next": "d_froakie"
     },
     {
-     "text": "Dejame pensarlo",
+     "text": "Déjame pensarlo",
      "next": "r_kalos"
     }
+   ],
+   "illustrations": [
+    "froakie_s"
    ]
   },
   "d_froakie": {
    "type": "end_dialogue",
+   "text": "",
+   "choices": [],
    "action": {
     "type": "blabber:command",
-    "value": "/function quantum:profesor/dar/froakie"
+    "value": "function quantum:profesor/dar/froakie"
    }
   },
   "r_alola": {
@@ -1054,7 +1171,7 @@
      "text": "Alola. ",
      "color": "yellow"
     },
-    "Buena eleccion. Estos son sus tres iniciales, elige con calma:"
+    "Buena elección. Estos son sus tres iniciales, elige con calma:"
    ],
    "choices": [
     {
@@ -1100,9 +1217,14 @@
      "next": "c_popplio"
     },
     {
-     "text": "← Otra region",
+     "text": "← Otra región",
      "next": "region"
     }
+   ],
+   "illustrations": [
+    "rowlet_t",
+    "litten_t",
+    "popplio_t"
    ]
   },
   "c_rowlet": {
@@ -1114,28 +1236,33 @@
      "color": "green",
      "bold": true
     },
-    "? Sera tu compañero desde hoy. ",
+    "? Será tu compañero desde hoy. ",
     {
-     "text": "Esta decision no se puede cambiar.",
+     "text": "Esta decisión no se puede cambiar.",
      "color": "gray"
     }
    ],
    "choices": [
     {
-     "text": "¡Si, Rowlet!",
+     "text": "¡Sí, Rowlet!",
      "next": "d_rowlet"
     },
     {
-     "text": "Dejame pensarlo",
+     "text": "Déjame pensarlo",
      "next": "r_alola"
     }
+   ],
+   "illustrations": [
+    "rowlet_s"
    ]
   },
   "d_rowlet": {
    "type": "end_dialogue",
+   "text": "",
+   "choices": [],
    "action": {
     "type": "blabber:command",
-    "value": "/function quantum:profesor/dar/rowlet"
+    "value": "function quantum:profesor/dar/rowlet"
    }
   },
   "c_litten": {
@@ -1147,28 +1274,33 @@
      "color": "red",
      "bold": true
     },
-    "? Sera tu compañero desde hoy. ",
+    "? Será tu compañero desde hoy. ",
     {
-     "text": "Esta decision no se puede cambiar.",
+     "text": "Esta decisión no se puede cambiar.",
      "color": "gray"
     }
    ],
    "choices": [
     {
-     "text": "¡Si, Litten!",
+     "text": "¡Sí, Litten!",
      "next": "d_litten"
     },
     {
-     "text": "Dejame pensarlo",
+     "text": "Déjame pensarlo",
      "next": "r_alola"
     }
+   ],
+   "illustrations": [
+    "litten_s"
    ]
   },
   "d_litten": {
    "type": "end_dialogue",
+   "text": "",
+   "choices": [],
    "action": {
     "type": "blabber:command",
-    "value": "/function quantum:profesor/dar/litten"
+    "value": "function quantum:profesor/dar/litten"
    }
   },
   "c_popplio": {
@@ -1180,28 +1312,33 @@
      "color": "aqua",
      "bold": true
     },
-    "? Sera tu compañero desde hoy. ",
+    "? Será tu compañero desde hoy. ",
     {
-     "text": "Esta decision no se puede cambiar.",
+     "text": "Esta decisión no se puede cambiar.",
      "color": "gray"
     }
    ],
    "choices": [
     {
-     "text": "¡Si, Popplio!",
+     "text": "¡Sí, Popplio!",
      "next": "d_popplio"
     },
     {
-     "text": "Dejame pensarlo",
+     "text": "Déjame pensarlo",
      "next": "r_alola"
     }
+   ],
+   "illustrations": [
+    "popplio_s"
    ]
   },
   "d_popplio": {
    "type": "end_dialogue",
+   "text": "",
+   "choices": [],
    "action": {
     "type": "blabber:command",
-    "value": "/function quantum:profesor/dar/popplio"
+    "value": "function quantum:profesor/dar/popplio"
    }
   },
   "r_galar": {
@@ -1211,7 +1348,7 @@
      "text": "Galar. ",
      "color": "yellow"
     },
-    "Buena eleccion. Estos son sus tres iniciales, elige con calma:"
+    "Buena elección. Estos son sus tres iniciales, elige con calma:"
    ],
    "choices": [
     {
@@ -1257,9 +1394,14 @@
      "next": "c_sobble"
     },
     {
-     "text": "← Otra region",
+     "text": "← Otra región",
      "next": "region"
     }
+   ],
+   "illustrations": [
+    "grookey_t",
+    "scorbunny_t",
+    "sobble_t"
    ]
   },
   "c_grookey": {
@@ -1271,28 +1413,33 @@
      "color": "green",
      "bold": true
     },
-    "? Sera tu compañero desde hoy. ",
+    "? Será tu compañero desde hoy. ",
     {
-     "text": "Esta decision no se puede cambiar.",
+     "text": "Esta decisión no se puede cambiar.",
      "color": "gray"
     }
    ],
    "choices": [
     {
-     "text": "¡Si, Grookey!",
+     "text": "¡Sí, Grookey!",
      "next": "d_grookey"
     },
     {
-     "text": "Dejame pensarlo",
+     "text": "Déjame pensarlo",
      "next": "r_galar"
     }
+   ],
+   "illustrations": [
+    "grookey_s"
    ]
   },
   "d_grookey": {
    "type": "end_dialogue",
+   "text": "",
+   "choices": [],
    "action": {
     "type": "blabber:command",
-    "value": "/function quantum:profesor/dar/grookey"
+    "value": "function quantum:profesor/dar/grookey"
    }
   },
   "c_scorbunny": {
@@ -1304,28 +1451,33 @@
      "color": "red",
      "bold": true
     },
-    "? Sera tu compañero desde hoy. ",
+    "? Será tu compañero desde hoy. ",
     {
-     "text": "Esta decision no se puede cambiar.",
+     "text": "Esta decisión no se puede cambiar.",
      "color": "gray"
     }
    ],
    "choices": [
     {
-     "text": "¡Si, Scorbunny!",
+     "text": "¡Sí, Scorbunny!",
      "next": "d_scorbunny"
     },
     {
-     "text": "Dejame pensarlo",
+     "text": "Déjame pensarlo",
      "next": "r_galar"
     }
+   ],
+   "illustrations": [
+    "scorbunny_s"
    ]
   },
   "d_scorbunny": {
    "type": "end_dialogue",
+   "text": "",
+   "choices": [],
    "action": {
     "type": "blabber:command",
-    "value": "/function quantum:profesor/dar/scorbunny"
+    "value": "function quantum:profesor/dar/scorbunny"
    }
   },
   "c_sobble": {
@@ -1337,28 +1489,33 @@
      "color": "aqua",
      "bold": true
     },
-    "? Sera tu compañero desde hoy. ",
+    "? Será tu compañero desde hoy. ",
     {
-     "text": "Esta decision no se puede cambiar.",
+     "text": "Esta decisión no se puede cambiar.",
      "color": "gray"
     }
    ],
    "choices": [
     {
-     "text": "¡Si, Sobble!",
+     "text": "¡Sí, Sobble!",
      "next": "d_sobble"
     },
     {
-     "text": "Dejame pensarlo",
+     "text": "Déjame pensarlo",
      "next": "r_galar"
     }
+   ],
+   "illustrations": [
+    "sobble_s"
    ]
   },
   "d_sobble": {
    "type": "end_dialogue",
+   "text": "",
+   "choices": [],
    "action": {
     "type": "blabber:command",
-    "value": "/function quantum:profesor/dar/sobble"
+    "value": "function quantum:profesor/dar/sobble"
    }
   },
   "r_paldea": {
@@ -1368,7 +1525,7 @@
      "text": "Paldea. ",
      "color": "yellow"
     },
-    "Buena eleccion. Estos son sus tres iniciales, elige con calma:"
+    "Buena elección. Estos son sus tres iniciales, elige con calma:"
    ],
    "choices": [
     {
@@ -1414,9 +1571,14 @@
      "next": "c_quaxly"
     },
     {
-     "text": "← Otra region",
+     "text": "← Otra región",
      "next": "region"
     }
+   ],
+   "illustrations": [
+    "sprigatito_t",
+    "fuecoco_t",
+    "quaxly_t"
    ]
   },
   "c_sprigatito": {
@@ -1428,28 +1590,33 @@
      "color": "green",
      "bold": true
     },
-    "? Sera tu compañero desde hoy. ",
+    "? Será tu compañero desde hoy. ",
     {
-     "text": "Esta decision no se puede cambiar.",
+     "text": "Esta decisión no se puede cambiar.",
      "color": "gray"
     }
    ],
    "choices": [
     {
-     "text": "¡Si, Sprigatito!",
+     "text": "¡Sí, Sprigatito!",
      "next": "d_sprigatito"
     },
     {
-     "text": "Dejame pensarlo",
+     "text": "Déjame pensarlo",
      "next": "r_paldea"
     }
+   ],
+   "illustrations": [
+    "sprigatito_s"
    ]
   },
   "d_sprigatito": {
    "type": "end_dialogue",
+   "text": "",
+   "choices": [],
    "action": {
     "type": "blabber:command",
-    "value": "/function quantum:profesor/dar/sprigatito"
+    "value": "function quantum:profesor/dar/sprigatito"
    }
   },
   "c_fuecoco": {
@@ -1461,28 +1628,33 @@
      "color": "red",
      "bold": true
     },
-    "? Sera tu compañero desde hoy. ",
+    "? Será tu compañero desde hoy. ",
     {
-     "text": "Esta decision no se puede cambiar.",
+     "text": "Esta decisión no se puede cambiar.",
      "color": "gray"
     }
    ],
    "choices": [
     {
-     "text": "¡Si, Fuecoco!",
+     "text": "¡Sí, Fuecoco!",
      "next": "d_fuecoco"
     },
     {
-     "text": "Dejame pensarlo",
+     "text": "Déjame pensarlo",
      "next": "r_paldea"
     }
+   ],
+   "illustrations": [
+    "fuecoco_s"
    ]
   },
   "d_fuecoco": {
    "type": "end_dialogue",
+   "text": "",
+   "choices": [],
    "action": {
     "type": "blabber:command",
-    "value": "/function quantum:profesor/dar/fuecoco"
+    "value": "function quantum:profesor/dar/fuecoco"
    }
   },
   "c_quaxly": {
@@ -1494,29 +1666,1008 @@
      "color": "aqua",
      "bold": true
     },
-    "? Sera tu compañero desde hoy. ",
+    "? Será tu compañero desde hoy. ",
     {
-     "text": "Esta decision no se puede cambiar.",
+     "text": "Esta decisión no se puede cambiar.",
      "color": "gray"
     }
    ],
    "choices": [
     {
-     "text": "¡Si, Quaxly!",
+     "text": "¡Sí, Quaxly!",
      "next": "d_quaxly"
     },
     {
-     "text": "Dejame pensarlo",
+     "text": "Déjame pensarlo",
      "next": "r_paldea"
     }
+   ],
+   "illustrations": [
+    "quaxly_s"
    ]
   },
   "d_quaxly": {
    "type": "end_dialogue",
+   "text": "",
+   "choices": [],
    "action": {
     "type": "blabber:command",
-    "value": "/function quantum:profesor/dar/quaxly"
+    "value": "function quantum:profesor/dar/quaxly"
    }
+  }
+ },
+ "illustrations": {
+  "bulbasaur_t": {
+   "type": "blabber:item",
+   "item": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1,
+    "components": {
+     "cobblemon:pokemon_item": {
+      "species": "cobblemon:bulbasaur",
+      "aspects": []
+     }
+    }
+   },
+   "anchor": "center",
+   "x": -110,
+   "y": -95,
+   "scale": 4.5,
+   "show_tooltip": false
+  },
+  "bulbasaur_s": {
+   "type": "blabber:item",
+   "item": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1,
+    "components": {
+     "cobblemon:pokemon_item": {
+      "species": "cobblemon:bulbasaur",
+      "aspects": []
+     }
+    }
+   },
+   "anchor": "center",
+   "x": -40,
+   "y": -125,
+   "scale": 7.0,
+   "show_tooltip": false
+  },
+  "charmander_t": {
+   "type": "blabber:item",
+   "item": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1,
+    "components": {
+     "cobblemon:pokemon_item": {
+      "species": "cobblemon:charmander",
+      "aspects": []
+     }
+    }
+   },
+   "anchor": "center",
+   "x": -15,
+   "y": -95,
+   "scale": 4.5,
+   "show_tooltip": false
+  },
+  "charmander_s": {
+   "type": "blabber:item",
+   "item": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1,
+    "components": {
+     "cobblemon:pokemon_item": {
+      "species": "cobblemon:charmander",
+      "aspects": []
+     }
+    }
+   },
+   "anchor": "center",
+   "x": -40,
+   "y": -125,
+   "scale": 7.0,
+   "show_tooltip": false
+  },
+  "squirtle_t": {
+   "type": "blabber:item",
+   "item": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1,
+    "components": {
+     "cobblemon:pokemon_item": {
+      "species": "cobblemon:squirtle",
+      "aspects": []
+     }
+    }
+   },
+   "anchor": "center",
+   "x": 80,
+   "y": -95,
+   "scale": 4.5,
+   "show_tooltip": false
+  },
+  "squirtle_s": {
+   "type": "blabber:item",
+   "item": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1,
+    "components": {
+     "cobblemon:pokemon_item": {
+      "species": "cobblemon:squirtle",
+      "aspects": []
+     }
+    }
+   },
+   "anchor": "center",
+   "x": -40,
+   "y": -125,
+   "scale": 7.0,
+   "show_tooltip": false
+  },
+  "chikorita_t": {
+   "type": "blabber:item",
+   "item": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1,
+    "components": {
+     "cobblemon:pokemon_item": {
+      "species": "cobblemon:chikorita",
+      "aspects": []
+     }
+    }
+   },
+   "anchor": "center",
+   "x": -110,
+   "y": -95,
+   "scale": 4.5,
+   "show_tooltip": false
+  },
+  "chikorita_s": {
+   "type": "blabber:item",
+   "item": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1,
+    "components": {
+     "cobblemon:pokemon_item": {
+      "species": "cobblemon:chikorita",
+      "aspects": []
+     }
+    }
+   },
+   "anchor": "center",
+   "x": -40,
+   "y": -125,
+   "scale": 7.0,
+   "show_tooltip": false
+  },
+  "cyndaquil_t": {
+   "type": "blabber:item",
+   "item": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1,
+    "components": {
+     "cobblemon:pokemon_item": {
+      "species": "cobblemon:cyndaquil",
+      "aspects": []
+     }
+    }
+   },
+   "anchor": "center",
+   "x": -15,
+   "y": -95,
+   "scale": 4.5,
+   "show_tooltip": false
+  },
+  "cyndaquil_s": {
+   "type": "blabber:item",
+   "item": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1,
+    "components": {
+     "cobblemon:pokemon_item": {
+      "species": "cobblemon:cyndaquil",
+      "aspects": []
+     }
+    }
+   },
+   "anchor": "center",
+   "x": -40,
+   "y": -125,
+   "scale": 7.0,
+   "show_tooltip": false
+  },
+  "totodile_t": {
+   "type": "blabber:item",
+   "item": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1,
+    "components": {
+     "cobblemon:pokemon_item": {
+      "species": "cobblemon:totodile",
+      "aspects": []
+     }
+    }
+   },
+   "anchor": "center",
+   "x": 80,
+   "y": -95,
+   "scale": 4.5,
+   "show_tooltip": false
+  },
+  "totodile_s": {
+   "type": "blabber:item",
+   "item": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1,
+    "components": {
+     "cobblemon:pokemon_item": {
+      "species": "cobblemon:totodile",
+      "aspects": []
+     }
+    }
+   },
+   "anchor": "center",
+   "x": -40,
+   "y": -125,
+   "scale": 7.0,
+   "show_tooltip": false
+  },
+  "treecko_t": {
+   "type": "blabber:item",
+   "item": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1,
+    "components": {
+     "cobblemon:pokemon_item": {
+      "species": "cobblemon:treecko",
+      "aspects": []
+     }
+    }
+   },
+   "anchor": "center",
+   "x": -110,
+   "y": -95,
+   "scale": 4.5,
+   "show_tooltip": false
+  },
+  "treecko_s": {
+   "type": "blabber:item",
+   "item": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1,
+    "components": {
+     "cobblemon:pokemon_item": {
+      "species": "cobblemon:treecko",
+      "aspects": []
+     }
+    }
+   },
+   "anchor": "center",
+   "x": -40,
+   "y": -125,
+   "scale": 7.0,
+   "show_tooltip": false
+  },
+  "torchic_t": {
+   "type": "blabber:item",
+   "item": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1,
+    "components": {
+     "cobblemon:pokemon_item": {
+      "species": "cobblemon:torchic",
+      "aspects": []
+     }
+    }
+   },
+   "anchor": "center",
+   "x": -15,
+   "y": -95,
+   "scale": 4.5,
+   "show_tooltip": false
+  },
+  "torchic_s": {
+   "type": "blabber:item",
+   "item": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1,
+    "components": {
+     "cobblemon:pokemon_item": {
+      "species": "cobblemon:torchic",
+      "aspects": []
+     }
+    }
+   },
+   "anchor": "center",
+   "x": -40,
+   "y": -125,
+   "scale": 7.0,
+   "show_tooltip": false
+  },
+  "mudkip_t": {
+   "type": "blabber:item",
+   "item": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1,
+    "components": {
+     "cobblemon:pokemon_item": {
+      "species": "cobblemon:mudkip",
+      "aspects": []
+     }
+    }
+   },
+   "anchor": "center",
+   "x": 80,
+   "y": -95,
+   "scale": 4.5,
+   "show_tooltip": false
+  },
+  "mudkip_s": {
+   "type": "blabber:item",
+   "item": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1,
+    "components": {
+     "cobblemon:pokemon_item": {
+      "species": "cobblemon:mudkip",
+      "aspects": []
+     }
+    }
+   },
+   "anchor": "center",
+   "x": -40,
+   "y": -125,
+   "scale": 7.0,
+   "show_tooltip": false
+  },
+  "turtwig_t": {
+   "type": "blabber:item",
+   "item": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1,
+    "components": {
+     "cobblemon:pokemon_item": {
+      "species": "cobblemon:turtwig",
+      "aspects": []
+     }
+    }
+   },
+   "anchor": "center",
+   "x": -110,
+   "y": -95,
+   "scale": 4.5,
+   "show_tooltip": false
+  },
+  "turtwig_s": {
+   "type": "blabber:item",
+   "item": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1,
+    "components": {
+     "cobblemon:pokemon_item": {
+      "species": "cobblemon:turtwig",
+      "aspects": []
+     }
+    }
+   },
+   "anchor": "center",
+   "x": -40,
+   "y": -125,
+   "scale": 7.0,
+   "show_tooltip": false
+  },
+  "chimchar_t": {
+   "type": "blabber:item",
+   "item": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1,
+    "components": {
+     "cobblemon:pokemon_item": {
+      "species": "cobblemon:chimchar",
+      "aspects": []
+     }
+    }
+   },
+   "anchor": "center",
+   "x": -15,
+   "y": -95,
+   "scale": 4.5,
+   "show_tooltip": false
+  },
+  "chimchar_s": {
+   "type": "blabber:item",
+   "item": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1,
+    "components": {
+     "cobblemon:pokemon_item": {
+      "species": "cobblemon:chimchar",
+      "aspects": []
+     }
+    }
+   },
+   "anchor": "center",
+   "x": -40,
+   "y": -125,
+   "scale": 7.0,
+   "show_tooltip": false
+  },
+  "piplup_t": {
+   "type": "blabber:item",
+   "item": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1,
+    "components": {
+     "cobblemon:pokemon_item": {
+      "species": "cobblemon:piplup",
+      "aspects": []
+     }
+    }
+   },
+   "anchor": "center",
+   "x": 80,
+   "y": -95,
+   "scale": 4.5,
+   "show_tooltip": false
+  },
+  "piplup_s": {
+   "type": "blabber:item",
+   "item": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1,
+    "components": {
+     "cobblemon:pokemon_item": {
+      "species": "cobblemon:piplup",
+      "aspects": []
+     }
+    }
+   },
+   "anchor": "center",
+   "x": -40,
+   "y": -125,
+   "scale": 7.0,
+   "show_tooltip": false
+  },
+  "snivy_t": {
+   "type": "blabber:item",
+   "item": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1,
+    "components": {
+     "cobblemon:pokemon_item": {
+      "species": "cobblemon:snivy",
+      "aspects": []
+     }
+    }
+   },
+   "anchor": "center",
+   "x": -110,
+   "y": -95,
+   "scale": 4.5,
+   "show_tooltip": false
+  },
+  "snivy_s": {
+   "type": "blabber:item",
+   "item": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1,
+    "components": {
+     "cobblemon:pokemon_item": {
+      "species": "cobblemon:snivy",
+      "aspects": []
+     }
+    }
+   },
+   "anchor": "center",
+   "x": -40,
+   "y": -125,
+   "scale": 7.0,
+   "show_tooltip": false
+  },
+  "tepig_t": {
+   "type": "blabber:item",
+   "item": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1,
+    "components": {
+     "cobblemon:pokemon_item": {
+      "species": "cobblemon:tepig",
+      "aspects": []
+     }
+    }
+   },
+   "anchor": "center",
+   "x": -15,
+   "y": -95,
+   "scale": 4.5,
+   "show_tooltip": false
+  },
+  "tepig_s": {
+   "type": "blabber:item",
+   "item": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1,
+    "components": {
+     "cobblemon:pokemon_item": {
+      "species": "cobblemon:tepig",
+      "aspects": []
+     }
+    }
+   },
+   "anchor": "center",
+   "x": -40,
+   "y": -125,
+   "scale": 7.0,
+   "show_tooltip": false
+  },
+  "oshawott_t": {
+   "type": "blabber:item",
+   "item": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1,
+    "components": {
+     "cobblemon:pokemon_item": {
+      "species": "cobblemon:oshawott",
+      "aspects": []
+     }
+    }
+   },
+   "anchor": "center",
+   "x": 80,
+   "y": -95,
+   "scale": 4.5,
+   "show_tooltip": false
+  },
+  "oshawott_s": {
+   "type": "blabber:item",
+   "item": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1,
+    "components": {
+     "cobblemon:pokemon_item": {
+      "species": "cobblemon:oshawott",
+      "aspects": []
+     }
+    }
+   },
+   "anchor": "center",
+   "x": -40,
+   "y": -125,
+   "scale": 7.0,
+   "show_tooltip": false
+  },
+  "chespin_t": {
+   "type": "blabber:item",
+   "item": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1,
+    "components": {
+     "cobblemon:pokemon_item": {
+      "species": "cobblemon:chespin",
+      "aspects": []
+     }
+    }
+   },
+   "anchor": "center",
+   "x": -110,
+   "y": -95,
+   "scale": 4.5,
+   "show_tooltip": false
+  },
+  "chespin_s": {
+   "type": "blabber:item",
+   "item": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1,
+    "components": {
+     "cobblemon:pokemon_item": {
+      "species": "cobblemon:chespin",
+      "aspects": []
+     }
+    }
+   },
+   "anchor": "center",
+   "x": -40,
+   "y": -125,
+   "scale": 7.0,
+   "show_tooltip": false
+  },
+  "fennekin_t": {
+   "type": "blabber:item",
+   "item": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1,
+    "components": {
+     "cobblemon:pokemon_item": {
+      "species": "cobblemon:fennekin",
+      "aspects": []
+     }
+    }
+   },
+   "anchor": "center",
+   "x": -15,
+   "y": -95,
+   "scale": 4.5,
+   "show_tooltip": false
+  },
+  "fennekin_s": {
+   "type": "blabber:item",
+   "item": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1,
+    "components": {
+     "cobblemon:pokemon_item": {
+      "species": "cobblemon:fennekin",
+      "aspects": []
+     }
+    }
+   },
+   "anchor": "center",
+   "x": -40,
+   "y": -125,
+   "scale": 7.0,
+   "show_tooltip": false
+  },
+  "froakie_t": {
+   "type": "blabber:item",
+   "item": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1,
+    "components": {
+     "cobblemon:pokemon_item": {
+      "species": "cobblemon:froakie",
+      "aspects": []
+     }
+    }
+   },
+   "anchor": "center",
+   "x": 80,
+   "y": -95,
+   "scale": 4.5,
+   "show_tooltip": false
+  },
+  "froakie_s": {
+   "type": "blabber:item",
+   "item": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1,
+    "components": {
+     "cobblemon:pokemon_item": {
+      "species": "cobblemon:froakie",
+      "aspects": []
+     }
+    }
+   },
+   "anchor": "center",
+   "x": -40,
+   "y": -125,
+   "scale": 7.0,
+   "show_tooltip": false
+  },
+  "rowlet_t": {
+   "type": "blabber:item",
+   "item": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1,
+    "components": {
+     "cobblemon:pokemon_item": {
+      "species": "cobblemon:rowlet",
+      "aspects": []
+     }
+    }
+   },
+   "anchor": "center",
+   "x": -110,
+   "y": -95,
+   "scale": 4.5,
+   "show_tooltip": false
+  },
+  "rowlet_s": {
+   "type": "blabber:item",
+   "item": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1,
+    "components": {
+     "cobblemon:pokemon_item": {
+      "species": "cobblemon:rowlet",
+      "aspects": []
+     }
+    }
+   },
+   "anchor": "center",
+   "x": -40,
+   "y": -125,
+   "scale": 7.0,
+   "show_tooltip": false
+  },
+  "litten_t": {
+   "type": "blabber:item",
+   "item": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1,
+    "components": {
+     "cobblemon:pokemon_item": {
+      "species": "cobblemon:litten",
+      "aspects": []
+     }
+    }
+   },
+   "anchor": "center",
+   "x": -15,
+   "y": -95,
+   "scale": 4.5,
+   "show_tooltip": false
+  },
+  "litten_s": {
+   "type": "blabber:item",
+   "item": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1,
+    "components": {
+     "cobblemon:pokemon_item": {
+      "species": "cobblemon:litten",
+      "aspects": []
+     }
+    }
+   },
+   "anchor": "center",
+   "x": -40,
+   "y": -125,
+   "scale": 7.0,
+   "show_tooltip": false
+  },
+  "popplio_t": {
+   "type": "blabber:item",
+   "item": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1,
+    "components": {
+     "cobblemon:pokemon_item": {
+      "species": "cobblemon:popplio",
+      "aspects": []
+     }
+    }
+   },
+   "anchor": "center",
+   "x": 80,
+   "y": -95,
+   "scale": 4.5,
+   "show_tooltip": false
+  },
+  "popplio_s": {
+   "type": "blabber:item",
+   "item": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1,
+    "components": {
+     "cobblemon:pokemon_item": {
+      "species": "cobblemon:popplio",
+      "aspects": []
+     }
+    }
+   },
+   "anchor": "center",
+   "x": -40,
+   "y": -125,
+   "scale": 7.0,
+   "show_tooltip": false
+  },
+  "grookey_t": {
+   "type": "blabber:item",
+   "item": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1,
+    "components": {
+     "cobblemon:pokemon_item": {
+      "species": "cobblemon:grookey",
+      "aspects": []
+     }
+    }
+   },
+   "anchor": "center",
+   "x": -110,
+   "y": -95,
+   "scale": 4.5,
+   "show_tooltip": false
+  },
+  "grookey_s": {
+   "type": "blabber:item",
+   "item": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1,
+    "components": {
+     "cobblemon:pokemon_item": {
+      "species": "cobblemon:grookey",
+      "aspects": []
+     }
+    }
+   },
+   "anchor": "center",
+   "x": -40,
+   "y": -125,
+   "scale": 7.0,
+   "show_tooltip": false
+  },
+  "scorbunny_t": {
+   "type": "blabber:item",
+   "item": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1,
+    "components": {
+     "cobblemon:pokemon_item": {
+      "species": "cobblemon:scorbunny",
+      "aspects": []
+     }
+    }
+   },
+   "anchor": "center",
+   "x": -15,
+   "y": -95,
+   "scale": 4.5,
+   "show_tooltip": false
+  },
+  "scorbunny_s": {
+   "type": "blabber:item",
+   "item": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1,
+    "components": {
+     "cobblemon:pokemon_item": {
+      "species": "cobblemon:scorbunny",
+      "aspects": []
+     }
+    }
+   },
+   "anchor": "center",
+   "x": -40,
+   "y": -125,
+   "scale": 7.0,
+   "show_tooltip": false
+  },
+  "sobble_t": {
+   "type": "blabber:item",
+   "item": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1,
+    "components": {
+     "cobblemon:pokemon_item": {
+      "species": "cobblemon:sobble",
+      "aspects": []
+     }
+    }
+   },
+   "anchor": "center",
+   "x": 80,
+   "y": -95,
+   "scale": 4.5,
+   "show_tooltip": false
+  },
+  "sobble_s": {
+   "type": "blabber:item",
+   "item": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1,
+    "components": {
+     "cobblemon:pokemon_item": {
+      "species": "cobblemon:sobble",
+      "aspects": []
+     }
+    }
+   },
+   "anchor": "center",
+   "x": -40,
+   "y": -125,
+   "scale": 7.0,
+   "show_tooltip": false
+  },
+  "sprigatito_t": {
+   "type": "blabber:item",
+   "item": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1,
+    "components": {
+     "cobblemon:pokemon_item": {
+      "species": "cobblemon:sprigatito",
+      "aspects": []
+     }
+    }
+   },
+   "anchor": "center",
+   "x": -110,
+   "y": -95,
+   "scale": 4.5,
+   "show_tooltip": false
+  },
+  "sprigatito_s": {
+   "type": "blabber:item",
+   "item": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1,
+    "components": {
+     "cobblemon:pokemon_item": {
+      "species": "cobblemon:sprigatito",
+      "aspects": []
+     }
+    }
+   },
+   "anchor": "center",
+   "x": -40,
+   "y": -125,
+   "scale": 7.0,
+   "show_tooltip": false
+  },
+  "fuecoco_t": {
+   "type": "blabber:item",
+   "item": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1,
+    "components": {
+     "cobblemon:pokemon_item": {
+      "species": "cobblemon:fuecoco",
+      "aspects": []
+     }
+    }
+   },
+   "anchor": "center",
+   "x": -15,
+   "y": -95,
+   "scale": 4.5,
+   "show_tooltip": false
+  },
+  "fuecoco_s": {
+   "type": "blabber:item",
+   "item": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1,
+    "components": {
+     "cobblemon:pokemon_item": {
+      "species": "cobblemon:fuecoco",
+      "aspects": []
+     }
+    }
+   },
+   "anchor": "center",
+   "x": -40,
+   "y": -125,
+   "scale": 7.0,
+   "show_tooltip": false
+  },
+  "quaxly_t": {
+   "type": "blabber:item",
+   "item": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1,
+    "components": {
+     "cobblemon:pokemon_item": {
+      "species": "cobblemon:quaxly",
+      "aspects": []
+     }
+    }
+   },
+   "anchor": "center",
+   "x": 80,
+   "y": -95,
+   "scale": 4.5,
+   "show_tooltip": false
+  },
+  "quaxly_s": {
+   "type": "blabber:item",
+   "item": {
+    "id": "cobblemon:pokemon_model",
+    "count": 1,
+    "components": {
+     "cobblemon:pokemon_item": {
+      "species": "cobblemon:quaxly",
+      "aspects": []
+     }
+    }
+   },
+   "anchor": "center",
+   "x": -40,
+   "y": -125,
+   "scale": 7.0,
+   "show_tooltip": false
   }
  }
 }

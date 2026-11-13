@@ -7,10 +7,10 @@
   "a": {
    "text": [
     "",
-    "¿Como va tu compañero? Cuidalo bien. Cuando quieras salir a explorar usa ",
+    "¿Cómo va tu compañero? Cuídalo bien. Cuando quieras salir a explorar, usa tu ",
     {
-     "text": "/trigger survival",
-     "color": "yellow"
+     "text": "brújula",
+     "color": "aqua"
     },
     "."
    ],
@@ -22,7 +22,9 @@
    ]
   },
   "fin": {
-   "type": "end_dialogue"
+   "type": "end_dialogue",
+   "text": "",
+   "choices": []
   }
  }
 }

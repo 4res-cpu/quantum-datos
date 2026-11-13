@@ -1,5 +1,5 @@
 {
- "enabled": true,
+ "enabled": false,
  "minPlayers": 1,
  "spawnInterval": 90
 }

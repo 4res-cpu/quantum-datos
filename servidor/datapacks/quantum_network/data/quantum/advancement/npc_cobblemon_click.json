@@ -1,0 +1,15 @@
+{
+ "criteria": {
+  "c": {
+   "trigger": "minecraft:player_interacted_with_entity",
+   "conditions": {
+    "entity": {
+     "nbt": "{Tags:[\"qn_npc_cobblemon\"]}"
+    }
+   }
+  }
+ },
+ "rewards": {
+  "function": "quantum:npc/cobblemon"
+ }
+}

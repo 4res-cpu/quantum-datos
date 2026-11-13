@@ -1,0 +1,18 @@
+{
+ "criteria": {
+  "c": {
+   "trigger": "minecraft:using_item",
+   "conditions": {
+    "item": {
+     "items": "minecraft:compass",
+     "predicates": {
+      "minecraft:custom_data": "{qn_menu:1b}"
+     }
+    }
+   }
+  }
+ },
+ "rewards": {
+  "function": "quantum:menu/abrir"
+ }
+}

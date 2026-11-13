@@ -1,0 +1,128 @@
+{
+ "start_at": "a",
+ "layout": {
+  "type": "blabber:rpg"
+ },
+ "states": {
+  "a": {
+   "text": [
+    "",
+    {
+     "text": "✦ QUANTUM NETWORK ✦\n",
+     "color": "#b57bff",
+     "bold": true
+    },
+    {
+     "text": "¿A dónde quieres ir?",
+     "color": "white"
+    }
+   ],
+   "choices": [
+    {
+     "text": [
+      "",
+      {
+       "text": "Lobby principal",
+       "color": "light_purple"
+      }
+     ],
+     "next": "lobby"
+    },
+    {
+     "text": [
+      "",
+      {
+       "text": "Cobblemon",
+       "color": "yellow"
+      },
+      {
+       "text": " · Región de Quanta",
+       "color": "white"
+      }
+     ],
+     "next": "quanta"
+    },
+    {
+     "text": [
+      "",
+      {
+       "text": "Cobblemon",
+       "color": "yellow"
+      },
+      {
+       "text": " · Mundo Survival",
+       "color": "green"
+      }
+     ],
+     "next": "surv"
+    },
+    {
+     "text": [
+      "",
+      {
+       "text": "SkyWars · Duels · Build Battle ",
+       "color": "gray"
+      },
+      {
+       "text": "(próximamente)",
+       "color": "dark_gray"
+      }
+     ],
+     "next": "pronto"
+    },
+    {
+     "text": "Cerrar",
+     "next": "fin"
+    }
+   ]
+  },
+  "pronto": {
+   "text": [
+    "",
+    "Esas modalidades todavía están en construcción. ",
+    {
+     "text": "¡Muy pronto!",
+     "color": "yellow"
+    }
+   ],
+   "choices": [
+    {
+     "text": "← Volver",
+     "next": "a"
+    }
+   ]
+  },
+  "lobby": {
+   "type": "end_dialogue",
+   "text": "",
+   "choices": [],
+   "action": {
+    "type": "blabber:command",
+    "value": "function quantum:ir_lobby"
+   }
+  },
+  "quanta": {
+   "type": "end_dialogue",
+   "text": "",
+   "choices": [],
+   "action": {
+    "type": "blabber:command",
+    "value": "function quantum:ir_quanta"
+   }
+  },
+  "surv": {
+   "type": "end_dialogue",
+   "text": "",
+   "choices": [],
+   "action": {
+    "type": "blabber:command",
+    "value": "function quantum:ir_survival"
+   }
+  },
+  "fin": {
+   "type": "end_dialogue",
+   "text": "",
+   "choices": []
+  }
+ }
+}
