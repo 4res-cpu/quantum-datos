@@ -2,19 +2,26 @@ QUANTUM NETWORK - KIT DEL SERVIDOR COBBLEMON
 ==========================================
 Con esta carpeta se puede montar el servidor en cualquier host.
 
-1. Servidor Fabric 1.21.1 (loader 0.19.5), Java 21, nombre del mundo: cobblemon, online-mode=false.
-2. Mods: descargar todos los enlaces de mods_servidor.txt a /mods.
-3. Copiar config/ a /config (legendarios cada 90 min).
+1. Servidor Fabric 1.21.1 (loader 0.19.5), Java 21, mundo: cobblemon, online-mode=false.
+2. Mods: descargar los enlaces de mods_servidor.txt a /mods.
+3. Copiar config/ a /config.
 4. Copiar datapacks/quantum_network a /cobblemon/datapacks/.
-5. Copiar mundo/quanta/region/*.mca a /cobblemon/dimensions/quantum/quanta/region/.
-6. El lobby: copiar region, entities y poi de FINAL_Lobby_2026-11-07.zip (carpeta mundo/)
+5. Copiar mundo/quanta2/region/*.mca a /cobblemon/dimensions/quantum/quanta2/region/.
+6. Lobby: copiar region, entities y poi de FINAL_Lobby_2026-11-07.zip (carpeta mundo/)
    a /cobblemon/dimensions/quantum/lobby/.
-7. server-icon.png a la raiz.
+7. server-icon.png a la raiz. En server.properties:
+   resource-pack=https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/recursos/QuantumRangos.zip
+   require-resource-pack=true
 
-Dentro del juego, como admin (una sola vez):
-  /function quantum:rangos/instalar        crea los rangos en LuckPerms
-  /function quantum:lobby/arreglar         quita Halloween del lobby y repone ladrillos
-  /function quantum:profesor/colocar       pone al Profesor donde estes parado (en Quanta)
-Dar rango:   /function quantum:rangos/_vip {j:"Nombre"}
-             (owner, coowner, manager, admin, mod, helper, soporte, mvpplus, mvp, vipplus, vip, usuario)
-Jugadores:   /trigger lobby   /trigger quanta   /trigger survival
+Como admin, una sola vez:
+  /function quantum:rangos/instalar          crea los rangos en LuckPerms
+  /function quantum:rangos/_owner {j:"Nombre"}   (owner coowner manager admin mod helper soporte mvpplus mvp vipplus vip usuario)
+NPC (crea el NPC con Easy NPC y su skin, parate al lado):
+  /function quantum:npc/marcar_cobblemon     el NPC abre el menu de Cobblemon
+  /function quantum:profesor/marcar          el NPC da la mision del inicial
+  /function quantum:profesor/reiniciar       para volver a probar la mision
+Otros:
+  /function quantum:leg/lanzar               fuerza un legendario ahora
+  /function quantum:grietas/borrar           borra las grietas del cielo (se recrean al pasar por la plaza)
+Los jugadores viajan con la brujula "Menu Quantum" (clic derecho). No hay comandos para ellos.
+Zonas llanas de Quanta para construir: ver mundo/quanta2/zonas.json (nombre, x, y, z, radio).

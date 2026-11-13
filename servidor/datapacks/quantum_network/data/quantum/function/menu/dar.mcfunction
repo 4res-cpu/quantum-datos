@@ -1,0 +1,1 @@
+give @s minecraft:compass[minecraft:custom_name='{"text":"✦ Menú Quantum ✦","color":"light_purple","italic":false,"bold":true}',minecraft:lore=['{"text":"Clic derecho para viajar","color":"gray","italic":false}'],minecraft:food={nutrition:0,saturation:0f,can_always_eat:true,eat_seconds:1000000f},minecraft:custom_data={qn_menu:1b},minecraft:enchantment_glint_override=true]

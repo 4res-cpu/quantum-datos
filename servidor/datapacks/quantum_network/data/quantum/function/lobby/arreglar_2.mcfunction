@@ -1,1 +1,0 @@
-execute in quantum:lobby run function quantum:lobby/arreglar_3
