@@ -23,8 +23,8 @@ jobs:
           rm -f servidor/mods_propios/quantumnet-*.jar
           cp mod/build/libs/quantumnet-*.jar servidor/mods_propios/
           rm -f servidor/mods_propios/*-sources.jar
-          git config user.name "quantum-ci"
-          git config user.email "ci@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
           git add servidor/mods_propios
           git commit -m "CI: jar del mod Quantum Network" || exit 0
           git pull --rebase -q
