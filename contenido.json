@@ -1,0 +1,57 @@
+{
+  "enlaces": {
+    "discord": "https://discord.gg/srGGsHJug8"
+  },
+  "eventos": [],
+  "pase": null,
+  "normas": [
+    {
+      "titulo": "Respeto ante todo",
+      "texto": "Nada de insultos, acoso, discriminación ni amenazas, ni en el chat ni por voz.",
+      "titulo_en": "Respect first",
+      "texto_en": "No insults, harassment, discrimination or threats, in chat or voice.",
+      "titulo_pt": "Respeito acima de tudo",
+      "texto_pt": "Nada de insultos, assédio, discriminação ou ameaças, no chat ou na voz."
+    },
+    {
+      "titulo": "Juego limpio",
+      "texto": "Prohibidos los hacks, x-ray, auto-clickers y cualquier mod que dé ventaja.",
+      "titulo_en": "Fair play",
+      "texto_en": "No hacks, x-ray, auto-clickers or any mod that gives an advantage.",
+      "titulo_pt": "Jogo limpo",
+      "texto_pt": "Proibidos hacks, x-ray, auto-clickers e qualquer mod que dê vantagem."
+    },
+    {
+      "titulo": "Sin estafas",
+      "texto": "Los intercambios y ventas en el GTS deben ser honestos. Las estafas se sancionan.",
+      "titulo_en": "No scams",
+      "texto_en": "Trades and GTS sales must be honest. Scams are punished.",
+      "titulo_pt": "Sem golpes",
+      "texto_pt": "Trocas e vendas no GTS devem ser honestas. Golpes são punidos."
+    },
+    {
+      "titulo": "Respeta las construcciones",
+      "texto": "No destruyas ni robes lo que han hecho otros jugadores.",
+      "titulo_en": "Respect builds",
+      "texto_en": "Don't grief or steal what other players built.",
+      "titulo_pt": "Respeite as construções",
+      "texto_pt": "Não destrua nem roube o que outros jogadores fizeram."
+    },
+    {
+      "titulo": "Nada de spam ni publicidad",
+      "texto": "No llenes el chat ni anuncies otros servidores.",
+      "titulo_en": "No spam or ads",
+      "texto_en": "Don't flood the chat or advertise other servers.",
+      "titulo_pt": "Sem spam nem divulgação",
+      "texto_pt": "Não encha o chat nem divulgue outros servidores."
+    },
+    {
+      "titulo": "El staff tiene la última palabra",
+      "texto": "Si tienes un problema, abre un ticket en Discord en vez de discutir en el chat.",
+      "titulo_en": "Staff has the final word",
+      "texto_en": "If you have a problem, open a ticket on Discord instead of arguing in chat.",
+      "titulo_pt": "A staff tem a palavra final",
+      "texto_pt": "Se tiver um problema, abra um ticket no Discord em vez de discutir no chat."
+    }
+  ]
+}
