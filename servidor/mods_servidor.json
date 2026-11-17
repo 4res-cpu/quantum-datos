@@ -114,10 +114,10 @@
  {
   "slug": "blabber",
   "titulo": "Blabber",
-  "version": "1.8.1",
-  "archivo": "blabber-1.8.1-standalone.jar",
-  "url": "https://cdn.modrinth.com/data/2oRMVFgd/versions/YthTUpyA/blabber-1.8.1-standalone.jar",
-  "sha1": "c28674b6357548d69b729e84981895e2f47b355a"
+  "version": "1.8.0",
+  "archivo": "blabber-1.8.0-standalone.jar",
+  "url": "https://cdn.modrinth.com/data/2oRMVFgd/versions/ODQSSC9O/blabber-1.8.0-standalone.jar",
+  "sha1": "88e37c46dab8f3466067f9acc40cdc466ae94806"
  },
  {
   "slug": "bluemap",
