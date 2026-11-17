@@ -1,0 +1,3 @@
+Framework by MrCrayfish - LGPL-2.1
+Source and license: https://github.com/MrCrayfish/Framework
+https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt

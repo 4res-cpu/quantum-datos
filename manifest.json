@@ -1,16 +1,16 @@
 {
   "_comentario": "Lo lee el launcher al abrirse.",
   "modpack": {
-    "version": "network-0.2.1",
+    "version": "network-0.2.2",
     "nombre": "Quantum Network",
     "minecraft": "1.21.1",
     "fabricLoader": "0.20.1",
-    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.2.1.mrpack",
-    "size": 3194461,
-    "sha1": "7ab0204e6060ca76335c28f6eeea700d74108a0a",
-    "sha512": "9abb9bd1533d91dce51685025bba91b5ed3c471a16f33fa19dfc2277cecd56aa26691401c0c6b033908ffe38f338c195a37deb9ba2de5eae79a7a7933efa0446",
-    "publicado": "2026-11-17T14:44:07.000Z",
-    "nota": "Arreglado lithostitched. Sin Mega Showdown."
+    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.2.2.mrpack",
+    "size": 3199724,
+    "sha1": "4cd4160d0c69f448c50fec393ea523d0a8e015b4",
+    "sha512": "849fa1ed422531bc5b354c9667b31a2249d1c1730c119f9a631a5f3fb871985abcb2f76f509f58a6e6a8c99190ad63bf1620a469174c820d872bf7a7243c5ba5",
+    "publicado": "2026-11-17T15:05:53.000Z",
+    "nota": "Mods de CobbleKanto: NPCs, bloques, modelos, escenas, teletransportes, objetos y spawners. Más construcción y Cobblemon."
   },
   "launcher": {
     "version": "1.5.0",
