@@ -1,16 +1,16 @@
 {
   "_comentario": "Lo lee el launcher al abrirse.",
   "modpack": {
-    "version": "network-0.1.8",
+    "version": "network-0.2.0",
     "nombre": "Quantum Network",
     "minecraft": "1.21.1",
-    "fabricLoader": "0.19.5",
-    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.1.8.mrpack",
-    "size": 2992298,
-    "sha1": "5c39242dcce7c780ca1f9f5ef6c3c6a2ff49000e",
-    "sha512": "9b92f95a5d08edee4549d809d31900aeb2681391fb86f7a37c7e5edd04c5e5101f6d3462a73edf6f1ce7fe8888dbb702f712580a71bf5cad3a0fe3216b6c01ff",
-    "publicado": "2026-11-17T13:51:54.000Z",
-    "nota": "Pantallas del juego personalizadas: carga, menú principal y menús con las ilustraciones de Quantum."
+    "fabricLoader": "0.20.1",
+    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.2.0.mrpack",
+    "size": 3194477,
+    "sha1": "9d90ea3b8d3af2ab0ccc95d8f409d6bab644b0cb",
+    "sha512": "aca448de9e7660e1380af2a9d1e79c7bb24f432e3468dcf75e20f66cdaf532981c357de09a5f80b8280fc0b5864a821d635e4b1a8d4be512f8a8965f1cdbb85e",
+    "publicado": "2026-11-17T14:30:17.000Z",
+    "nota": "Cobblemon 1.8.4, nuevos mods de la región de Quanta, botones y pantallas del juego."
   },
   "launcher": {
     "version": "1.5.0",

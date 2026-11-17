@@ -1,17 +1,1 @@
-{
-  "noticias": [
-    {
-      "titulo": "QUANTUM NETWORK",
-      "fecha": "2026-11-10",
-      "destacada": true,
-      "texto": "Estamos montando la network: Cobblemon «Fractura», Sky Wars y más modos desde un solo launcher. Pronto, fecha de apertura.",
-      "enlace": "https://discord.gg/srGGsHJug8",
-      "textoEnlace": "Ir al Discord"
-    },
-    {
-      "titulo": "Primera vez si eres no premium",
-      "fecha": "2026-11-10",
-      "texto": "Al entrar al lobby escribe /register <contraseña> <contraseña>. Las siguientes veces: /login <contraseña>."
-    }
-  ]
-}
+{ "noticias": [] }
