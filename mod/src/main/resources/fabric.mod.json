@@ -3,5 +3,6 @@
   "description": "Cosmeticos por rango, panel de staff, idiomas y reglas del lobby de Quantum Network.",
   "authors": ["Quantum Network"], "license": "All-Rights-Reserved", "environment": "*",
   "entrypoints": { "main": ["net.quantum.net.QuantumNet"] },
+  "mixins": ["quantumnet.mixins.json"],
   "depends": { "fabricloader": ">=0.16.0", "minecraft": "1.21.1", "fabric-api": "*" }
 }

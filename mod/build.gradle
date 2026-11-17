@@ -1,5 +1,5 @@
 plugins { id 'fabric-loom' version '1.8-SNAPSHOT' }
-version = '0.1.0'
+version = '0.2.0'
 group = 'net.quantum'
 base { archivesName = 'quantumnet' }
 dependencies {
@@ -11,3 +11,4 @@ dependencies {
 java { toolchain { languageVersion = JavaLanguageVersion.of(21) } }
 tasks.withType(JavaCompile).configureEach { it.options.release = 21; it.options.encoding = 'UTF-8' }
 processResources { inputs.property 'version', project.version; filesMatching('fabric.mod.json') { expand 'version': project.version } }
+loom { mixin { defaultRefmapName = 'quantumnet-refmap.json' } }

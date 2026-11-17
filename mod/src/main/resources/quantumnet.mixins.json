@@ -1,0 +1,8 @@
+{
+  "required": true,
+  "package": "net.quantum.net.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": ["TituloVentanaMixin"],
+  "injectors": { "defaultRequire": 1 },
+  "refmap": "quantumnet-refmap.json"
+}
