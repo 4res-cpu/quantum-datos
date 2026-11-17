@@ -1,57 +1,383 @@
 {
-  "enlaces": {
-    "discord": "https://discord.gg/srGGsHJug8"
+ "enlaces": {
+  "discord": "https://discord.gg/srGGsHJug8"
+ },
+ "eventos": [],
+ "pase": null,
+ "normas": [
+  {
+   "titulo": "Respeto ante todo",
+   "texto": "Nada de insultos, acoso, discriminación ni amenazas, ni en el chat ni por voz.",
+   "titulo_en": "Respect first",
+   "texto_en": "No insults, harassment, discrimination or threats, in chat or voice.",
+   "titulo_pt": "Respeito acima de tudo",
+   "texto_pt": "Nada de insultos, assédio, discriminação ou ameaças, no chat ou na voz."
   },
-  "eventos": [],
-  "pase": null,
-  "normas": [
-    {
-      "titulo": "Respeto ante todo",
-      "texto": "Nada de insultos, acoso, discriminación ni amenazas, ni en el chat ni por voz.",
-      "titulo_en": "Respect first",
-      "texto_en": "No insults, harassment, discrimination or threats, in chat or voice.",
-      "titulo_pt": "Respeito acima de tudo",
-      "texto_pt": "Nada de insultos, assédio, discriminação ou ameaças, no chat ou na voz."
-    },
-    {
-      "titulo": "Juego limpio",
-      "texto": "Prohibidos los hacks, x-ray, auto-clickers y cualquier mod que dé ventaja.",
-      "titulo_en": "Fair play",
-      "texto_en": "No hacks, x-ray, auto-clickers or any mod that gives an advantage.",
-      "titulo_pt": "Jogo limpo",
-      "texto_pt": "Proibidos hacks, x-ray, auto-clickers e qualquer mod que dê vantagem."
-    },
-    {
-      "titulo": "Sin estafas",
-      "texto": "Los intercambios y ventas en el GTS deben ser honestos. Las estafas se sancionan.",
-      "titulo_en": "No scams",
-      "texto_en": "Trades and GTS sales must be honest. Scams are punished.",
-      "titulo_pt": "Sem golpes",
-      "texto_pt": "Trocas e vendas no GTS devem ser honestas. Golpes são punidos."
-    },
-    {
-      "titulo": "Respeta las construcciones",
-      "texto": "No destruyas ni robes lo que han hecho otros jugadores.",
-      "titulo_en": "Respect builds",
-      "texto_en": "Don't grief or steal what other players built.",
-      "titulo_pt": "Respeite as construções",
-      "texto_pt": "Não destrua nem roube o que outros jogadores fizeram."
-    },
-    {
-      "titulo": "Nada de spam ni publicidad",
-      "texto": "No llenes el chat ni anuncies otros servidores.",
-      "titulo_en": "No spam or ads",
-      "texto_en": "Don't flood the chat or advertise other servers.",
-      "titulo_pt": "Sem spam nem divulgação",
-      "texto_pt": "Não encha o chat nem divulgue outros servidores."
-    },
-    {
-      "titulo": "El staff tiene la última palabra",
-      "texto": "Si tienes un problema, abre un ticket en Discord en vez de discutir en el chat.",
-      "titulo_en": "Staff has the final word",
-      "texto_en": "If you have a problem, open a ticket on Discord instead of arguing in chat.",
-      "titulo_pt": "A staff tem a palavra final",
-      "texto_pt": "Se tiver um problema, abra um ticket no Discord em vez de discutir no chat."
-    }
+  {
+   "titulo": "Juego limpio",
+   "texto": "Prohibidos los hacks, x-ray, auto-clickers y cualquier mod que dé ventaja.",
+   "titulo_en": "Fair play",
+   "texto_en": "No hacks, x-ray, auto-clickers or any mod that gives an advantage.",
+   "titulo_pt": "Jogo limpo",
+   "texto_pt": "Proibidos hacks, x-ray, auto-clickers e qualquer mod que dê vantagem."
+  },
+  {
+   "titulo": "Sin estafas",
+   "texto": "Los intercambios y ventas en el GTS deben ser honestos. Las estafas se sancionan.",
+   "titulo_en": "No scams",
+   "texto_en": "Trades and GTS sales must be honest. Scams are punished.",
+   "titulo_pt": "Sem golpes",
+   "texto_pt": "Trocas e vendas no GTS devem ser honestas. Golpes são punidos."
+  },
+  {
+   "titulo": "Respeta las construcciones",
+   "texto": "No destruyas ni robes lo que han hecho otros jugadores.",
+   "titulo_en": "Respect builds",
+   "texto_en": "Don't grief or steal what other players built.",
+   "titulo_pt": "Respeite as construções",
+   "texto_pt": "Não destrua nem roube o que outros jogadores fizeram."
+  },
+  {
+   "titulo": "Nada de spam ni publicidad",
+   "texto": "No llenes el chat ni anuncies otros servidores.",
+   "titulo_en": "No spam or ads",
+   "texto_en": "Don't flood the chat or advertise other servers.",
+   "titulo_pt": "Sem spam nem divulgação",
+   "texto_pt": "Não encha o chat nem divulgue outros servidores."
+  },
+  {
+   "titulo": "El staff tiene la última palabra",
+   "texto": "Si tienes un problema, abre un ticket en Discord en vez de discutir en el chat.",
+   "titulo_en": "Staff has the final word",
+   "texto_en": "If you have a problem, open a ticket on Discord instead of arguing in chat.",
+   "titulo_pt": "A staff tem a palavra final",
+   "texto_pt": "Se tiver um problema, abra um ticket no Discord em vez de discutir no chat."
+  }
+ ],
+ "reglamento": {
+  "actualizado": "2026-11-17",
+  "intro": "Al entrar en Quantum Network aceptas estas normas. Las sanciones son orientativas: el staff decide según la gravedad y el historial.",
+  "intro_en": "By joining Quantum Network you accept these rules. Punishments are a guide: staff decide based on severity and history.",
+  "intro_pt": "Ao entrar no Quantum Network você aceita estas regras. As punições são orientativas: a staff decide conforme a gravidade e o histórico.",
+  "categorias": [
+   {
+    "id": "chat",
+    "icono": "chat",
+    "titulo": "Chat y comunidad",
+    "titulo_en": "Chat and community",
+    "titulo_pt": "Chat e comunidade",
+    "reglas": [
+     {
+      "t": "Respeto ante todo",
+      "d": "Nada de insultos, acoso, discriminación, amenazas ni contenido sexual, ni en el chat, ni por voz, ni en nombres o apodos de Pokémon.",
+      "s": "Aviso → Mute 1 h → Mute 24 h → Ban",
+      "t_en": "Respect first",
+      "d_en": "No insults, harassment, discrimination, threats or sexual content in chat, voice, names or Pokémon nicknames.",
+      "s_en": "Warning → 1 h mute → 24 h mute → Ban",
+      "t_pt": "Respeito acima de tudo",
+      "d_pt": "Nada de insultos, assédio, discriminação, ameaças ou conteúdo sexual no chat, na voz, em nomes ou apelidos de Pokémon.",
+      "s_pt": "Aviso → Mute 1 h → Mute 24 h → Ban"
+     },
+     {
+      "t": "Sin spam ni publicidad",
+      "d": "No repitas mensajes, no abuses de mayúsculas o emojis y no anuncies otros servidores, enlaces o redes ajenas.",
+      "s": "Mute 30 min → Mute 24 h · Publicidad: Ban",
+      "t_en": "No spam or advertising",
+      "d_en": "Do not repeat messages, abuse caps or emojis, or advertise other servers, links or socials.",
+      "s_en": "30 min mute → 24 h mute · Advertising: Ban",
+      "t_pt": "Sem spam nem divulgação",
+      "d_pt": "Não repita mensagens, não abuse de maiúsculas ou emojis e não divulgue outros servidores, links ou redes.",
+      "s_pt": "Mute 30 min → Mute 24 h · Divulgação: Ban"
+     },
+     {
+      "t": "Temas sensibles fuera",
+      "d": "Política, religión y dramas personales se quedan fuera del chat público. Los conflictos se resuelven por ticket.",
+      "s": "Aviso → Mute 1 h",
+      "t_en": "Keep sensitive topics out",
+      "d_en": "Politics, religion and personal drama stay out of public chat. Disputes go to a ticket.",
+      "s_en": "Warning → 1 h mute",
+      "t_pt": "Temas sensíveis fora",
+      "d_pt": "Política, religião e dramas pessoais ficam fora do chat público. Conflitos vão para um ticket.",
+      "s_pt": "Aviso → Mute 1 h"
+     },
+     {
+      "t": "Datos personales",
+      "d": "No compartas ni pidas datos personales: direcciones, teléfonos, fotos o contraseñas.",
+      "s": "Ban temporal → Ban",
+      "t_en": "Personal data",
+      "d_en": "Do not share or ask for personal data: addresses, phone numbers, photos or passwords.",
+      "s_en": "Temporary ban → Ban",
+      "t_pt": "Dados pessoais",
+      "d_pt": "Não compartilhe nem peça dados pessoais: endereços, telefones, fotos ou senhas.",
+      "s_pt": "Ban temporário → Ban"
+     }
+    ]
+   },
+   {
+    "id": "juego",
+    "icono": "escudo",
+    "titulo": "Juego limpio",
+    "titulo_en": "Fair play",
+    "titulo_pt": "Jogo limpo",
+    "reglas": [
+     {
+      "t": "Cero trampas",
+      "d": "Prohibidos hacks, X-Ray, autoclickers, macros, minimapas con radar de entidades y cualquier cliente o mod que dé ventaja. Solo se permite lo que instala el launcher.",
+      "s": "Ban permanente",
+      "t_en": "Zero cheating",
+      "d_en": "Hacks, X-Ray, autoclickers, macros, entity-radar minimaps and any client or mod that gives an advantage are banned. Only what the launcher installs is allowed.",
+      "s_en": "Permanent ban",
+      "t_pt": "Zero trapaça",
+      "d_pt": "Proibidos hacks, X-Ray, autoclickers, macros, minimapas com radar de entidades e qualquer cliente ou mod que dê vantagem. Só é permitido o que o launcher instala.",
+      "s_pt": "Ban permanente"
+     },
+     {
+      "t": "Bugs y duplicaciones",
+      "d": "Si encuentras un fallo o una forma de duplicar objetos o Pokémon, repórtalo por ticket. Usarlo o enseñarlo se sanciona aunque sea \"para probar\".",
+      "s": "Reinicio del inventario + Ban",
+      "t_en": "Bugs and dupes",
+      "d_en": "If you find a bug or a way to duplicate items or Pokémon, report it by ticket. Using or sharing it is punished even \"just to test\".",
+      "s_en": "Inventory wipe + Ban",
+      "t_pt": "Bugs e duplicações",
+      "d_pt": "Se encontrar uma falha ou forma de duplicar itens ou Pokémon, reporte por ticket. Usar ou ensinar é punido mesmo que seja \"só para testar\".",
+      "s_pt": "Reset do inventário + Ban"
+     },
+     {
+      "t": "Una cuenta por persona",
+      "d": "No uses multicuentas para farmear recompensas diarias, llaves, votos o el pase. Tampoco compartas cuenta.",
+      "s": "Ban de todas las cuentas",
+      "t_en": "One account per person",
+      "d_en": "Do not use alt accounts to farm daily rewards, keys, votes or the pass. Do not share accounts.",
+      "s_en": "Ban of all accounts",
+      "t_pt": "Uma conta por pessoa",
+      "d_pt": "Não use contas extras para farmar recompensas diárias, chaves, votos ou o passe. Não compartilhe conta.",
+      "s_pt": "Ban de todas as contas"
+     },
+     {
+      "t": "Nada de AFK abusivo",
+      "d": "Granjas AFK, máquinas que esquivan el AFK y estar ausente en zonas de spawn de legendarios no está permitido.",
+      "s": "Kick → Ban 1 día",
+      "t_en": "No abusive AFK",
+      "d_en": "AFK farms, anti-AFK machines and idling at legendary spawn areas are not allowed.",
+      "s_en": "Kick → 1 day ban",
+      "t_pt": "Sem AFK abusivo",
+      "d_pt": "Farms AFK, máquinas anti-AFK e ficar ausente em áreas de spawn de lendários não é permitido.",
+      "s_pt": "Kick → Ban 1 dia"
+     }
+    ]
+   },
+   {
+    "id": "cobblemon",
+    "icono": "pokeball",
+    "titulo": "Cobblemon",
+    "titulo_en": "Cobblemon",
+    "titulo_pt": "Cobblemon",
+    "reglas": [
+     {
+      "t": "No robes capturas",
+      "d": "Si alguien ya está combatiendo a un Pokémon salvaje, no lo ataques, no le lances Poké Balls y no lo mates.",
+      "s": "Aviso → Ban 1 día → Ban 7 días",
+      "t_en": "Do not steal catches",
+      "d_en": "If someone is already battling a wild Pokémon, do not attack it, throw Poké Balls at it or kill it.",
+      "s_en": "Warning → 1 day ban → 7 day ban",
+      "t_pt": "Não roube capturas",
+      "d_pt": "Se alguém já está batalhando com um Pokémon selvagem, não o ataque, não jogue Poké Balls nem o mate.",
+      "s_pt": "Aviso → Ban 1 dia → Ban 7 dias"
+     },
+     {
+      "t": "Legendarios",
+      "d": "El anuncio indica quién está más cerca. El primero en iniciar el combate tiene prioridad; los demás esperan su turno sin interferir.",
+      "s": "Pérdida del legendario + Ban 3 días",
+      "t_en": "Legendaries",
+      "d_en": "The announcement shows who is closest. Whoever starts the battle first has priority; others wait without interfering.",
+      "s_en": "Legendary removed + 3 day ban",
+      "t_pt": "Lendários",
+      "d_pt": "O anúncio mostra quem está mais perto. Quem iniciar a batalha primeiro tem prioridade; os outros esperam sem interferir.",
+      "s_pt": "Perda do lendário + Ban 3 dias"
+     },
+     {
+      "t": "Raids en equipo",
+      "d": "No abandones una raid a propósito ni bloquees la entrada de una guarida para otros jugadores.",
+      "s": "Aviso → Bloqueo de raids 3 días",
+      "t_en": "Team raids",
+      "d_en": "Do not leave a raid on purpose or block a den entrance for other players.",
+      "s_en": "Warning → 3 day raid block",
+      "t_pt": "Raids em equipe",
+      "d_pt": "Não abandone uma raid de propósito nem bloqueie a entrada de uma toca para outros jogadores.",
+      "s_pt": "Aviso → Bloqueio de raids 3 dias"
+     },
+     {
+      "t": "Spawns limpios",
+      "d": "No uses chunk loaders, jaulas ni construcciones para bloquear o forzar los spawns de Pokémon de una zona.",
+      "s": "Retirada de la construcción → Ban 1 día",
+      "t_en": "Clean spawns",
+      "d_en": "Do not use chunk loaders, cages or builds to block or force Pokémon spawns in an area.",
+      "s_en": "Build removed → 1 day ban",
+      "t_pt": "Spawns limpos",
+      "d_pt": "Não use chunk loaders, jaulas ou construções para bloquear ou forçar spawns de Pokémon numa área.",
+      "s_pt": "Construção removida → Ban 1 dia"
+     },
+     {
+      "t": "Combates entre jugadores",
+      "d": "Acepta o rechaza los retos con educación. Desconectarte a mitad de un combate para no perder cuenta como derrota.",
+      "s": "Aviso → Ban 1 día",
+      "t_en": "Player battles",
+      "d_en": "Accept or decline challenges politely. Logging out mid-battle to avoid losing counts as a loss.",
+      "s_en": "Warning → 1 day ban",
+      "t_pt": "Batalhas entre jogadores",
+      "d_pt": "Aceite ou recuse desafios com educação. Desconectar no meio da batalha para não perder conta como derrota.",
+      "s_pt": "Aviso → Ban 1 dia"
+     }
+    ]
+   },
+   {
+    "id": "mundo",
+    "icono": "casa",
+    "titulo": "Construcción y mundo",
+    "titulo_en": "Building and world",
+    "titulo_pt": "Construção e mundo",
+    "reglas": [
+     {
+      "t": "Sin griefing ni robos",
+      "d": "No destruyas, modifiques ni saquees construcciones, cofres o granjas ajenas, estén protegidas o no.",
+      "s": "Restauración + Ban 7 días → Ban",
+      "t_en": "No griefing or stealing",
+      "d_en": "Do not destroy, change or loot other players' builds, chests or farms, protected or not.",
+      "s_en": "Restoration + 7 day ban → Ban",
+      "t_pt": "Sem griefing nem roubo",
+      "d_pt": "Não destrua, modifique ou saqueie construções, baús ou farms de outros, protegidas ou não.",
+      "s_pt": "Restauração + Ban 7 dias → Ban"
+     },
+     {
+      "t": "Distancia entre bases",
+      "d": "Construye a un mínimo de 100 bloques de otra base salvo que su dueño te dé permiso.",
+      "s": "Traslado de la construcción",
+      "t_en": "Distance between bases",
+      "d_en": "Build at least 100 blocks away from another base unless its owner gives permission.",
+      "s_en": "Build relocated",
+      "t_pt": "Distância entre bases",
+      "d_pt": "Construa a pelo menos 100 blocos de outra base, a menos que o dono permita.",
+      "s_pt": "Construção realocada"
+     },
+     {
+      "t": "Nada que cause lag",
+      "d": "Prohibidas las máquinas de lag, los relojes de redstone permanentes y las granjas desmedidas de entidades.",
+      "s": "Retirada → Ban 3 días",
+      "t_en": "Nothing that causes lag",
+      "d_en": "Lag machines, permanent redstone clocks and oversized entity farms are forbidden.",
+      "s_en": "Removed → 3 day ban",
+      "t_pt": "Nada que cause lag",
+      "d_pt": "Proibidas máquinas de lag, relógios de redstone permanentes e farms exageradas de entidades.",
+      "s_pt": "Removida → Ban 3 dias"
+     },
+     {
+      "t": "Construcciones apropiadas",
+      "d": "Nada de construcciones ofensivas, símbolos de odio ni contenido para adultos. Tampoco tapes caminos ni zonas públicas de Quanta.",
+      "s": "Retirada → Ban 1 día",
+      "t_en": "Appropriate builds",
+      "d_en": "No offensive builds, hate symbols or adult content. Do not block roads or public areas of Quanta.",
+      "s_en": "Removed → 1 day ban",
+      "t_pt": "Construções apropriadas",
+      "d_pt": "Nada de construções ofensivas, símbolos de ódio ou conteúdo adulto. Não bloqueie caminhos nem áreas públicas de Quanta.",
+      "s_pt": "Removida → Ban 1 dia"
+     }
+    ]
+   },
+   {
+    "id": "economia",
+    "icono": "moneda",
+    "titulo": "Economía y comercio",
+    "titulo_en": "Economy and trading",
+    "titulo_pt": "Economia e comércio",
+    "reglas": [
+     {
+      "t": "Nada de dinero real",
+      "d": "Prohibido vender o comprar Pokémon, objetos, CobbleDollars, llaves o cuentas por dinero real o cosas fuera del servidor.",
+      "s": "Ban permanente de ambas partes",
+      "t_en": "No real money",
+      "d_en": "Selling or buying Pokémon, items, CobbleDollars, keys or accounts for real money or off-server goods is forbidden.",
+      "s_en": "Permanent ban for both sides",
+      "t_pt": "Nada de dinheiro real",
+      "d_pt": "Proibido vender ou comprar Pokémon, itens, CobbleDollars, chaves ou contas por dinheiro real ou coisas fora do servidor.",
+      "s_pt": "Ban permanente das duas partes"
+     },
+     {
+      "t": "Tratos honestos",
+      "d": "Lo pactado se cumple. Las estafas en intercambios, la GTS o apuestas del CobbleCasino se sancionan; guarda capturas como prueba.",
+      "s": "Devolución + Ban 7 días → Ban",
+      "t_en": "Honest deals",
+      "d_en": "Agreements must be kept. Scams in trades, the GTS or CobbleCasino bets are punished; keep screenshots as proof.",
+      "s_en": "Refund + 7 day ban → Ban",
+      "t_pt": "Negócios honestos",
+      "d_pt": "O combinado se cumpre. Golpes em trocas, na GTS ou em apostas do CobbleCasino são punidos; guarde prints como prova.",
+      "s_pt": "Devolução + Ban 7 dias → Ban"
+     },
+     {
+      "t": "GTS justa",
+      "d": "No uses la GTS para mover objetos entre tus cuentas ni para manipular precios con ofertas falsas.",
+      "s": "Retirada de anuncios → Ban 3 días",
+      "t_en": "Fair GTS",
+      "d_en": "Do not use the GTS to move items between your accounts or to manipulate prices with fake listings.",
+      "s_en": "Listings removed → 3 day ban",
+      "t_pt": "GTS justa",
+      "d_pt": "Não use a GTS para mover itens entre suas contas nem para manipular preços com ofertas falsas.",
+      "s_pt": "Anúncios removidos → Ban 3 dias"
+     }
+    ]
+   },
+   {
+    "id": "staff",
+    "icono": "insignia",
+    "titulo": "Staff y sanciones",
+    "titulo_en": "Staff and punishments",
+    "titulo_pt": "Staff e punições",
+    "reglas": [
+     {
+      "t": "Respeta al staff",
+      "d": "Sigue sus indicaciones. Si no estás de acuerdo con una decisión, ábrelo por ticket en Discord, no en el chat público.",
+      "s": "Aviso → Mute 1 h",
+      "t_en": "Respect the staff",
+      "d_en": "Follow their instructions. If you disagree with a decision, open a Discord ticket, not public chat.",
+      "s_en": "Warning → 1 h mute",
+      "t_pt": "Respeite a staff",
+      "d_pt": "Siga as instruções. Se discordar de uma decisão, abra um ticket no Discord, não no chat público.",
+      "s_pt": "Aviso → Mute 1 h"
+     },
+     {
+      "t": "No suplantes a nadie",
+      "d": "Hacerte pasar por staff, por un creador o por otro jugador está prohibido.",
+      "s": "Ban 7 días → Ban",
+      "t_en": "Do not impersonate",
+      "d_en": "Pretending to be staff, a creator or another player is forbidden.",
+      "s_en": "7 day ban → Ban",
+      "t_pt": "Não se passe por ninguém",
+      "d_pt": "Fingir ser staff, criador ou outro jogador é proibido.",
+      "s_pt": "Ban 7 dias → Ban"
+     },
+     {
+      "t": "Apelaciones",
+      "d": "Toda sanción se puede apelar una vez por ticket en Discord con tu nombre, la fecha y tu explicación.",
+      "s": "—",
+      "t_en": "Appeals",
+      "d_en": "Every punishment can be appealed once by Discord ticket with your name, the date and your explanation.",
+      "s_en": "—",
+      "t_pt": "Apelações",
+      "d_pt": "Toda punição pode ser apelada uma vez por ticket no Discord com seu nome, a data e sua explicação.",
+      "s_pt": "—"
+     },
+     {
+      "t": "No conocer las normas no te exime",
+      "d": "Las normas pueden actualizarse; aquí siempre está la versión vigente. El staff puede sancionar conductas dañinas aunque no aparezcan escritas.",
+      "s": "—",
+      "t_en": "Not knowing the rules is no excuse",
+      "d_en": "Rules may be updated; this is always the current version. Staff may punish harmful behaviour even if it is not written here.",
+      "s_en": "—",
+      "t_pt": "Desconhecer as regras não isenta",
+      "d_pt": "As regras podem ser atualizadas; aqui está sempre a versão vigente. A staff pode punir condutas prejudiciais mesmo que não estejam escritas.",
+      "s_pt": "—"
+     }
+    ]
+   }
   ]
+ }
 }
