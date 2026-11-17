@@ -657,15 +657,6 @@
   "licencia": "MIT"
  },
  {
-  "slug": "cobblemon-mega-showdown",
-  "titulo": "Cobblemon: Mega Showdown",
-  "version": "1.3.3+1.8.4+1.21.1-release",
-  "archivo": "mega_showdown-fabric-1.3.3+1.8.4+1.21.1-release.jar",
-  "url": "https://cdn.modrinth.com/data/SszvX85I/versions/pToIDLtC/mega_showdown-fabric-1.3.3%2B1.8.4%2B1.21.1-release.jar",
-  "sha1": "4330a4a1e6ca10aabe5ae1d1956687ead17f2673",
-  "licencia": "LicenseRef-MEGA-SHOWDOWN-LICENSE-v2.1"
- },
- {
   "slug": "blabber",
   "titulo": "Blabber",
   "version": "1.8.1",

@@ -1,5 +1,5 @@
 # Mods del servidor Cobblemon · Fabric 1.21.1 · loader 0.20.1 · Java 21
-# Generado desde Modrinth. Además: quantumnet (mods_propios/).
+# Además: quantumnet (mods_propios/).
 https://cdn.modrinth.com/data/jtmvUHXj/versions/YZ9RWTNl/accessories-fabric-1.1.0-beta.54%2B1.21.1.jar
 https://cdn.modrinth.com/data/O5VsIpQY/versions/GR24Eah4/adventure-platform-fabric-5.14.2.jar
 https://cdn.modrinth.com/data/ulloLmqG/versions/8xUs6Teu/another_furniture-fabric-4.0.2.jar
@@ -75,7 +75,6 @@ https://cdn.modrinth.com/data/EltpO5cN/versions/nar56EsW/lootr-fabric-1.21.1-1.1
 https://cdn.modrinth.com/data/ywwXJDli/versions/nquNxBhW/lootrmon-fabric-1.21.1-0.0.0.3.jar
 https://cdn.modrinth.com/data/Vebnzrzj/versions/l47d4ZWk/LuckPerms-Fabric-5.4.140.jar
 https://cdn.modrinth.com/data/rH20L2Lp/versions/lUJ6xjps/mcw-holidays-1.1.2-mc1.21.1fabric.jar
-https://cdn.modrinth.com/data/SszvX85I/versions/pToIDLtC/mega_showdown-fabric-1.3.3%2B1.8.4%2B1.21.1-release.jar
 https://cdn.modrinth.com/data/nmDcB62a/versions/NnNX8LBn/modernfix-fabric-5.25.1%2Bmc1.21.1.jar
 https://cdn.modrinth.com/data/twkfQtEc/versions/uANIaPO7/moonlight-1.21.1-3.8.3-fabric.jar
 https://cdn.modrinth.com/data/P1Kv5EAO/versions/O6odCETu/Necronomicon-Fabric-1.6.0%2B1.21.jar
