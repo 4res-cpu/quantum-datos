@@ -1,16 +1,16 @@
 {
   "_comentario": "Lo lee el launcher al abrirse.",
   "modpack": {
-    "version": "network-0.2.3",
+    "version": "network-0.2.4",
     "nombre": "Quantum Network",
     "minecraft": "1.21.1",
     "fabricLoader": "0.20.1",
-    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.2.3.mrpack",
-    "size": 3200287,
-    "sha1": "c2a5894d0a032db74d0d9281e14eb33d0053be5c",
-    "sha512": "531028659a9c6cc10573605e2192e09113331888ef74824aa4e4a5616d76e203d5bce8c03c98a93848336054c5bb90c687f42dc7ea4d989eed783e98484ec32a",
-    "publicado": "2026-11-17T15:26:28.000Z",
-    "nota": "Menú principal nuevo, pantalla de carga y arreglo del crash al abrir un mundo."
+    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.2.4.mrpack",
+    "size": 3284403,
+    "sha1": "5a2b7a5033fc821f1cfb0eae340522e19bbd9bf5",
+    "sha512": "3f9544b83c8bfdb5efc9be94dc8edbd9b04d8aaf21560acdbca5040db81af0e77989380f678a4191b32caaa1ace0bad5753d8aef4e4c2ea2218e90da6cd1d298",
+    "publicado": "2026-11-17T15:47:52.000Z",
+    "nota": "Mega Showdown, botones nuevos del menú y arreglo del crash al abrir un mundo."
   },
   "launcher": {
     "version": "2.4.0",

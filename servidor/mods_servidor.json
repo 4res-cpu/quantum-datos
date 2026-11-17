@@ -1,894 +1,11 @@
 [
  {
-  "slug": "cobblemon_expeditions",
-  "titulo": "Cobblemon Expeditions",
-  "version": "1.8.2",
-  "archivo": "cobblemon-expeditions-fabric-1.8.2.jar",
-  "url": "https://cdn.modrinth.com/data/HtRy1shF/versions/qTi5HUVz/cobblemon-expeditions-fabric-1.8.2.jar",
-  "sha1": "49bdd9ebc1f4c24a57b84f9fc8e5e1ef16e7fd5e",
-  "licencia": "LicenseRef-All-Rights-Reserved"
- },
- {
-  "slug": "cobblemon-wonder-trade-serveronly",
-  "titulo": "Cobblemon Wonder Trade(ServerOnly)",
-  "version": "1.0.0",
-  "archivo": "cobblemon_wonder_trade_serveronly-fabric-1.0.0.jar",
-  "url": "https://cdn.modrinth.com/data/T6LZSJz0/versions/9QtZgCl7/cobblemon_wonder_trade_serveronly-fabric-1.0.0.jar",
-  "sha1": "fad2623a915617aba29f50d6fadcc8ccda1a10d4",
-  "licencia": "LicenseRef-All-Rights-Reserved"
- },
- {
-  "slug": "simple-voice-chat",
-  "titulo": "Simple Voice Chat",
-  "version": "fabric-1.21.1-2.6.22",
-  "archivo": "voicechat-fabric-1.21.1-2.6.22.jar",
-  "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/VS5X7jZd/voicechat-fabric-1.21.1-2.6.22.jar",
-  "sha1": "2b3f229ed746955b756807a92e09e9a32d636776",
-  "licencia": "LicenseRef-All-Rights-Reserved"
- },
- {
-  "slug": "gooeylibs",
-  "titulo": "GooeyLibs",
-  "version": "3.1.1-Fabric",
-  "archivo": "GooeyLibs-Fabric-3.1.1-1.21.x.jar",
-  "url": "https://cdn.modrinth.com/data/KzjvlKEN/versions/1CPIfFdT/GooeyLibs-Fabric-3.1.1-1.21.x.jar",
-  "sha1": "54f262263a277ffbf82eea9494418a4d6aadad26",
-  "licencia": "LGPL-3.0-or-later"
- },
- {
-  "slug": "cobblemon-battle-extras",
-  "titulo": "Cobblemon Battle Extras",
-  "version": "1.13.47",
-  "archivo": "cobblemon-battle-extras-fabric-1.13.47.jar",
-  "url": "https://cdn.modrinth.com/data/2iY8VFqL/versions/ZMERSNGG/cobblemon-battle-extras-fabric-1.13.47.jar",
-  "sha1": "00fc76292c333eef66abf0ab5cb3591d69c52bd3",
-  "licencia": "LicenseRef-All-Rights-Reserved"
- },
- {
-  "slug": "cobblerun",
-  "titulo": "Cobblemon Instant-Run",
-  "version": "1.1.0",
-  "archivo": "cobblerun-1.1.0.jar",
-  "url": "https://cdn.modrinth.com/data/f3YlFSGV/versions/Vs8iNEju/cobblerun-1.1.0.jar",
-  "sha1": "9567888c30112b4dc8ab240c780b57fbf8d60bf3",
-  "licencia": "MIT"
- },
- {
-  "slug": "rctmod",
-  "titulo": "Radical Cobblemon Trainers",
-  "version": "0.19.2-beta",
-  "archivo": "rctmod-fabric-1.21.1-0.19.2-beta.jar",
-  "url": "https://cdn.modrinth.com/data/lRwTUnD7/versions/rgfBfnW9/rctmod-fabric-1.21.1-0.19.2-beta.jar",
-  "sha1": "dba27885e477a583dffe1a46c83b4df6af96fc4c",
-  "licencia": "LicenseRef-MCOML"
- },
- {
-  "slug": "pokebelt-cobblemon",
-  "titulo": "Pokebelt [Cobblemon]",
-  "version": "0.1.6",
-  "archivo": "pokebelt-0.1.6.jar",
-  "url": "https://cdn.modrinth.com/data/kgst0RnJ/versions/EYkSCLO8/pokebelt-0.1.6.jar",
-  "sha1": "3bde77ae9229cf78351ad66f429def89296678fd",
-  "licencia": "MIT"
- },
- {
-  "slug": "ledger",
-  "titulo": "Ledger",
-  "version": "1.3.5",
-  "archivo": "ledger-1.3.5.jar",
-  "url": "https://cdn.modrinth.com/data/LVN9ygNV/versions/t1AtqfxZ/ledger-1.3.5.jar",
-  "sha1": "cd9b3722e540df48ba24b169a594132cbf1af1f3",
-  "licencia": "LGPL-3.0-only"
- },
- {
-  "slug": "worldedit",
-  "titulo": "WorldEdit",
-  "version": "7.3.8",
-  "archivo": "worldedit-mod-7.3.8.jar",
-  "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/WTAFvuRx/worldedit-mod-7.3.8.jar",
-  "sha1": "924fe181a29bd66be6783f6d589968ab0ee02250",
-  "licencia": "GPL-3.0-only"
- },
- {
-  "slug": "lets-do-beachparty",
-  "titulo": "[Let's Do] Beachparty",
-  "version": "2.1.5",
-  "archivo": "letsdo-beachparty-fabric-2.1.5.jar",
-  "url": "https://cdn.modrinth.com/data/GyKzAh3l/versions/jeZE0Qav/letsdo-beachparty-fabric-2.1.5.jar",
-  "sha1": "d07c974e72a42c243f008ac80216bf9234e35bb6",
-  "licencia": "LicenseRef-custom"
- },
- {
-  "slug": "tmcraft",
-  "titulo": "TMCraft",
-  "version": "1.4.19+1.8.4",
-  "archivo": "tmcraft-1.4.19+1.8.4.jar",
-  "url": "https://cdn.modrinth.com/data/HU6mkUZs/versions/aZiPJqde/tmcraft-1.4.19%2B1.8.4.jar",
-  "sha1": "04c86dd02a2802d4eb934ebbc07593eedbb2efac",
-  "licencia": "GPL-3.0-only"
- },
- {
-  "slug": "cobbledollars",
-  "titulo": "CobbleDollars [Cobblemon Addon]",
-  "version": "2.0.0+Beta-6.1",
-  "archivo": "CobbleDollars-fabric-2.0.0+Beta-6.1+1.21.1.jar",
-  "url": "https://cdn.modrinth.com/data/s7N7AsqL/versions/NQdxKsW7/CobbleDollars-fabric-2.0.0%2BBeta-6.1%2B1.21.1.jar",
-  "sha1": "a3f33a9d51be927c47fe72e12de6789e8bab98f2",
-  "licencia": "LicenseRef-All-Rights-Reserved"
- },
- {
-  "slug": "xaeros-world-map",
-  "titulo": "Xaero's World Map",
-  "version": "fabric-1.21.1-1.47.0",
-  "archivo": "xaeroworldmap-fabric-1.21.1-1.47.0.jar",
-  "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/XIR7GzC3/xaeroworldmap-fabric-1.21.1-1.47.0.jar",
-  "sha1": "db7ad23fe512dbc13a8286844fd9277c08a7ef5a",
-  "licencia": "LicenseRef-All-Rights-Reserved"
- },
- {
-  "slug": "cobbreeding",
-  "titulo": "Cobbreeding",
-  "version": "2.4.1",
-  "archivo": "Cobbreeding-fabric-2.4.1.jar",
-  "url": "https://cdn.modrinth.com/data/ItmVb4zY/versions/QEX1BKMf/Cobbreeding-fabric-2.4.1.jar",
-  "sha1": "4de6e86541ab2d94b1327ce68a26771e8f33f030",
-  "licencia": "LicenseRef-MIT-no-AI-no-reupload"
- },
- {
-  "slug": "blabber",
-  "titulo": "Blabber",
-  "version": "1.8.1",
-  "archivo": "blabber-1.8.1-standalone.jar",
-  "url": "https://cdn.modrinth.com/data/2oRMVFgd/versions/YthTUpyA/blabber-1.8.1-standalone.jar",
-  "sha1": "c28674b6357548d69b729e84981895e2f47b355a",
-  "licencia": "LGPL-3.0-or-later"
- },
- {
-  "slug": "travelersbackpack",
-  "titulo": "Traveler's Backpack",
-  "version": "1.21.1-10.1.40",
-  "archivo": "travelersbackpack-fabric-1.21.1-10.1.40.jar",
-  "url": "https://cdn.modrinth.com/data/rlloIFEV/versions/q2nboqiM/travelersbackpack-fabric-1.21.1-10.1.40.jar",
-  "sha1": "ac9374f91473db9fc003dad283c1b81f00d13807",
-  "licencia": "LGPL-3.0-only"
- },
- {
-  "slug": "servercore",
-  "titulo": "ServerCore",
-  "version": "1.5.19+1.21.1",
-  "archivo": "servercore-fabric-1.5.19+1.21.1.jar",
-  "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/GQ2a51Rl/servercore-fabric-1.5.19%2B1.21.1.jar",
-  "sha1": "a6982d25211a307416c6c050e41b087306caf6e8",
-  "licencia": "MIT"
- },
- {
-  "slug": "open-parties-and-claims",
-  "titulo": "Open Parties and Claims",
-  "version": "fabric-1.21.1-0.33.0",
-  "archivo": "open-parties-and-claims-fabric-1.21.1-0.33.0.jar",
-  "url": "https://cdn.modrinth.com/data/gF3BGWvG/versions/4XHYA7yQ/open-parties-and-claims-fabric-1.21.1-0.33.0.jar",
-  "sha1": "685e5f46457d67e001a34c203c0d87b9ae28c27d",
-  "licencia": "LGPL-3.0-only"
- },
- {
-  "slug": "jade",
-  "titulo": "Jade 🔍",
-  "version": "15.10.6+fabric",
-  "archivo": "Jade-1.21.1-Fabric-15.10.6.jar",
-  "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/adpNvTZS/Jade-1.21.1-Fabric-15.10.6.jar",
-  "sha1": "bed67c605cbc991f474b270581cfa04ed48228df",
-  "licencia": "CC-BY-NC-SA-4.0"
- },
- {
-  "slug": "pokeblocks",
-  "titulo": "Pokeblocks",
-  "version": "1.5.0-1.21.1",
-  "archivo": "pokeblocks-1.5.0-1.21.1.jar",
-  "url": "https://cdn.modrinth.com/data/hnOfcjSq/versions/qlp66lU8/pokeblocks-1.5.0-1.21.1.jar",
-  "sha1": "a767426171b3085775b57bfd53b66fe7fa6edd88",
-  "licencia": "CC-BY-NC-4.0"
- },
- {
-  "slug": "playeranimator",
-  "titulo": "playerAnimator",
-  "version": "2.0.4+1.21.1-fabric",
-  "archivo": "player-animation-lib-fabric-2.0.4+1.21.1.jar",
-  "url": "https://cdn.modrinth.com/data/gedNE4y2/versions/CkedfDp3/player-animation-lib-fabric-2.0.4%2B1.21.1.jar",
-  "sha1": "2985c208766cde078a39c22b5ad989b74b7bc490",
-  "licencia": "MIT"
- },
- {
-  "slug": "handcrafted",
-  "titulo": "Handcrafted",
-  "version": "4.0.3",
-  "archivo": "handcrafted-fabric-1.21.1-4.0.3.jar",
-  "url": "https://cdn.modrinth.com/data/pJmCFF0p/versions/f0pKpUWd/handcrafted-fabric-1.21.1-4.0.3.jar",
-  "sha1": "a9579fecd7ed429c282be21d5c921d220197acc6",
-  "licencia": "LicenseRef-Terrarium-Licence"
- },
- {
-  "slug": "lets-do-camping",
-  "titulo": "[Let's Do] Camping",
-  "version": "2.1.6",
-  "archivo": "letsdo-camping-fabric-2.1.6.jar",
-  "url": "https://cdn.modrinth.com/data/uJXTNuf0/versions/JBaReObR/letsdo-camping-fabric-2.1.6.jar",
-  "sha1": "7e7af0c11a7edfe37cb9840640ebced2201776d0",
-  "licencia": "LicenseRef-All-Rights-Reserved"
- },
- {
-  "slug": "yungs-api",
-  "titulo": "YUNG's API",
-  "version": "1.21.1-Fabric-5.1.9",
-  "archivo": "YungsApi-1.21.1-Fabric-5.1.9.jar",
-  "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/9rzwORd6/YungsApi-1.21.1-Fabric-5.1.9.jar",
-  "sha1": "28f46d1f21cf5b1ccb2efbccda6ba66ab2168407",
-  "licencia": "LGPL-3.0-only"
- },
- {
-  "slug": "textile_backup",
-  "titulo": "Textile Backup",
-  "version": "3.1.3-1.21",
-  "archivo": "textile_backup-3.1.3-1.21.jar",
-  "url": "https://cdn.modrinth.com/data/wwcspvkr/versions/C73KkDD6/textile_backup-3.1.3-1.21.jar",
-  "sha1": "f390d2acd7e963d2087580fa94b6e4eafe7ac652",
-  "licencia": "GPL-3.0-only"
- },
- {
-  "slug": "rad-gyms",
-  "titulo": "Rad Gyms [Cobblemon]",
-  "version": "1.8.3_0.5.2",
-  "archivo": "rad-gyms-fabric-0.5.2.jar",
-  "url": "https://cdn.modrinth.com/data/eF8kqlHd/versions/phkPsqy1/rad-gyms-fabric-0.5.2.jar",
-  "sha1": "9bad8a8831e33b3130583e5cc234a5661e8d4dee",
-  "licencia": "GPL-3.0-only"
- },
- {
-  "slug": "fabric-permissions-api",
-  "titulo": "fabric-permissions-api",
-  "version": "0.3.1",
-  "archivo": "fabric-permissions-api-0.3.1.jar",
-  "url": "https://cdn.modrinth.com/data/lzVo0Dll/versions/62DUD085/fabric-permissions-api-0.3.1.jar",
-  "sha1": "b45171374fefa7e0bd9d8bbb583ee383c2b9fe8a",
-  "licencia": "MIT"
- },
- {
-  "slug": "fzzy-config",
-  "titulo": "Fzzy Config",
-  "version": "0.7.7+1.21",
-  "archivo": "fzzy_config-0.7.7+1.21.jar",
-  "url": "https://cdn.modrinth.com/data/hYykXjDp/versions/zFccjYag/fzzy_config-0.7.7%2B1.21.jar",
-  "sha1": "5e96a2f5b0a26417c7f10f5bdbeaa62ec4ec4cd9",
-  "licencia": "LicenseRef-TDL-M"
- },
- {
-  "slug": "easy-npc",
-  "titulo": "Easy NPC",
-  "version": "7.19.0",
-  "archivo": "easy_npc_bundle-fabric-1.21.1-7.19.0.jar",
-  "url": "https://cdn.modrinth.com/data/CgGEe1h3/versions/qoCcSLcP/easy_npc_bundle-fabric-1.21.1-7.19.0.jar",
-  "sha1": "f44c02689fb08b4cfb1686cd26303165d145112d",
-  "licencia": "MIT"
- },
- {
-  "slug": "styledplayerlist",
-  "titulo": "Styled Player List",
-  "version": "3.5.1+1.21",
-  "archivo": "styledplayerlist-3.5.1+1.21.jar",
-  "url": "https://cdn.modrinth.com/data/DQIfKUHf/versions/Ui7MOgqG/styledplayerlist-3.5.1%2B1.21.jar",
-  "sha1": "f33770ba71d3e24b46591cefee106cf0e18d9eb7",
-  "licencia": "LGPL-3.0-only"
- },
- {
   "slug": "accessories",
   "titulo": "Accessories",
   "version": "1.1.0-beta.54+1.21.1",
   "archivo": "accessories-fabric-1.1.0-beta.54+1.21.1.jar",
   "url": "https://cdn.modrinth.com/data/jtmvUHXj/versions/YZ9RWTNl/accessories-fabric-1.1.0-beta.54%2B1.21.1.jar",
-  "sha1": "e1165f3d5b31d4296f932ec1bc428f2a832c5def",
-  "licencia": "MIT"
- },
- {
-  "slug": "yacl",
-  "titulo": "YetAnotherConfigLib (YACL)",
-  "version": "3.8.2+1.21.1-fabric",
-  "archivo": "yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
-  "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/o3cDn8Vp/yet_another_config_lib_v3-3.8.2%2B1.21.1-fabric.jar",
-  "sha1": "e075503382f70715ab9fc6f66d603397a86eb3e0",
-  "licencia": "LGPL-3.0-or-later"
- },
- {
-  "slug": "lootr",
-  "titulo": "Lootr",
-  "version": "1.21.1-1.11.38.127",
-  "archivo": "lootr-fabric-1.21.1-1.11.38.127.jar",
-  "url": "https://cdn.modrinth.com/data/EltpO5cN/versions/nar56EsW/lootr-fabric-1.21.1-1.11.38.127.jar",
-  "sha1": "6671786d4c36a33dcefff85d757022c2a8ed535f",
-  "licencia": "MIT"
- },
- {
-  "slug": "asymmetric-battles-api",
-  "titulo": "Asymmetric Battles API",
-  "version": "1.4.2+1.21.1",
-  "archivo": "asymmetricbattles-fabric-1.4.2+1.21.1.jar",
-  "url": "https://cdn.modrinth.com/data/sI88vVWl/versions/8SKIm6Cl/asymmetricbattles-fabric-1.4.2%2B1.21.1.jar",
-  "sha1": "13259947fbb0ca45e50d4b195635b8d0d1001d4f",
-  "licencia": "MIT"
- },
- {
-  "slug": "prickle",
-  "titulo": "Prickle",
-  "version": "21.1.11",
-  "archivo": "prickle-fabric-1.21.1-21.1.11.jar",
-  "url": "https://cdn.modrinth.com/data/aaRl8GiW/versions/Ef7P6Rb7/prickle-fabric-1.21.1-21.1.11.jar",
-  "sha1": "6d6032880be3b6469c5615fd2ea160bf5eb93ac2",
-  "licencia": "LGPL-2.1-only"
- },
- {
-  "slug": "rctapi",
-  "titulo": "Radical Cobblemon Trainers API",
-  "version": "0.16.2-beta",
-  "archivo": "rctapi-fabric-1.21.1-0.16.2-beta.jar",
-  "url": "https://cdn.modrinth.com/data/CBfM2yw7/versions/DoQNDXAU/rctapi-fabric-1.21.1-0.16.2-beta.jar",
-  "sha1": "3514532fea28e2e1160894428302eb1000af8459",
-  "licencia": "LicenseRef-MCOML"
- },
- {
-  "slug": "puzzles-lib",
-  "titulo": "Puzzles Lib",
-  "version": "21.1.66",
-  "archivo": "puzzleslib-v21.1.66-mc1.21.1+fabric.jar",
-  "url": "https://cdn.modrinth.com/data/QAGBst4M/versions/IV6k1yRp/puzzleslib-v21.1.66-mc1.21.1%2Bfabric.jar",
-  "sha1": "fc946af8992dbf77a1de98b2e9fbdb72071b495c",
-  "licencia": "MPL-2.0"
- },
- {
-  "slug": "kantoteleports",
-  "titulo": "KantoTeleports",
-  "version": "0.1.2",
-  "archivo": "kantoteleports-fabric-0.1.2.jar",
-  "url": "https://cdn.modrinth.com/data/OyzRRBl5/versions/oiq23Z9J/kantoteleports-fabric-0.1.2.jar",
-  "sha1": "a26a1524c35d1a1477b23cd09d14c4e4f97abe0e",
-  "licencia": "LicenseRef-CobbleKanto-Project-Custom-License"
- },
- {
-  "slug": "sceneblocks",
-  "titulo": "SceneBlocks",
-  "version": "0.2.5",
-  "archivo": "sceneblocks-fabric-0.2.5.jar",
-  "url": "https://cdn.modrinth.com/data/xjdeFxEb/versions/GhJzuYxJ/sceneblocks-fabric-0.2.5.jar",
-  "sha1": "c5608ce7e78fffe6500bc43b2514f5e991ab7ec2",
-  "licencia": "LicenseRef-CobbleKanto-Project-Custom-License"
- },
- {
-  "slug": "waystones",
-  "titulo": "Waystones",
-  "version": "21.1.47+fabric-1.21.1",
-  "archivo": "waystones-fabric-1.21.1-21.1.47.jar",
-  "url": "https://cdn.modrinth.com/data/LOpKHB2A/versions/Uv6FtJUQ/waystones-fabric-1.21.1-21.1.47.jar",
-  "sha1": "a8991709a855f9f1cc2bc8bf5dfc0e7ad30efcdd",
-  "licencia": "LicenseRef-All-Rights-Reserved"
- },
- {
-  "slug": "kantomodels",
-  "titulo": "KantoModels",
-  "version": "1.3.7",
-  "archivo": "kantomodels-fabric-1.3.7.jar",
-  "url": "https://cdn.modrinth.com/data/TlBGIutm/versions/ZOkDS0rq/kantomodels-fabric-1.3.7.jar",
-  "sha1": "79aa63caca6d55a8be91ef9d8ffb44b7729b7b85",
-  "licencia": "LicenseRef-CobbleKanto-Project-Custom-License"
- },
- {
-  "slug": "owo-lib",
-  "titulo": "oωo (owo-lib)",
-  "version": "0.12.15.4+1.21",
-  "archivo": "owo-lib-0.12.15.4+1.21.jar",
-  "url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/JB1fLQnc/owo-lib-0.12.15.4%2B1.21.jar",
-  "sha1": "45725e6d33b624e565a7a6e5d3627af40814288d",
-  "licencia": "MIT"
- },
- {
-  "slug": "macaws-holidays",
-  "titulo": "Macaw's Holidays",
-  "version": "1.1.2",
-  "archivo": "mcw-holidays-1.1.2-mc1.21.1fabric.jar",
-  "url": "https://cdn.modrinth.com/data/rH20L2Lp/versions/lUJ6xjps/mcw-holidays-1.1.2-mc1.21.1fabric.jar",
-  "sha1": "59a0d8de46d73ad29c907715d0e2c4973f7c369b",
-  "licencia": "LicenseRef-All-Rights-Reserved"
- },
- {
-  "slug": "bookshelf-lib",
-  "titulo": "Bookshelf",
-  "version": "21.1.81",
-  "archivo": "bookshelf-fabric-1.21.1-21.1.81.jar",
-  "url": "https://cdn.modrinth.com/data/uy4Cnpcm/versions/kpkjWpa5/bookshelf-fabric-1.21.1-21.1.81.jar",
-  "sha1": "c6cfd92af694102ee52ff1069f05804c75c0da7b",
-  "licencia": "LGPL-2.1-only"
- },
- {
-  "slug": "geckolib",
-  "titulo": "Geckolib",
-  "version": "4.9.3",
-  "archivo": "geckolib-fabric-1.21.1-4.9.3.jar",
-  "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/tmxM7U4W/geckolib-fabric-1.21.1-4.9.3.jar",
-  "sha1": "b3a6aff6ffff34d20ffde1faa640bcf17ff4b646",
-  "licencia": "MIT"
- },
- {
-  "slug": "emotecraft",
-  "titulo": "Emotecraft",
-  "version": "2.4.12+1.21.1-fabric",
-  "archivo": "emotecraft-for-MC1.21.1-2.4.12-fabric.jar",
-  "url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/daqt5qcK/emotecraft-for-MC1.21.1-2.4.12-fabric.jar",
-  "sha1": "9be2a237e27f20d2d00f0036a8be53d7d66c5df5",
-  "licencia": "GPL-3.0-or-later"
- },
- {
-  "slug": "tbcs",
-  "titulo": "Cobblemon Trainer Battle Commands",
-  "version": "0.15.0-beta",
-  "archivo": "tbcs-fabric-1.21.1-0.15.0-beta.jar",
-  "url": "https://cdn.modrinth.com/data/NApIzVVy/versions/38O58pij/tbcs-fabric-1.21.1-0.15.0-beta.jar",
-  "sha1": "8f1c7e2f1b9e7c9d58c9bae7da6857702fc713d5",
-  "licencia": "LicenseRef-MCOML"
- },
- {
-  "slug": "essential-commands",
-  "titulo": "Essential Commands",
-  "version": "0.35.2-mc1.21",
-  "archivo": "essential_commands-0.35.2-mc1.21.jar",
-  "url": "https://cdn.modrinth.com/data/6VdDUivB/versions/kev3hDqV/essential_commands-0.35.2-mc1.21.jar",
-  "sha1": "1dda78e1ecace03b1a622611ef8783bb1259dc91",
-  "licencia": "MIT"
- },
- {
-  "slug": "shadowcrates",
-  "titulo": "ShadowCrates",
-  "version": "2.3",
-  "archivo": "ShadowCrates-2.3.jar",
-  "url": "https://cdn.modrinth.com/data/f136wypQ/versions/kma0bh77/ShadowCrates-2.3.jar",
-  "sha1": "8ef82df62c0df3649d1d1c834de63d8964e92533",
-  "licencia": "GPL-3.0-only"
- },
- {
-  "slug": "lets-do-farm-charm",
-  "titulo": "[Let's Do] Farm & Charm",
-  "version": "1.1.29",
-  "archivo": "letsdo-farm_and_charm-fabric-1.1.29.jar",
-  "url": "https://cdn.modrinth.com/data/HJetCzWo/versions/dBeMI34d/letsdo-farm_and_charm-fabric-1.1.29.jar",
-  "sha1": "4fbc56453b634119af065d4331497650eb86798c",
-  "licencia": "LicenseRef-Custom"
- },
- {
-  "slug": "cobblemon-leaderboards",
-  "titulo": "Cobblemon Leaderboards",
-  "version": "4.0",
-  "archivo": "cobblemon-leaderboards-fabric-4.0.jar",
-  "url": "https://cdn.modrinth.com/data/Vb1pXlt5/versions/2x3Gdj5P/cobblemon-leaderboards-fabric-4.0.jar",
-  "sha1": "42cd64546463db005ffabf18bff0892739ab44ff",
-  "licencia": "LicenseRef-All-Rights-Reserved"
- },
- {
-  "slug": "cobblemissions",
-  "titulo": "CobbleMissions",
-  "version": "1.0.2",
-  "archivo": "CobbleMissions-1.7.1-1.21.1-fabric-1.0.2.jar",
-  "url": "https://cdn.modrinth.com/data/MuXVwgP2/versions/WLacuhT6/CobbleMissions-1.7.1-1.21.1-fabric-1.0.2.jar",
-  "sha1": "3d06f0d440f3e41a928e1580a8c4c08f47e94628",
-  "licencia": "LicenseRef-All-Rights-Reserved"
- },
- {
-  "slug": "anti-xray",
-  "titulo": "AntiXray",
-  "version": "1.4.8+1.21.1",
-  "archivo": "antixray-fabric-1.4.8+1.21.1.jar",
-  "url": "https://cdn.modrinth.com/data/sml2FMaA/versions/KlJq0gHr/antixray-fabric-1.4.8%2B1.21.1.jar",
-  "sha1": "dd56c75c66916ae5c7ebcff381c3a613be4c5dc8",
-  "licencia": "MIT"
- },
- {
-  "slug": "no-chat-reports",
-  "titulo": "No Chat Reports",
-  "version": "Fabric-1.21.1-v2.9.1",
-  "archivo": "NoChatReports-FABRIC-1.21.1-v2.9.1.jar",
-  "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/D8K0KJXM/NoChatReports-FABRIC-1.21.1-v2.9.1.jar",
-  "sha1": "789cabd9b1fed079af87f675d1d6c1c95b603e19",
-  "licencia": "WTFPL"
- },
- {
-  "slug": "balm",
-  "titulo": "Balm",
-  "version": "21.0.67+fabric-1.21.1",
-  "archivo": "balm-fabric-1.21.1-21.0.67.jar",
-  "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/HY6fKMHC/balm-fabric-1.21.1-21.0.67.jar",
-  "sha1": "f839c990308271aa85f7d85b710a1d88388295a0",
-  "licencia": "LicenseRef-All-Rights-Reserved"
- },
- {
-  "slug": "lithostitched",
-  "titulo": "Lithostitched",
-  "version": "1.8.1-fabric-21.1",
-  "archivo": "lithostitched-1.8.1-fabric-21.1.jar",
-  "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/GZFp8lnS/lithostitched-1.8.1-fabric-21.1.jar",
-  "sha1": "f295e89ad7f18a2ba20da2deb33efabfbe63ed43",
-  "licencia": "MIT"
- },
- {
-  "slug": "shatterbyte-lib",
-  "titulo": "ShatterLib | OctoLib",
-  "version": "0.6.3.2+1.21",
-  "archivo": "OctoLib-FABRIC-0.6.3.2+1.21.jar",
-  "url": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/auboAQ8R/OctoLib-FABRIC-0.6.3.2%2B1.21.jar",
-  "sha1": "db0884f7f447c48bcf7acdcbb321b3a8fc815996",
-  "licencia": "LicenseRef-All-Rights-Reserved"
- },
- {
-  "slug": "cardinal-components-api",
-  "titulo": "Cardinal Components API",
-  "version": "6.1.3",
-  "archivo": "cardinal-components-api-6.1.3.jar",
-  "url": "https://cdn.modrinth.com/data/K01OU20C/versions/nLsCe2VD/cardinal-components-api-6.1.3.jar",
-  "sha1": "e762f5205c0fd0f9bed1c04432bf9b51ec832882",
-  "licencia": "MIT"
- },
- {
-  "slug": "axiom",
-  "titulo": "Axiom",
-  "version": "6.1.5",
-  "archivo": "Axiom-6.1.5-for-MC1.21.1.jar",
-  "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/wgJEj8EH/Axiom-6.1.5-for-MC1.21.1.jar",
-  "sha1": "450919d97afac784962376364ebb19f13fa90343",
-  "licencia": "LicenseRef-All-Rights-Reserved"
- },
- {
-  "slug": "better-combat",
-  "titulo": "Better Combat",
-  "version": "2.4.0+1.21.1-fabric",
-  "archivo": "bettercombat-fabric-2.4.0+1.21.1.jar",
-  "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/JJQpBecL/bettercombat-fabric-2.4.0%2B1.21.1.jar",
-  "sha1": "38d1d1f22e9255092baf85abf93a3b9746fa6ed1",
-  "licencia": "LicenseRef-All-Rights-Reserved"
- },
- {
-  "slug": "cobblemon-hunt",
-  "titulo": "Cobblemon Hunt",
-  "version": "1.3.1",
-  "archivo": "Hunt-1.3.1-fabric.jar",
-  "url": "https://cdn.modrinth.com/data/QMAwqHhY/versions/Eq3nT99Z/Hunt-1.3.1-fabric.jar",
-  "sha1": "44fed9a635adb40c846de7e65e2b015a59d0ec66",
-  "licencia": "MIT"
- },
- {
-  "slug": "appleskin",
-  "titulo": "AppleSkin",
-  "version": "3.0.6+mc1.21",
-  "archivo": "appleskin-fabric-mc1.21-3.0.6.jar",
-  "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/b5ZiCjAr/appleskin-fabric-mc1.21-3.0.6.jar",
-  "sha1": "97452cfadfde1f8f8c67838643019eabafa58fbb",
-  "licencia": "Unlicense"
- },
- {
-  "slug": "dex-rewards",
-  "titulo": "Cobblemon - Dex Rewards",
-  "version": "3.2.0-1.8.0",
-  "archivo": "DexRewards-3.2.0-1.8.0.jar",
-  "url": "https://cdn.modrinth.com/data/D2HLNWaE/versions/lAY4vnX1/DexRewards-3.2.0-1.8.0.jar",
-  "sha1": "06fb4500a127d71bae5c6eb38c8fe8d2d4bb28d6",
-  "licencia": "LicenseRef-All-Rights-Reserved"
- },
- {
-  "slug": "cobblemon-armory",
-  "titulo": "Cobblemon: Armory",
-  "version": "1.5.4",
-  "archivo": "cobblemonarmory-1.5.4-fabric-1.21.1.jar",
-  "url": "https://cdn.modrinth.com/data/2GSJkNsi/versions/PtHN23gq/cobblemonarmory-1.5.4-fabric-1.21.1.jar",
-  "sha1": "f2ee46e0d7eb54f524392f8ab75c5d4bf94f28dc",
-  "licencia": "LicenseRef-Cobblemon-Armory"
- },
- {
-  "slug": "fabric-language-kotlin",
-  "titulo": "Fabric Language Kotlin",
-  "version": "1.14.2+kotlin.2.4.21",
-  "archivo": "fabric-language-kotlin-1.14.2+kotlin.2.4.21.jar",
-  "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/SKW1BTL3/fabric-language-kotlin-1.14.2%2Bkotlin.2.4.21.jar",
-  "sha1": "f1d4ab6ecd54d9782521333a87eb50724ecb03e0",
-  "licencia": "Apache-2.0"
- },
- {
-  "slug": "cobbledaily",
-  "titulo": "CobbleDaily",
-  "version": "1.0.2",
-  "archivo": "CobbleDaily-1.7.1-1.21.1-fabric-1.0.2.jar",
-  "url": "https://cdn.modrinth.com/data/YGEJznGu/versions/eM5Bwdgk/CobbleDaily-1.7.1-1.21.1-fabric-1.0.2.jar",
-  "sha1": "5742badebd58f5b510383f3f16be83507942d863",
-  "licencia": "LicenseRef-All-Rights-Reserved"
- },
- {
-  "slug": "elevatormod",
-  "titulo": "ElevatorMod",
-  "version": "1.21-1.11.1",
-  "archivo": "elevatorid-fabric-1.21-1.11.1.jar",
-  "url": "https://cdn.modrinth.com/data/hi2dSXTu/versions/IYcefR0v/elevatorid-fabric-1.21-1.11.1.jar",
-  "sha1": "3f34470781f4b5cbeb1e83a259cceae616077b67",
-  "licencia": "MIT"
- },
- {
-  "slug": "pokebike",
-  "titulo": "PokeBike [Cobblemon & Pixelmon Addon]",
-  "version": "4.0",
-  "archivo": "pokebike-fabric-4.0.jar",
-  "url": "https://cdn.modrinth.com/data/8eqU62OI/versions/AK9vIaHl/pokebike-fabric-4.0.jar",
-  "sha1": "d1e026d78699f149d47f853224e813ed4689020c",
-  "licencia": "LicenseRef-All-Rights-Reserved"
- },
- {
-  "slug": "trinkets",
-  "titulo": "Trinkets",
-  "version": "3.10.0",
-  "archivo": "trinkets-3.10.0.jar",
-  "url": "https://cdn.modrinth.com/data/5aaWibi9/versions/JagCscwi/trinkets-3.10.0.jar",
-  "sha1": "f54756f938c7c273713b9f97d4a987eec551e892",
-  "licencia": "MIT"
- },
- {
-  "slug": "kantonpcs",
-  "titulo": "KantoNPCs",
-  "version": "1.0.7",
-  "archivo": "kantonpcs-fabric-1.0.7.jar",
-  "url": "https://cdn.modrinth.com/data/ifw9j2BM/versions/Ktl403Uz/kantonpcs-fabric-1.0.7.jar",
-  "sha1": "77b3617d935409b65faf36fb83ad3e8d67f94381",
-  "licencia": "LicenseRef-CobbleKanto-Project-Custom-License"
- },
- {
-  "slug": "framework",
-  "titulo": "Framework (MrCrayfish)",
-  "version": "0.13.11",
-  "archivo": "framework-fabric-1.21.1-0.13.11.jar",
-  "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/mods-extra/framework-fabric-1.21.1-0.13.11.jar",
-  "sha1": "87ce6c5c312da043e823e9407a04d307b5974d06",
-  "licencia": "LGPL-2.1"
- },
- {
-  "slug": "styled-chat",
-  "titulo": "Styled Chat",
-  "version": "2.6.1+1.21",
-  "archivo": "styled-chat-2.6.1+1.21.jar",
-  "url": "https://cdn.modrinth.com/data/doqSKB0e/versions/4e1xZSk3/styled-chat-2.6.1%2B1.21.jar",
-  "sha1": "e6ab5db7b89994cb23e55de7f868731b22770a0b",
-  "licencia": "LGPL-3.0-only"
- },
- {
-  "slug": "resourceful-lib",
-  "titulo": "Resourceful Lib",
-  "version": "3.0.12",
-  "archivo": "resourcefullib-fabric-1.21-3.0.12.jar",
-  "url": "https://cdn.modrinth.com/data/G1hIVOrD/versions/Hf91FuVF/resourcefullib-fabric-1.21-3.0.12.jar",
-  "sha1": "cb67e1302b5116953f45556cc61dbcf40d986ecd",
-  "licencia": "MIT"
- },
- {
-  "slug": "amendments",
-  "titulo": "Amendments",
-  "version": "1.21-2.2.7",
-  "archivo": "amendments-1.21-2.2.7-fabric.jar",
-  "url": "https://cdn.modrinth.com/data/6iTJugQR/versions/NqrM19MZ/amendments-1.21-2.2.7-fabric.jar",
-  "sha1": "032998d7cfbc522638df61eecff59aa245627312",
-  "licencia": "LicenseRef-Supplementaries-Team-License-1.1"
- },
- {
-  "slug": "additional-items-for-cobblemon",
-  "titulo": "Additional items for Cobblemon",
-  "version": "4.0.0",
-  "archivo": "cobblemon-progress-items-4.0.0.jar",
-  "url": "https://cdn.modrinth.com/data/ykXd5c2f/versions/fo8URNBl/cobblemon-progress-items-4.0.0.jar",
-  "sha1": "22d3f175b682ad2fec275d37e0d7f80b80eb4633",
-  "licencia": "MIT"
- },
- {
-  "slug": "fabric-api",
-  "titulo": "Fabric API",
-  "version": "0.116.18+1.21.1",
-  "archivo": "fabric-api-0.116.18+1.21.1.jar",
-  "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/5SwzqWUu/fabric-api-0.116.18%2B1.21.1.jar",
-  "sha1": "584d303f646287ee6be059ecb2fc451255be9ee9",
-  "licencia": "Apache-2.0"
- },
- {
-  "slug": "emojiful",
-  "titulo": "Emojiful",
-  "version": "1.21-5.2.4",
-  "archivo": "Emojiful-Fabric-1.21-5.2.4.jar",
-  "url": "https://cdn.modrinth.com/data/72GXx2MO/versions/SrKSk6qG/Emojiful-Fabric-1.21-5.2.4.jar",
-  "sha1": "a76e030231cab828651da3fdcdd0c6d51167581a",
-  "licencia": "MIT"
- },
- {
-  "slug": "moonlight",
-  "titulo": "Moonlight Lib",
-  "version": "1.21.1-3.8.3",
-  "archivo": "moonlight-1.21.1-3.8.3-fabric.jar",
-  "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/uANIaPO7/moonlight-1.21.1-3.8.3-fabric.jar",
-  "sha1": "35724514c6ab57ac255364c7b385dde7c0991a57",
-  "licencia": "LicenseRef-LGPL-with-additional-dependency-clause"
- },
- {
-  "slug": "farmers-delight-refabricated",
-  "titulo": "Farmer's Delight Refabricated",
-  "version": "1.21.1-3.3.6",
-  "archivo": "FarmersDelight-1.21.1-3.3.6+refabricated.jar",
-  "url": "https://cdn.modrinth.com/data/7vxePowz/versions/wbVXT4Ua/FarmersDelight-1.21.1-3.3.6%2Brefabricated.jar",
-  "sha1": "6d75a472d56c7cf0e9abc7e654861076e8eff389",
-  "licencia": "MIT"
- },
- {
-  "slug": "another-furniture",
-  "titulo": "Another Furniture",
-  "version": "4.0.2",
-  "archivo": "another_furniture-fabric-4.0.2.jar",
-  "url": "https://cdn.modrinth.com/data/ulloLmqG/versions/8xUs6Teu/another_furniture-fabric-4.0.2.jar",
-  "sha1": "c2f992081bdc4795ed6d87771a3b5f7c71103785",
-  "licencia": "LicenseRef-Custom"
- },
- {
-  "slug": "cobblekanto-core",
-  "titulo": "CobbleKanto Core",
-  "version": "0.9.3",
-  "archivo": "cobblekanto-fabric-0.9.3.jar",
-  "url": "https://cdn.modrinth.com/data/pbPnuXkr/versions/EFMYv4Qs/cobblekanto-fabric-0.9.3.jar",
-  "sha1": "2f8e49b860ab74cff2cdaf11599e0d8bea44bdbf",
-  "licencia": "LicenseRef-CobbleKanto-Project-Custom-License"
- },
- {
-  "slug": "cobblemon-pokenav",
-  "titulo": "Cobblemon PokeNav",
-  "version": "2.4.2",
-  "archivo": "cobblenav-fabric-2.4.2.jar",
-  "url": "https://cdn.modrinth.com/data/bI8Nt3uA/versions/wq3mHFqw/cobblenav-fabric-2.4.2.jar",
-  "sha1": "3cc7b24e9a62c82191de5473764283333b1b4d76",
-  "licencia": "MPL-2.0"
- },
- {
-  "slug": "chunky",
-  "titulo": "Chunky",
-  "version": "1.4.23",
-  "archivo": "Chunky-Fabric-1.4.23.jar",
-  "url": "https://cdn.modrinth.com/data/fALzjamp/versions/RVFHfo1D/Chunky-Fabric-1.4.23.jar",
-  "sha1": "6c8098fc0f124c7b6492de60db0108747f7f9821",
-  "licencia": "GPL-3.0-only"
- },
- {
-  "slug": "cloth-config",
-  "titulo": "Cloth Config API",
-  "version": "15.0.140+fabric",
-  "archivo": "cloth-config-15.0.140-fabric.jar",
-  "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/HpMb5wGb/cloth-config-15.0.140-fabric.jar",
-  "sha1": "5d82342a2df53fd6df712bfdd583a811572918a4",
-  "licencia": "LGPL-3.0-only"
- },
- {
-  "slug": "supplementaries",
-  "titulo": "Supplementaries",
-  "version": "1.21.1-4.1.2",
-  "archivo": "supplementaries-1.21.1-4.1.2-fabric.jar",
-  "url": "https://cdn.modrinth.com/data/fFEIiSDQ/versions/i2grVyOU/supplementaries-1.21.1-4.1.2-fabric.jar",
-  "sha1": "d86d67d0204817065c84426ad692fc2c59c3aa8b",
-  "licencia": "LicenseRef-Supplementaries-Team-License"
- },
- {
-  "slug": "kantospawners",
-  "titulo": "KantoSpawners",
-  "version": "0.0.5",
-  "archivo": "kantospawners-fabric-0.0.5.jar",
-  "url": "https://cdn.modrinth.com/data/nMbGdRyw/versions/z02sACUD/kantospawners-fabric-0.0.5.jar",
-  "sha1": "781b8161a61f4b98d571701f3f7f0dcf8a213c62",
-  "licencia": "LicenseRef-CobbleKanto-Project-Custom-License"
- },
- {
-  "slug": "exposure",
-  "titulo": "Exposure",
-  "version": "1.9.21",
-  "archivo": "exposure-fabric-1.21.1-1.9.21.jar",
-  "url": "https://cdn.modrinth.com/data/hB899VmG/versions/V8jUhCBa/exposure-fabric-1.21.1-1.9.21.jar",
-  "sha1": "0e3223d7ef9a913685ac7ebc82fa8f4ef61565be",
-  "licencia": "MIT"
- },
- {
-  "slug": "easy-npc-config-ui",
-  "titulo": "Easy NPC: Config UI",
-  "version": "7.19.0",
-  "archivo": "easy_npc_config_ui-fabric-1.21.1-7.19.0.jar",
-  "url": "https://cdn.modrinth.com/data/uTGjf7vA/versions/5W9HBf8z/easy_npc_config_ui-fabric-1.21.1-7.19.0.jar",
-  "sha1": "41babac9a98b65585e7e872350c6487df398bdfd",
-  "licencia": "MIT"
- },
- {
-  "slug": "cobblebetternpc",
-  "titulo": "CobbleBetterNPC",
-  "version": "1.1.1",
-  "archivo": "CobbleBetterNPC-1.7.3-1.21.1-fabric-1.1.1.jar",
-  "url": "https://cdn.modrinth.com/data/aJnNiXsu/versions/y9bofq0d/CobbleBetterNPC-1.7.3-1.21.1-fabric-1.1.1.jar",
-  "sha1": "b08187d167ee80c08cde28df42a8ec39ef80d595",
-  "licencia": "LicenseRef-All-Rights-Reserved"
- },
- {
-  "slug": "lithium",
-  "titulo": "Lithium",
-  "version": "mc1.21.1-0.15.4-fabric",
-  "archivo": "lithium-fabric-0.15.4+mc1.21.1.jar",
-  "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/N08Z8wog/lithium-fabric-0.15.4%2Bmc1.21.1.jar",
-  "sha1": "7d82a004403b7780d4443d8e40361a55cfd0ae63",
-  "licencia": "LGPL-3.0-only"
- },
- {
-  "slug": "creativecore",
-  "titulo": "CreativeCore",
-  "version": "2.13.54",
-  "archivo": "CreativeCore_FABRIC_v2.13.54_mc1.21.1.jar",
-  "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/Ise84NW9/CreativeCore_FABRIC_v2.13.54_mc1.21.1.jar",
-  "sha1": "9da96bf5f5a1e486f2b41200cc0b820783e77aac",
-  "licencia": "LGPL-3.0-only"
- },
- {
-  "slug": "luckperms",
-  "titulo": "LuckPerms",
-  "version": "v5.4.140-fabric",
-  "archivo": "LuckPerms-Fabric-5.4.140.jar",
-  "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/l47d4ZWk/LuckPerms-Fabric-5.4.140.jar",
-  "sha1": "5368c9a12f181eeeae124b70395691780e5cb657",
-  "licencia": "MIT"
- },
- {
-  "slug": "iceberg",
-  "titulo": "Iceberg",
-  "version": "1.3.2",
-  "archivo": "Iceberg-1.21.1-fabric-1.3.2.jar",
-  "url": "https://cdn.modrinth.com/data/5faXoLqX/versions/7ITFAyW8/Iceberg-1.21.1-fabric-1.3.2.jar",
-  "sha1": "170e30bf93ccba6d80dd481eedddae16cb549d29",
-  "licencia": "CC-BY-NC-ND-4.0"
- },
- {
-  "slug": "cobblemonraiddens",
-  "titulo": "Cobblemon Raid Dens",
-  "version": "0.14.3+1.21.1",
-  "archivo": "cobblemonraiddens-fabric-0.14.3+1.21.1.jar",
-  "url": "https://cdn.modrinth.com/data/GebWh45l/versions/fQaQCnrv/cobblemonraiddens-fabric-0.14.3%2B1.21.1.jar",
-  "sha1": "599c8165036788794bf9b90f6cd2d4de55108700",
-  "licencia": "MIT"
- },
- {
-  "slug": "bluemap",
-  "titulo": "BlueMap",
-  "version": "5.7-fabric",
-  "archivo": "bluemap-5.7-fabric.jar",
-  "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/Dr2hvJBc/bluemap-5.7-fabric.jar",
-  "sha1": "42777d6140234a75243c04156b63cfbe562a1cdb",
-  "licencia": "MIT"
- },
- {
-  "slug": "forge-config-api-port",
-  "titulo": "Forge Config API Port",
-  "version": "v21.1.6-1.21.1-Fabric",
-  "archivo": "ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
-  "url": "https://cdn.modrinth.com/data/ohNO6lps/versions/N5qzq0XV/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
-  "sha1": "18bf1f21cd2db6dcd4e42db85eae54e2a49a48ee",
-  "licencia": "MPL-2.0"
- },
- {
-  "slug": "xaeros-minimap",
-  "titulo": "Xaero's Minimap",
-  "version": "fabric-1.21.1-26.6.0",
-  "archivo": "xaerominimap-fabric-1.21.1-26.6.0.jar",
-  "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/W4dcLcUs/xaerominimap-fabric-1.21.1-26.6.0.jar",
-  "sha1": "5fbb03dd3f22c0c3d5466d1366222d7d277a8df3",
-  "licencia": "LicenseRef-All-Rights-Reserved"
- },
- {
-  "slug": "cobblemon-utility-plus",
-  "titulo": "Cobblemon Utility+ (IVs, EVs, & More)",
-  "version": "1.8.0",
-  "archivo": "Cobblemon-Utility+-fabric-1.8.0.jar",
-  "url": "https://cdn.modrinth.com/data/ePxok8ID/versions/JIzdem7c/Cobblemon-Utility%2B-fabric-1.8.0.jar",
-  "sha1": "8a5dc3b27cfe99460df6bc245ff02c9f456420a9",
-  "licencia": "MIT"
+  "sha1": "e1165f3d5b31d4296f932ec1bc428f2a832c5def"
  },
  {
   "slug": "adventure-platform-mod",
@@ -896,242 +13,39 @@
   "version": "5.14.2",
   "archivo": "adventure-platform-fabric-5.14.2.jar",
   "url": "https://cdn.modrinth.com/data/O5VsIpQY/versions/GR24Eah4/adventure-platform-fabric-5.14.2.jar",
-  "sha1": "5d5d0aa400ca1afe0d9ba9fffe3a3ec9ee328053",
-  "licencia": "MIT"
+  "sha1": "5d5d0aa400ca1afe0d9ba9fffe3a3ec9ee328053"
  },
  {
-  "slug": "cobblemon-cities-structures",
-  "titulo": "Cobblemon Cities & Structures",
-  "version": "1.0.17",
-  "archivo": "Cobblemon Cities & Structures-1.0.17.jar",
-  "url": "https://cdn.modrinth.com/data/IqCPvv9e/versions/P5QkWkYQ/Cobblemon%20Cities%20%26%20Structures-1.0.17.jar",
-  "sha1": "7557ee920290882a152236939fee9e5c68d7e99f",
-  "licencia": "MIT"
+  "slug": "amendments",
+  "titulo": "Amendments",
+  "version": "1.21-2.2.7",
+  "archivo": "amendments-1.21-2.2.7-fabric.jar",
+  "url": "https://cdn.modrinth.com/data/6iTJugQR/versions/NqrM19MZ/amendments-1.21-2.2.7-fabric.jar",
+  "sha1": "032998d7cfbc522638df61eecff59aa245627312"
  },
  {
-  "slug": "necronomicon",
-  "titulo": "Necronomicon API",
-  "version": "1.6.0+1.21",
-  "archivo": "Necronomicon-Fabric-1.6.0+1.21.jar",
-  "url": "https://cdn.modrinth.com/data/P1Kv5EAO/versions/O6odCETu/Necronomicon-Fabric-1.6.0%2B1.21.jar",
-  "sha1": "b6ac70d9ecac570f56e75db81d8281976fea1357",
-  "licencia": "MIT"
+  "slug": "another-furniture",
+  "titulo": "Another Furniture",
+  "version": "4.0.2",
+  "archivo": "another_furniture-fabric-4.0.2.jar",
+  "url": "https://cdn.modrinth.com/data/ulloLmqG/versions/8xUs6Teu/another_furniture-fabric-4.0.2.jar",
+  "sha1": "c2f992081bdc4795ed6d87771a3b5f7c71103785"
  },
  {
-  "slug": "scholar",
-  "titulo": "Scholar",
-  "version": "1.2.10",
-  "archivo": "scholar-fabric-1.21.1-1.2.10.jar",
-  "url": "https://cdn.modrinth.com/data/fX4dIQCo/versions/DfKvxvXC/scholar-fabric-1.21.1-1.2.10.jar",
-  "sha1": "8746ff951879f05b7b49da1cb627bf9cc39103b2",
-  "licencia": "GPL-3.0-only"
+  "slug": "anti-xray",
+  "titulo": "AntiXray",
+  "version": "1.4.8+1.21.1",
+  "archivo": "antixray-fabric-1.4.8+1.21.1.jar",
+  "url": "https://cdn.modrinth.com/data/sml2FMaA/versions/KlJq0gHr/antixray-fabric-1.4.8%2B1.21.1.jar",
+  "sha1": "dd56c75c66916ae5c7ebcff381c3a613be4c5dc8"
  },
  {
-  "slug": "modernfix",
-  "titulo": "ModernFix",
-  "version": "5.25.1+mc1.21.1",
-  "archivo": "modernfix-fabric-5.25.1+mc1.21.1.jar",
-  "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/NnNX8LBn/modernfix-fabric-5.25.1%2Bmc1.21.1.jar",
-  "sha1": "4ab39e9c736e7204146792c545ec5b29fc0a3872",
-  "licencia": "LGPL-3.0-only"
- },
- {
-  "slug": "easy-npc-core",
-  "titulo": "Easy NPC: Core",
-  "version": "7.19.0",
-  "archivo": "easy_npc-fabric-1.21.1-7.19.0.jar",
-  "url": "https://cdn.modrinth.com/data/Epm6R3P2/versions/Hi5e4DnV/easy_npc-fabric-1.21.1-7.19.0.jar",
-  "sha1": "c7090a8acdb4cc2241ba44d434def18cba5041a9",
-  "licencia": "MIT"
- },
- {
-  "slug": "placeholder-api",
-  "titulo": "Text Placeholder API",
-  "version": "2.4.2+1.21",
-  "archivo": "placeholder-api-2.4.2+1.21.jar",
-  "url": "https://cdn.modrinth.com/data/eXts2L7r/versions/U5bhVym2/placeholder-api-2.4.2%2B1.21.jar",
-  "sha1": "aa1b9a49f9f190dfe4825c502b150817dd2998c3",
-  "licencia": "LGPL-3.0-only"
- },
- {
-  "slug": "cobbleloots",
-  "titulo": "Cobbleloots: Loot Balls and More!",
-  "version": "2.5.0-alpha.2",
-  "archivo": "cobbleloots-fabric-1.21.1-2.5.0-alpha.2.jar",
-  "url": "https://cdn.modrinth.com/data/kcudYghD/versions/wOb44P9k/cobbleloots-fabric-1.21.1-2.5.0-alpha.2.jar",
-  "sha1": "02d5be77be3bd7c1b56775eb020441a2fc9bdc74",
-  "licencia": "MIT"
- },
- {
-  "slug": "cobblemonnpcutils",
-  "titulo": "CobblemonNPCUtils",
-  "version": "1.1.1",
-  "archivo": "CobblemonNPCUtils-fabric-1.21.1-1.1.1.jar",
-  "url": "https://cdn.modrinth.com/data/nS4IgIUN/versions/PGqR0B9O/CobblemonNPCUtils-fabric-1.21.1-1.1.1.jar",
-  "sha1": "06b95e757ac01c89dc4140367f60a4d8314dc272",
-  "licencia": "MPL-2.0"
- },
- {
-  "slug": "lets-do-wildernature",
-  "titulo": "[Let's Do] WilderNature",
-  "version": "1.1.8",
-  "archivo": "letsdo-wildernature-fabric-1.1.8.jar",
-  "url": "https://cdn.modrinth.com/data/AAiRU4aQ/versions/z8Eb5lpS/letsdo-wildernature-fabric-1.1.8.jar",
-  "sha1": "7c08f3134def9f6f5038db80a62a76b89e03105f",
-  "licencia": "LicenseRef-Custom"
- },
- {
-  "slug": "kantoitems",
-  "titulo": "KantoItems",
-  "version": "0.1.2",
-  "archivo": "kantoitems-fabric-0.1.2.jar",
-  "url": "https://cdn.modrinth.com/data/gxH5bPKU/versions/4XmeWejz/kantoitems-fabric-0.1.2.jar",
-  "sha1": "30c38215b0407ed6196de12fa16769699739dd75",
-  "licencia": "LicenseRef-CobbleKanto-Project-Custom-License"
- },
- {
-  "slug": "os-cobblemon-library",
-  "titulo": "OS Cobblemon Library",
-  "version": "1.5.2",
-  "archivo": "os-cobblemon-library-fabric-1.5.2.jar",
-  "url": "https://cdn.modrinth.com/data/8hdkMUPs/versions/hT3yLdDC/os-cobblemon-library-fabric-1.5.2.jar",
-  "sha1": "c41cdbeb87046c8fcb777190584964cca1a0959c",
-  "licencia": "LicenseRef-All-Rights-Reserved"
- },
- {
-  "slug": "beautify-refabricated",
-  "titulo": "Beautify: Refabricated",
-  "version": "3.7.0-fabric+1.21.1",
-  "archivo": "beautify-3.7.0-fabric+1.21.1.jar",
-  "url": "https://cdn.modrinth.com/data/DhSSvaxs/versions/9Uu1nUT3/beautify-3.7.0-fabric%2B1.21.1.jar",
-  "sha1": "0abe11a5b9ddcb76e2e9039556ef6abecb66934b",
-  "licencia": "MIT"
- },
- {
-  "slug": "lets-do-furniture",
-  "titulo": "[Let's Do] Furniture",
-  "version": "1.1.10",
-  "archivo": "letsdo-furniture-fabric-1.1.10.jar",
-  "url": "https://cdn.modrinth.com/data/3JQDJrYW/versions/ywtEJYFd/letsdo-furniture-fabric-1.1.10.jar",
-  "sha1": "981d846329c1b1649f563c48e2d9b5df46fc0389",
-  "licencia": "LicenseRef-custom"
- },
- {
-  "slug": "cobblemon-fight-or-flight-reborn",
-  "titulo": "Cobblemon Fight or Flight Reborn",
-  "version": "0.11.3",
-  "archivo": "fightorflight-fabric-0.11.3.jar",
-  "url": "https://cdn.modrinth.com/data/cTdIg5HZ/versions/FALL8mct/fightorflight-fabric-0.11.3.jar",
-  "sha1": "b5760bd2a7a80a0c21f26c96855bd8541511deee",
-  "licencia": "MIT"
- },
- {
-  "slug": "cobblemon-gts",
-  "titulo": "Cobblemon GTS",
-  "version": "2.6.1",
-  "archivo": "Gts-2.6.1-fabric.jar",
-  "url": "https://cdn.modrinth.com/data/UTjx5ypK/versions/uAxVSR00/Gts-2.6.1-fabric.jar",
-  "sha1": "59b41a076e862cae5ce0f747029dac3c0d6e5c4d",
-  "licencia": "MIT"
- },
- {
-  "slug": "athena-ctm",
-  "titulo": "Athena",
-  "version": "4.0.6",
-  "archivo": "athena-fabric-1.21.1-4.0.6.jar",
-  "url": "https://cdn.modrinth.com/data/b1ZV3DIJ/versions/JfyYsWKP/athena-fabric-1.21.1-4.0.6.jar",
-  "sha1": "92534d85cad33ab1fee598068443c685f4bb06e0",
-  "licencia": "MIT"
- },
- {
-  "slug": "cobblemon",
-  "titulo": "Cobblemon",
-  "version": "1.8.4F",
-  "archivo": "Cobblemon-fabric-1.8.4+1.21.1.jar",
-  "url": "https://cdn.modrinth.com/data/MdwFAVRL/versions/PdOzYHKU/Cobblemon-fabric-1.8.4%2B1.21.1.jar",
-  "sha1": "587973321ae6d0762b38a2e19632f5cfdce7c2df",
-  "licencia": "MPL-2.0"
- },
- {
-  "slug": "guts",
-  "titulo": "Give Us Terracotta Stairs! (G.U.T.S)",
-  "version": "1.1",
-  "archivo": "terracotta-stairs-1.1.jar",
-  "url": "https://cdn.modrinth.com/data/K7vp8WNo/versions/uch4GHhi/terracotta-stairs-1.1.jar",
-  "sha1": "0adc4466a0373961c5192a519781e6cb2ece8e29",
-  "licencia": "MIT"
- },
- {
-  "slug": "cobblecasino",
-  "titulo": "Cobblecasino",
-  "version": "1.4.0",
-  "archivo": "cobblecasino-1.4.0.jar",
-  "url": "https://cdn.modrinth.com/data/G4gaRthC/versions/N2FsFOSA/cobblecasino-1.4.0.jar",
-  "sha1": "4df9a963cdbe6dcb3dd254367b881a65ce40773d",
-  "licencia": "MIT"
- },
- {
-  "slug": "stoneworks",
-  "titulo": "Stoneworks",
-  "version": "v21.1.0-1.21.1-Fabric",
-  "archivo": "Stoneworks-v21.1.0-1.21.1-Fabric.jar",
-  "url": "https://cdn.modrinth.com/data/FzyTKtVF/versions/62fUqsGs/Stoneworks-v21.1.0-1.21.1-Fabric.jar",
-  "sha1": "4213f967f906ecf460837050b71517d5857c6f9f",
-  "licencia": "MPL-2.0"
- },
- {
-  "slug": "pebbles-crate",
-  "titulo": "Pebble's Crate",
-  "version": "1.1.1-1.21.1",
-  "archivo": "pebbles-crates-1.1.1-1.21.1.jar",
-  "url": "https://cdn.modrinth.com/data/qAmOkKWl/versions/WZLsRUT8/pebbles-crates-1.1.1-1.21.1.jar",
-  "sha1": "4fbf6060f6ac5a51a43ff37df03b5920be794d62",
-  "licencia": "CC0-1.0"
- },
- {
-  "slug": "kantoblocks",
-  "titulo": "KantoBlocks",
-  "version": "1.1.1",
-  "archivo": "kantoblocks-fabric-1.1.1.jar",
-  "url": "https://cdn.modrinth.com/data/O69n76AH/versions/KYb9vjPb/kantoblocks-fabric-1.1.1.jar",
-  "sha1": "fb5b13af442a7cf273a18dd70df258cdf3c8ff34",
-  "licencia": "LicenseRef-CobbleKanto-Project-Custom-License"
- },
- {
-  "slug": "cobblelibs",
-  "titulo": "CobbleLibs",
-  "version": "1.0.7",
-  "archivo": "CobbleLibs-1.7.3-1.21.1-fabric-1.0.7.jar",
-  "url": "https://cdn.modrinth.com/data/kO8gQFVN/versions/HDclXCCm/CobbleLibs-1.7.3-1.21.1-fabric-1.0.7.jar",
-  "sha1": "e412fe54014a3d9c85418ec61e31b4afaa97b26c",
-  "licencia": "LicenseRef-All-Rights-Reserved"
- },
- {
-  "slug": "ferrite-core",
-  "titulo": "FerriteCore",
-  "version": "7.0.3-fabric",
-  "archivo": "ferritecore-7.0.3-fabric.jar",
-  "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/sOzRw3CG/ferritecore-7.0.3-fabric.jar",
-  "sha1": "a8a6a34fcda177da2828cedef44e0e538cf78aad",
-  "licencia": "MIT"
- },
- {
-  "slug": "cobblemon-badgebox",
-  "titulo": "【Cobblemon】BadgeBox",
-  "version": "1.3.0",
-  "archivo": "badgebox-fabric-1.3.0.jar",
-  "url": "https://cdn.modrinth.com/data/8J7TR166/versions/1iJ9oDN4/badgebox-fabric-1.3.0.jar",
-  "sha1": "627a4b2a43082a90e38438f6611affdec78ff4c5",
-  "licencia": "LicenseRef-All-Rights-Reserved"
- },
- {
-  "slug": "packet-fixer",
-  "titulo": "Packet Fixer",
-  "version": "3.3.1",
-  "archivo": "packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
-  "url": "https://cdn.modrinth.com/data/c7m1mi73/versions/2C41Q8WX/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
-  "sha1": "a8bb6e25807682e72c23bf4065f3cd5f6373ece3",
-  "licencia": "MIT"
+  "slug": "appleskin",
+  "titulo": "AppleSkin",
+  "version": "3.0.6+mc1.21",
+  "archivo": "appleskin-fabric-mc1.21-3.0.6.jar",
+  "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/b5ZiCjAr/appleskin-fabric-mc1.21-3.0.6.jar",
+  "sha1": "97452cfadfde1f8f8c67838643019eabafa58fbb"
  },
  {
   "slug": "architectury-api",
@@ -1139,62 +53,143 @@
   "version": "13.0.12+fabric",
   "archivo": "architectury-13.0.12-fabric.jar",
   "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/WklfM1A0/architectury-13.0.12-fabric.jar",
-  "sha1": "40207f77dcce4b19e64d2ad8ec53ecdf53147278",
-  "licencia": "LGPL-3.0-only"
+  "sha1": "40207f77dcce4b19e64d2ad8ec53ecdf53147278"
  },
  {
-  "slug": "macaws-roofs",
-  "titulo": "Macaw's Roofs",
-  "version": "2.3.2",
-  "archivo": "mcw-roofs-2.3.2-mc1.21.1fabric.jar",
-  "url": "https://cdn.modrinth.com/data/B8jaH3P1/versions/BgPUaaiV/mcw-roofs-2.3.2-mc1.21.1fabric.jar",
-  "sha1": "2367e5972a8ab30cc4f764e6ec98841e3eaa341a",
-  "licencia": "LicenseRef-All-Rights-Reserved"
+  "slug": "asymmetric-battles-api",
+  "titulo": "Asymmetric Battles API",
+  "version": "1.4.2+1.21.1",
+  "archivo": "asymmetricbattles-fabric-1.4.2+1.21.1.jar",
+  "url": "https://cdn.modrinth.com/data/sI88vVWl/versions/8SKIm6Cl/asymmetricbattles-fabric-1.4.2%2B1.21.1.jar",
+  "sha1": "13259947fbb0ca45e50d4b195635b8d0d1001d4f"
  },
  {
-  "slug": "spark",
-  "titulo": "spark",
-  "version": "1.10.109-fabric",
-  "archivo": "spark-1.10.109-fabric.jar",
-  "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/cALUj9l1/spark-1.10.109-fabric.jar",
-  "sha1": "eff42cbeee6fe9a7f3c57031c23200256366dcd1",
-  "licencia": "GPL-3.0-only"
+  "slug": "athena-ctm",
+  "titulo": "Athena",
+  "version": "4.0.6",
+  "archivo": "athena-fabric-1.21.1-4.0.6.jar",
+  "url": "https://cdn.modrinth.com/data/b1ZV3DIJ/versions/JfyYsWKP/athena-fabric-1.21.1-4.0.6.jar",
+  "sha1": "92534d85cad33ab1fee598068443c685f4bb06e0"
  },
  {
-  "slug": "cobblemon-ev-pool",
-  "titulo": "Cobblemon EV Pool",
-  "version": "1.8.4",
-  "archivo": "cobblemon-ev-pool-1.8.4.jar",
-  "url": "https://cdn.modrinth.com/data/VifjN5wQ/versions/R8S0Cabu/cobblemon-ev-pool-1.8.4.jar",
-  "sha1": "48a96177aa801ee38cd38fd5e4849a7e5244bbf9",
-  "licencia": "LicenseRef-All-Rights-Reserved"
+  "slug": "axiom",
+  "titulo": "Axiom",
+  "version": "6.1.5",
+  "archivo": "Axiom-6.1.5-for-MC1.21.1.jar",
+  "url": "https://cdn.modrinth.com/data/N6n5dqoA/versions/wgJEj8EH/Axiom-6.1.5-for-MC1.21.1.jar",
+  "sha1": "450919d97afac784962376364ebb19f13fa90343"
  },
  {
-  "slug": "skiescrates",
-  "titulo": "SkiesCrates",
-  "version": "1.0.5",
-  "archivo": "SkiesCrates-fabric-1.21.1-1.0.5.jar",
-  "url": "https://cdn.modrinth.com/data/Mo6LcIJr/versions/hOuRqXhW/SkiesCrates-fabric-1.21.1-1.0.5.jar",
-  "sha1": "10830d42d2f7c0d39f97cf6022442587c0b9be26",
-  "licencia": "MPL-2.0"
+  "slug": "cobblemon-badgebox",
+  "titulo": "【Cobblemon】BadgeBox",
+  "version": "1.3.0",
+  "archivo": "badgebox-fabric-1.3.0.jar",
+  "url": "https://cdn.modrinth.com/data/8J7TR166/versions/1iJ9oDN4/badgebox-fabric-1.3.0.jar",
+  "sha1": "627a4b2a43082a90e38438f6611affdec78ff4c5"
  },
  {
-  "slug": "lootrmon",
-  "titulo": "Lootrmon: Lootr & Cobblemon Gilded Chest Compatibility",
-  "version": "0.0.0.3",
-  "archivo": "lootrmon-fabric-1.21.1-0.0.0.3.jar",
-  "url": "https://cdn.modrinth.com/data/ywwXJDli/versions/nquNxBhW/lootrmon-fabric-1.21.1-0.0.0.3.jar",
-  "sha1": "a09db5b7dd916f3c7fb9e1da1bd83c04f14ce4d9",
-  "licencia": "MIT"
+  "slug": "balm",
+  "titulo": "Balm",
+  "version": "21.0.67+fabric-1.21.1",
+  "archivo": "balm-fabric-1.21.1-21.0.67.jar",
+  "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/HY6fKMHC/balm-fabric-1.21.1-21.0.67.jar",
+  "sha1": "f839c990308271aa85f7d85b710a1d88388295a0"
  },
  {
-  "slug": "cobbleverse-badges",
-  "titulo": "COBBLEVERSE: Badges & Trophies",
-  "version": "1.3",
-  "archivo": "CobbleverseBadges-1.3.jar",
-  "url": "https://cdn.modrinth.com/data/PHT3Zj0r/versions/3aQ0cMqp/CobbleverseBadges-1.3.jar",
-  "sha1": "8e213de6013b6a58485ba8ddfcff5c91b3beb41d",
-  "licencia": "CC-BY-NC-ND-4.0"
+  "slug": "beautify-refabricated",
+  "titulo": "Beautify: Refabricated",
+  "version": "3.7.0-fabric+1.21.1",
+  "archivo": "beautify-3.7.0-fabric+1.21.1.jar",
+  "url": "https://cdn.modrinth.com/data/DhSSvaxs/versions/9Uu1nUT3/beautify-3.7.0-fabric%2B1.21.1.jar",
+  "sha1": "0abe11a5b9ddcb76e2e9039556ef6abecb66934b"
+ },
+ {
+  "slug": "better-combat",
+  "titulo": "Better Combat",
+  "version": "2.4.0+1.21.1-fabric",
+  "archivo": "bettercombat-fabric-2.4.0+1.21.1.jar",
+  "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/JJQpBecL/bettercombat-fabric-2.4.0%2B1.21.1.jar",
+  "sha1": "38d1d1f22e9255092baf85abf93a3b9746fa6ed1"
+ },
+ {
+  "slug": "blabber",
+  "titulo": "Blabber",
+  "version": "1.8.1",
+  "archivo": "blabber-1.8.1-standalone.jar",
+  "url": "https://cdn.modrinth.com/data/2oRMVFgd/versions/YthTUpyA/blabber-1.8.1-standalone.jar",
+  "sha1": "c28674b6357548d69b729e84981895e2f47b355a"
+ },
+ {
+  "slug": "bluemap",
+  "titulo": "BlueMap",
+  "version": "5.7-fabric",
+  "archivo": "bluemap-5.7-fabric.jar",
+  "url": "https://cdn.modrinth.com/data/swbUV1cr/versions/Dr2hvJBc/bluemap-5.7-fabric.jar",
+  "sha1": "42777d6140234a75243c04156b63cfbe562a1cdb"
+ },
+ {
+  "slug": "bookshelf-lib",
+  "titulo": "Bookshelf",
+  "version": "21.1.81",
+  "archivo": "bookshelf-fabric-1.21.1-21.1.81.jar",
+  "url": "https://cdn.modrinth.com/data/uy4Cnpcm/versions/kpkjWpa5/bookshelf-fabric-1.21.1-21.1.81.jar",
+  "sha1": "c6cfd92af694102ee52ff1069f05804c75c0da7b"
+ },
+ {
+  "slug": "cardinal-components-api",
+  "titulo": "Cardinal Components API",
+  "version": "6.1.3",
+  "archivo": "cardinal-components-api-6.1.3.jar",
+  "url": "https://cdn.modrinth.com/data/K01OU20C/versions/nLsCe2VD/cardinal-components-api-6.1.3.jar",
+  "sha1": "e762f5205c0fd0f9bed1c04432bf9b51ec832882"
+ },
+ {
+  "slug": "chunky",
+  "titulo": "Chunky",
+  "version": "1.4.23",
+  "archivo": "Chunky-Fabric-1.4.23.jar",
+  "url": "https://cdn.modrinth.com/data/fALzjamp/versions/RVFHfo1D/Chunky-Fabric-1.4.23.jar",
+  "sha1": "6c8098fc0f124c7b6492de60db0108747f7f9821"
+ },
+ {
+  "slug": "cloth-config",
+  "titulo": "Cloth Config API",
+  "version": "15.0.140+fabric",
+  "archivo": "cloth-config-15.0.140-fabric.jar",
+  "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/HpMb5wGb/cloth-config-15.0.140-fabric.jar",
+  "sha1": "5d82342a2df53fd6df712bfdd583a811572918a4"
+ },
+ {
+  "slug": "cobblebetternpc",
+  "titulo": "CobbleBetterNPC",
+  "version": "1.1.1",
+  "archivo": "CobbleBetterNPC-1.7.3-1.21.1-fabric-1.1.1.jar",
+  "url": "https://cdn.modrinth.com/data/aJnNiXsu/versions/y9bofq0d/CobbleBetterNPC-1.7.3-1.21.1-fabric-1.1.1.jar",
+  "sha1": "b08187d167ee80c08cde28df42a8ec39ef80d595"
+ },
+ {
+  "slug": "cobblecasino",
+  "titulo": "Cobblecasino",
+  "version": "1.4.0",
+  "archivo": "cobblecasino-1.4.0.jar",
+  "url": "https://cdn.modrinth.com/data/G4gaRthC/versions/N2FsFOSA/cobblecasino-1.4.0.jar",
+  "sha1": "4df9a963cdbe6dcb3dd254367b881a65ce40773d"
+ },
+ {
+  "slug": "cobbledaily",
+  "titulo": "CobbleDaily",
+  "version": "1.0.2",
+  "archivo": "CobbleDaily-1.7.1-1.21.1-fabric-1.0.2.jar",
+  "url": "https://cdn.modrinth.com/data/YGEJznGu/versions/eM5Bwdgk/CobbleDaily-1.7.1-1.21.1-fabric-1.0.2.jar",
+  "sha1": "5742badebd58f5b510383f3f16be83507942d863"
+ },
+ {
+  "slug": "cobbledollars",
+  "titulo": "CobbleDollars [Cobblemon Addon]",
+  "version": "2.0.0+Beta-6.1",
+  "archivo": "CobbleDollars-fabric-2.0.0+Beta-6.1+1.21.1.jar",
+  "url": "https://cdn.modrinth.com/data/s7N7AsqL/versions/NQdxKsW7/CobbleDollars-fabric-2.0.0%2BBeta-6.1%2B1.21.1.jar",
+  "sha1": "a3f33a9d51be927c47fe72e12de6789e8bab98f2"
  },
  {
   "slug": "cobblefurnies",
@@ -1202,7 +197,902 @@
   "version": "1.2",
   "archivo": "CobbleFurnies-fabric-1.2.jar",
   "url": "https://cdn.modrinth.com/data/AXY1OO9m/versions/54k31lEX/CobbleFurnies-fabric-1.2.jar",
-  "sha1": "a71f20907c3350680a11054584cf96963f5875e5",
-  "licencia": "MIT"
+  "sha1": "a71f20907c3350680a11054584cf96963f5875e5"
+ },
+ {
+  "slug": "cobblekanto-core",
+  "titulo": "CobbleKanto Core",
+  "version": "0.9.3",
+  "archivo": "cobblekanto-fabric-0.9.3.jar",
+  "url": "https://cdn.modrinth.com/data/pbPnuXkr/versions/EFMYv4Qs/cobblekanto-fabric-0.9.3.jar",
+  "sha1": "2f8e49b860ab74cff2cdaf11599e0d8bea44bdbf"
+ },
+ {
+  "slug": "cobblelibs",
+  "titulo": "CobbleLibs",
+  "version": "1.0.7",
+  "archivo": "CobbleLibs-1.7.3-1.21.1-fabric-1.0.7.jar",
+  "url": "https://cdn.modrinth.com/data/kO8gQFVN/versions/HDclXCCm/CobbleLibs-1.7.3-1.21.1-fabric-1.0.7.jar",
+  "sha1": "e412fe54014a3d9c85418ec61e31b4afaa97b26c"
+ },
+ {
+  "slug": "cobbleloots",
+  "titulo": "Cobbleloots: Loot Balls and More!",
+  "version": "2.5.0-alpha.2",
+  "archivo": "cobbleloots-fabric-1.21.1-2.5.0-alpha.2.jar",
+  "url": "https://cdn.modrinth.com/data/kcudYghD/versions/wOb44P9k/cobbleloots-fabric-1.21.1-2.5.0-alpha.2.jar",
+  "sha1": "02d5be77be3bd7c1b56775eb020441a2fc9bdc74"
+ },
+ {
+  "slug": "cobblemissions",
+  "titulo": "CobbleMissions",
+  "version": "1.0.2",
+  "archivo": "CobbleMissions-1.7.1-1.21.1-fabric-1.0.2.jar",
+  "url": "https://cdn.modrinth.com/data/MuXVwgP2/versions/WLacuhT6/CobbleMissions-1.7.1-1.21.1-fabric-1.0.2.jar",
+  "sha1": "3d06f0d440f3e41a928e1580a8c4c08f47e94628"
+ },
+ {
+  "slug": "cobblemon-cities-structures",
+  "titulo": "Cobblemon Cities & Structures",
+  "version": "1.0.17",
+  "archivo": "Cobblemon Cities & Structures-1.0.17.jar",
+  "url": "https://cdn.modrinth.com/data/IqCPvv9e/versions/P5QkWkYQ/Cobblemon%20Cities%20%26%20Structures-1.0.17.jar",
+  "sha1": "7557ee920290882a152236939fee9e5c68d7e99f"
+ },
+ {
+  "slug": "cobblemon-battle-extras",
+  "titulo": "Cobblemon Battle Extras",
+  "version": "1.13.47",
+  "archivo": "cobblemon-battle-extras-fabric-1.13.47.jar",
+  "url": "https://cdn.modrinth.com/data/2iY8VFqL/versions/ZMERSNGG/cobblemon-battle-extras-fabric-1.13.47.jar",
+  "sha1": "00fc76292c333eef66abf0ab5cb3591d69c52bd3"
+ },
+ {
+  "slug": "cobblemon-ev-pool",
+  "titulo": "Cobblemon EV Pool",
+  "version": "1.8.4",
+  "archivo": "cobblemon-ev-pool-1.8.4.jar",
+  "url": "https://cdn.modrinth.com/data/VifjN5wQ/versions/R8S0Cabu/cobblemon-ev-pool-1.8.4.jar",
+  "sha1": "48a96177aa801ee38cd38fd5e4849a7e5244bbf9"
+ },
+ {
+  "slug": "cobblemon_expeditions",
+  "titulo": "Cobblemon Expeditions",
+  "version": "1.8.2",
+  "archivo": "cobblemon-expeditions-fabric-1.8.2.jar",
+  "url": "https://cdn.modrinth.com/data/HtRy1shF/versions/qTi5HUVz/cobblemon-expeditions-fabric-1.8.2.jar",
+  "sha1": "49bdd9ebc1f4c24a57b84f9fc8e5e1ef16e7fd5e"
+ },
+ {
+  "slug": "cobblemon",
+  "titulo": "Cobblemon",
+  "version": "1.8.4F",
+  "archivo": "Cobblemon-fabric-1.8.4+1.21.1.jar",
+  "url": "https://cdn.modrinth.com/data/MdwFAVRL/versions/PdOzYHKU/Cobblemon-fabric-1.8.4%2B1.21.1.jar",
+  "sha1": "587973321ae6d0762b38a2e19632f5cfdce7c2df"
+ },
+ {
+  "slug": "cobblemon-leaderboards",
+  "titulo": "Cobblemon Leaderboards",
+  "version": "4.0",
+  "archivo": "cobblemon-leaderboards-fabric-4.0.jar",
+  "url": "https://cdn.modrinth.com/data/Vb1pXlt5/versions/2x3Gdj5P/cobblemon-leaderboards-fabric-4.0.jar",
+  "sha1": "42cd64546463db005ffabf18bff0892739ab44ff"
+ },
+ {
+  "slug": "additional-items-for-cobblemon",
+  "titulo": "Additional items for Cobblemon",
+  "version": "4.0.0",
+  "archivo": "cobblemon-progress-items-4.0.0.jar",
+  "url": "https://cdn.modrinth.com/data/ykXd5c2f/versions/fo8URNBl/cobblemon-progress-items-4.0.0.jar",
+  "sha1": "22d3f175b682ad2fec275d37e0d7f80b80eb4633"
+ },
+ {
+  "slug": "cobblemon-utility-plus",
+  "titulo": "Cobblemon Utility+ (IVs, EVs, & More)",
+  "version": "1.8.0",
+  "archivo": "Cobblemon-Utility+-fabric-1.8.0.jar",
+  "url": "https://cdn.modrinth.com/data/ePxok8ID/versions/JIzdem7c/Cobblemon-Utility%2B-fabric-1.8.0.jar",
+  "sha1": "8a5dc3b27cfe99460df6bc245ff02c9f456420a9"
+ },
+ {
+  "slug": "cobblemon-wonder-trade-serveronly",
+  "titulo": "Cobblemon Wonder Trade(ServerOnly)",
+  "version": "1.0.0",
+  "archivo": "cobblemon_wonder_trade_serveronly-fabric-1.0.0.jar",
+  "url": "https://cdn.modrinth.com/data/T6LZSJz0/versions/9QtZgCl7/cobblemon_wonder_trade_serveronly-fabric-1.0.0.jar",
+  "sha1": "fad2623a915617aba29f50d6fadcc8ccda1a10d4"
+ },
+ {
+  "slug": "cobblemon-armory",
+  "titulo": "Cobblemon: Armory",
+  "version": "1.5.4",
+  "archivo": "cobblemonarmory-1.5.4-fabric-1.21.1.jar",
+  "url": "https://cdn.modrinth.com/data/2GSJkNsi/versions/PtHN23gq/cobblemonarmory-1.5.4-fabric-1.21.1.jar",
+  "sha1": "f2ee46e0d7eb54f524392f8ab75c5d4bf94f28dc"
+ },
+ {
+  "slug": "cobblemonnpcutils",
+  "titulo": "CobblemonNPCUtils",
+  "version": "1.1.1",
+  "archivo": "CobblemonNPCUtils-fabric-1.21.1-1.1.1.jar",
+  "url": "https://cdn.modrinth.com/data/nS4IgIUN/versions/PGqR0B9O/CobblemonNPCUtils-fabric-1.21.1-1.1.1.jar",
+  "sha1": "06b95e757ac01c89dc4140367f60a4d8314dc272"
+ },
+ {
+  "slug": "cobblemonraiddens",
+  "titulo": "Cobblemon Raid Dens",
+  "version": "0.14.3+1.21.1",
+  "archivo": "cobblemonraiddens-fabric-0.14.3+1.21.1.jar",
+  "url": "https://cdn.modrinth.com/data/GebWh45l/versions/fQaQCnrv/cobblemonraiddens-fabric-0.14.3%2B1.21.1.jar",
+  "sha1": "599c8165036788794bf9b90f6cd2d4de55108700"
+ },
+ {
+  "slug": "cobblemon-pokenav",
+  "titulo": "Cobblemon PokeNav",
+  "version": "2.4.2",
+  "archivo": "cobblenav-fabric-2.4.2.jar",
+  "url": "https://cdn.modrinth.com/data/bI8Nt3uA/versions/wq3mHFqw/cobblenav-fabric-2.4.2.jar",
+  "sha1": "3cc7b24e9a62c82191de5473764283333b1b4d76"
+ },
+ {
+  "slug": "cobblerun",
+  "titulo": "Cobblemon Instant-Run",
+  "version": "1.1.0",
+  "archivo": "cobblerun-1.1.0.jar",
+  "url": "https://cdn.modrinth.com/data/f3YlFSGV/versions/Vs8iNEju/cobblerun-1.1.0.jar",
+  "sha1": "9567888c30112b4dc8ab240c780b57fbf8d60bf3"
+ },
+ {
+  "slug": "cobbleverse-badges",
+  "titulo": "COBBLEVERSE: Badges & Trophies",
+  "version": "1.3",
+  "archivo": "CobbleverseBadges-1.3.jar",
+  "url": "https://cdn.modrinth.com/data/PHT3Zj0r/versions/3aQ0cMqp/CobbleverseBadges-1.3.jar",
+  "sha1": "8e213de6013b6a58485ba8ddfcff5c91b3beb41d"
+ },
+ {
+  "slug": "cobbreeding",
+  "titulo": "Cobbreeding",
+  "version": "2.4.1",
+  "archivo": "Cobbreeding-fabric-2.4.1.jar",
+  "url": "https://cdn.modrinth.com/data/ItmVb4zY/versions/QEX1BKMf/Cobbreeding-fabric-2.4.1.jar",
+  "sha1": "4de6e86541ab2d94b1327ce68a26771e8f33f030"
+ },
+ {
+  "slug": "creativecore",
+  "titulo": "CreativeCore",
+  "version": "2.13.54",
+  "archivo": "CreativeCore_FABRIC_v2.13.54_mc1.21.1.jar",
+  "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/Ise84NW9/CreativeCore_FABRIC_v2.13.54_mc1.21.1.jar",
+  "sha1": "9da96bf5f5a1e486f2b41200cc0b820783e77aac"
+ },
+ {
+  "slug": "dex-rewards",
+  "titulo": "Cobblemon - Dex Rewards",
+  "version": "3.2.0-1.8.0",
+  "archivo": "DexRewards-3.2.0-1.8.0.jar",
+  "url": "https://cdn.modrinth.com/data/D2HLNWaE/versions/lAY4vnX1/DexRewards-3.2.0-1.8.0.jar",
+  "sha1": "06fb4500a127d71bae5c6eb38c8fe8d2d4bb28d6"
+ },
+ {
+  "slug": "easy-npc-core",
+  "titulo": "Easy NPC: Core",
+  "version": "7.19.0",
+  "archivo": "easy_npc-fabric-1.21.1-7.19.0.jar",
+  "url": "https://cdn.modrinth.com/data/Epm6R3P2/versions/Hi5e4DnV/easy_npc-fabric-1.21.1-7.19.0.jar",
+  "sha1": "c7090a8acdb4cc2241ba44d434def18cba5041a9"
+ },
+ {
+  "slug": "easy-npc",
+  "titulo": "Easy NPC",
+  "version": "7.19.0",
+  "archivo": "easy_npc_bundle-fabric-1.21.1-7.19.0.jar",
+  "url": "https://cdn.modrinth.com/data/CgGEe1h3/versions/qoCcSLcP/easy_npc_bundle-fabric-1.21.1-7.19.0.jar",
+  "sha1": "f44c02689fb08b4cfb1686cd26303165d145112d"
+ },
+ {
+  "slug": "easy-npc-config-ui",
+  "titulo": "Easy NPC: Config UI",
+  "version": "7.19.0",
+  "archivo": "easy_npc_config_ui-fabric-1.21.1-7.19.0.jar",
+  "url": "https://cdn.modrinth.com/data/uTGjf7vA/versions/5W9HBf8z/easy_npc_config_ui-fabric-1.21.1-7.19.0.jar",
+  "sha1": "41babac9a98b65585e7e872350c6487df398bdfd"
+ },
+ {
+  "slug": "easyauth",
+  "titulo": "EasyAuth",
+  "version": "3.5.1",
+  "archivo": "easyauth-mc1.21-3.5.1.jar",
+  "url": "https://cdn.modrinth.com/data/aZj58GfX/versions/mNgbm9Jt/easyauth-mc1.21-3.5.1.jar",
+  "sha1": "386652926aa87529f2267a5134d2e49f2936a13c"
+ },
+ {
+  "slug": "elevatormod",
+  "titulo": "ElevatorMod",
+  "version": "1.21-1.11.1",
+  "archivo": "elevatorid-fabric-1.21-1.11.1.jar",
+  "url": "https://cdn.modrinth.com/data/hi2dSXTu/versions/IYcefR0v/elevatorid-fabric-1.21-1.11.1.jar",
+  "sha1": "3f34470781f4b5cbeb1e83a259cceae616077b67"
+ },
+ {
+  "slug": "emojiful",
+  "titulo": "Emojiful",
+  "version": "1.21-5.2.4",
+  "archivo": "Emojiful-Fabric-1.21-5.2.4.jar",
+  "url": "https://cdn.modrinth.com/data/72GXx2MO/versions/SrKSk6qG/Emojiful-Fabric-1.21-5.2.4.jar",
+  "sha1": "a76e030231cab828651da3fdcdd0c6d51167581a"
+ },
+ {
+  "slug": "emotecraft",
+  "titulo": "Emotecraft",
+  "version": "2.4.12+1.21.1-fabric",
+  "archivo": "emotecraft-for-MC1.21.1-2.4.12-fabric.jar",
+  "url": "https://cdn.modrinth.com/data/pZ2wrerK/versions/daqt5qcK/emotecraft-for-MC1.21.1-2.4.12-fabric.jar",
+  "sha1": "9be2a237e27f20d2d00f0036a8be53d7d66c5df5"
+ },
+ {
+  "slug": "essential-commands",
+  "titulo": "Essential Commands",
+  "version": "0.35.2-mc1.21",
+  "archivo": "essential_commands-0.35.2-mc1.21.jar",
+  "url": "https://cdn.modrinth.com/data/6VdDUivB/versions/kev3hDqV/essential_commands-0.35.2-mc1.21.jar",
+  "sha1": "1dda78e1ecace03b1a622611ef8783bb1259dc91"
+ },
+ {
+  "slug": "exposure",
+  "titulo": "Exposure",
+  "version": "1.9.21",
+  "archivo": "exposure-fabric-1.21.1-1.9.21.jar",
+  "url": "https://cdn.modrinth.com/data/hB899VmG/versions/V8jUhCBa/exposure-fabric-1.21.1-1.9.21.jar",
+  "sha1": "0e3223d7ef9a913685ac7ebc82fa8f4ef61565be"
+ },
+ {
+  "slug": "fabric-api",
+  "titulo": "Fabric API",
+  "version": "0.116.18+1.21.1",
+  "archivo": "fabric-api-0.116.18+1.21.1.jar",
+  "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/5SwzqWUu/fabric-api-0.116.18%2B1.21.1.jar",
+  "sha1": "584d303f646287ee6be059ecb2fc451255be9ee9"
+ },
+ {
+  "slug": "fabric-language-kotlin",
+  "titulo": "Fabric Language Kotlin",
+  "version": "1.14.2+kotlin.2.4.21",
+  "archivo": "fabric-language-kotlin-1.14.2+kotlin.2.4.21.jar",
+  "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/SKW1BTL3/fabric-language-kotlin-1.14.2%2Bkotlin.2.4.21.jar",
+  "sha1": "f1d4ab6ecd54d9782521333a87eb50724ecb03e0"
+ },
+ {
+  "slug": "fabric-permissions-api",
+  "titulo": "fabric-permissions-api",
+  "version": "0.3.1",
+  "archivo": "fabric-permissions-api-0.3.1.jar",
+  "url": "https://cdn.modrinth.com/data/lzVo0Dll/versions/62DUD085/fabric-permissions-api-0.3.1.jar",
+  "sha1": "b45171374fefa7e0bd9d8bbb583ee383c2b9fe8a"
+ },
+ {
+  "slug": "farmers-delight-refabricated",
+  "titulo": "Farmer's Delight Refabricated",
+  "version": "1.21.1-3.3.6",
+  "archivo": "FarmersDelight-1.21.1-3.3.6+refabricated.jar",
+  "url": "https://cdn.modrinth.com/data/7vxePowz/versions/wbVXT4Ua/FarmersDelight-1.21.1-3.3.6%2Brefabricated.jar",
+  "sha1": "6d75a472d56c7cf0e9abc7e654861076e8eff389"
+ },
+ {
+  "slug": "ferrite-core",
+  "titulo": "FerriteCore",
+  "version": "7.0.3-fabric",
+  "archivo": "ferritecore-7.0.3-fabric.jar",
+  "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/sOzRw3CG/ferritecore-7.0.3-fabric.jar",
+  "sha1": "a8a6a34fcda177da2828cedef44e0e538cf78aad"
+ },
+ {
+  "slug": "cobblemon-fight-or-flight-reborn",
+  "titulo": "Cobblemon Fight or Flight Reborn",
+  "version": "0.11.3",
+  "archivo": "fightorflight-fabric-0.11.3.jar",
+  "url": "https://cdn.modrinth.com/data/cTdIg5HZ/versions/FALL8mct/fightorflight-fabric-0.11.3.jar",
+  "sha1": "b5760bd2a7a80a0c21f26c96855bd8541511deee"
+ },
+ {
+  "slug": "forge-config-api-port",
+  "titulo": "Forge Config API Port",
+  "version": "v21.1.6-1.21.1-Fabric",
+  "archivo": "ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
+  "url": "https://cdn.modrinth.com/data/ohNO6lps/versions/N5qzq0XV/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
+  "sha1": "18bf1f21cd2db6dcd4e42db85eae54e2a49a48ee"
+ },
+ {
+  "slug": "framework",
+  "titulo": "Framework (MrCrayfish)",
+  "version": "0.13.11",
+  "archivo": "framework-fabric-1.21.1-0.13.11.jar",
+  "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/mods-extra/framework-fabric-1.21.1-0.13.11.jar",
+  "sha1": "87ce6c5c312da043e823e9407a04d307b5974d06"
+ },
+ {
+  "slug": "fzzy-config",
+  "titulo": "Fzzy Config",
+  "version": "0.7.7+1.21",
+  "archivo": "fzzy_config-0.7.7+1.21.jar",
+  "url": "https://cdn.modrinth.com/data/hYykXjDp/versions/zFccjYag/fzzy_config-0.7.7%2B1.21.jar",
+  "sha1": "5e96a2f5b0a26417c7f10f5bdbeaa62ec4ec4cd9"
+ },
+ {
+  "slug": "geckolib",
+  "titulo": "Geckolib",
+  "version": "4.9.3",
+  "archivo": "geckolib-fabric-1.21.1-4.9.3.jar",
+  "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/tmxM7U4W/geckolib-fabric-1.21.1-4.9.3.jar",
+  "sha1": "b3a6aff6ffff34d20ffde1faa640bcf17ff4b646"
+ },
+ {
+  "slug": "gooeylibs",
+  "titulo": "GooeyLibs",
+  "version": "3.1.1-Fabric",
+  "archivo": "GooeyLibs-Fabric-3.1.1-1.21.x.jar",
+  "url": "https://cdn.modrinth.com/data/KzjvlKEN/versions/1CPIfFdT/GooeyLibs-Fabric-3.1.1-1.21.x.jar",
+  "sha1": "54f262263a277ffbf82eea9494418a4d6aadad26"
+ },
+ {
+  "slug": "cobblemon-gts",
+  "titulo": "Cobblemon GTS",
+  "version": "2.6.1",
+  "archivo": "Gts-2.6.1-fabric.jar",
+  "url": "https://cdn.modrinth.com/data/UTjx5ypK/versions/uAxVSR00/Gts-2.6.1-fabric.jar",
+  "sha1": "59b41a076e862cae5ce0f747029dac3c0d6e5c4d"
+ },
+ {
+  "slug": "handcrafted",
+  "titulo": "Handcrafted",
+  "version": "4.0.3",
+  "archivo": "handcrafted-fabric-1.21.1-4.0.3.jar",
+  "url": "https://cdn.modrinth.com/data/pJmCFF0p/versions/f0pKpUWd/handcrafted-fabric-1.21.1-4.0.3.jar",
+  "sha1": "a9579fecd7ed429c282be21d5c921d220197acc6"
+ },
+ {
+  "slug": "cobblemon-hunt",
+  "titulo": "Cobblemon Hunt",
+  "version": "1.3.1",
+  "archivo": "Hunt-1.3.1-fabric.jar",
+  "url": "https://cdn.modrinth.com/data/QMAwqHhY/versions/Eq3nT99Z/Hunt-1.3.1-fabric.jar",
+  "sha1": "44fed9a635adb40c846de7e65e2b015a59d0ec66"
+ },
+ {
+  "slug": "iceberg",
+  "titulo": "Iceberg",
+  "version": "1.3.2",
+  "archivo": "Iceberg-1.21.1-fabric-1.3.2.jar",
+  "url": "https://cdn.modrinth.com/data/5faXoLqX/versions/7ITFAyW8/Iceberg-1.21.1-fabric-1.3.2.jar",
+  "sha1": "170e30bf93ccba6d80dd481eedddae16cb549d29"
+ },
+ {
+  "slug": "jade",
+  "titulo": "Jade 🔍",
+  "version": "15.10.6+fabric",
+  "archivo": "Jade-1.21.1-Fabric-15.10.6.jar",
+  "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/adpNvTZS/Jade-1.21.1-Fabric-15.10.6.jar",
+  "sha1": "bed67c605cbc991f474b270581cfa04ed48228df"
+ },
+ {
+  "slug": "kantoblocks",
+  "titulo": "KantoBlocks",
+  "version": "1.1.1",
+  "archivo": "kantoblocks-fabric-1.1.1.jar",
+  "url": "https://cdn.modrinth.com/data/O69n76AH/versions/KYb9vjPb/kantoblocks-fabric-1.1.1.jar",
+  "sha1": "fb5b13af442a7cf273a18dd70df258cdf3c8ff34"
+ },
+ {
+  "slug": "kantoitems",
+  "titulo": "KantoItems",
+  "version": "0.1.2",
+  "archivo": "kantoitems-fabric-0.1.2.jar",
+  "url": "https://cdn.modrinth.com/data/gxH5bPKU/versions/4XmeWejz/kantoitems-fabric-0.1.2.jar",
+  "sha1": "30c38215b0407ed6196de12fa16769699739dd75"
+ },
+ {
+  "slug": "kantomodels",
+  "titulo": "KantoModels",
+  "version": "1.3.7",
+  "archivo": "kantomodels-fabric-1.3.7.jar",
+  "url": "https://cdn.modrinth.com/data/TlBGIutm/versions/ZOkDS0rq/kantomodels-fabric-1.3.7.jar",
+  "sha1": "79aa63caca6d55a8be91ef9d8ffb44b7729b7b85"
+ },
+ {
+  "slug": "kantonpcs",
+  "titulo": "KantoNPCs",
+  "version": "1.0.7",
+  "archivo": "kantonpcs-fabric-1.0.7.jar",
+  "url": "https://cdn.modrinth.com/data/ifw9j2BM/versions/Ktl403Uz/kantonpcs-fabric-1.0.7.jar",
+  "sha1": "77b3617d935409b65faf36fb83ad3e8d67f94381"
+ },
+ {
+  "slug": "kantospawners",
+  "titulo": "KantoSpawners",
+  "version": "0.0.5",
+  "archivo": "kantospawners-fabric-0.0.5.jar",
+  "url": "https://cdn.modrinth.com/data/nMbGdRyw/versions/z02sACUD/kantospawners-fabric-0.0.5.jar",
+  "sha1": "781b8161a61f4b98d571701f3f7f0dcf8a213c62"
+ },
+ {
+  "slug": "kantoteleports",
+  "titulo": "KantoTeleports",
+  "version": "0.1.2",
+  "archivo": "kantoteleports-fabric-0.1.2.jar",
+  "url": "https://cdn.modrinth.com/data/OyzRRBl5/versions/oiq23Z9J/kantoteleports-fabric-0.1.2.jar",
+  "sha1": "a26a1524c35d1a1477b23cd09d14c4e4f97abe0e"
+ },
+ {
+  "slug": "ledger",
+  "titulo": "Ledger",
+  "version": "1.3.5",
+  "archivo": "ledger-1.3.5.jar",
+  "url": "https://cdn.modrinth.com/data/LVN9ygNV/versions/t1AtqfxZ/ledger-1.3.5.jar",
+  "sha1": "cd9b3722e540df48ba24b169a594132cbf1af1f3"
+ },
+ {
+  "slug": "lets-do-beachparty",
+  "titulo": "[Let's Do] Beachparty",
+  "version": "2.1.5",
+  "archivo": "letsdo-beachparty-fabric-2.1.5.jar",
+  "url": "https://cdn.modrinth.com/data/GyKzAh3l/versions/jeZE0Qav/letsdo-beachparty-fabric-2.1.5.jar",
+  "sha1": "d07c974e72a42c243f008ac80216bf9234e35bb6"
+ },
+ {
+  "slug": "lets-do-camping",
+  "titulo": "[Let's Do] Camping",
+  "version": "2.1.6",
+  "archivo": "letsdo-camping-fabric-2.1.6.jar",
+  "url": "https://cdn.modrinth.com/data/uJXTNuf0/versions/JBaReObR/letsdo-camping-fabric-2.1.6.jar",
+  "sha1": "7e7af0c11a7edfe37cb9840640ebced2201776d0"
+ },
+ {
+  "slug": "lets-do-farm-charm",
+  "titulo": "[Let's Do] Farm & Charm",
+  "version": "1.1.29",
+  "archivo": "letsdo-farm_and_charm-fabric-1.1.29.jar",
+  "url": "https://cdn.modrinth.com/data/HJetCzWo/versions/dBeMI34d/letsdo-farm_and_charm-fabric-1.1.29.jar",
+  "sha1": "4fbc56453b634119af065d4331497650eb86798c"
+ },
+ {
+  "slug": "lets-do-furniture",
+  "titulo": "[Let's Do] Furniture",
+  "version": "1.1.10",
+  "archivo": "letsdo-furniture-fabric-1.1.10.jar",
+  "url": "https://cdn.modrinth.com/data/3JQDJrYW/versions/ywtEJYFd/letsdo-furniture-fabric-1.1.10.jar",
+  "sha1": "981d846329c1b1649f563c48e2d9b5df46fc0389"
+ },
+ {
+  "slug": "lets-do-wildernature",
+  "titulo": "[Let's Do] WilderNature",
+  "version": "1.1.8",
+  "archivo": "letsdo-wildernature-fabric-1.1.8.jar",
+  "url": "https://cdn.modrinth.com/data/AAiRU4aQ/versions/z8Eb5lpS/letsdo-wildernature-fabric-1.1.8.jar",
+  "sha1": "7c08f3134def9f6f5038db80a62a76b89e03105f"
+ },
+ {
+  "slug": "lithium",
+  "titulo": "Lithium",
+  "version": "mc1.21.1-0.15.4-fabric",
+  "archivo": "lithium-fabric-0.15.4+mc1.21.1.jar",
+  "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/N08Z8wog/lithium-fabric-0.15.4%2Bmc1.21.1.jar",
+  "sha1": "7d82a004403b7780d4443d8e40361a55cfd0ae63"
+ },
+ {
+  "slug": "lithostitched",
+  "titulo": "Lithostitched",
+  "version": "1.8.1-fabric-21.1",
+  "archivo": "lithostitched-1.8.1-fabric-21.1.jar",
+  "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/GZFp8lnS/lithostitched-1.8.1-fabric-21.1.jar",
+  "sha1": "f295e89ad7f18a2ba20da2deb33efabfbe63ed43"
+ },
+ {
+  "slug": "lootr",
+  "titulo": "Lootr",
+  "version": "1.21.1-1.11.38.127",
+  "archivo": "lootr-fabric-1.21.1-1.11.38.127.jar",
+  "url": "https://cdn.modrinth.com/data/EltpO5cN/versions/nar56EsW/lootr-fabric-1.21.1-1.11.38.127.jar",
+  "sha1": "6671786d4c36a33dcefff85d757022c2a8ed535f"
+ },
+ {
+  "slug": "lootrmon",
+  "titulo": "Lootrmon: Lootr & Cobblemon Gilded Chest Compatibility",
+  "version": "0.0.0.3",
+  "archivo": "lootrmon-fabric-1.21.1-0.0.0.3.jar",
+  "url": "https://cdn.modrinth.com/data/ywwXJDli/versions/nquNxBhW/lootrmon-fabric-1.21.1-0.0.0.3.jar",
+  "sha1": "a09db5b7dd916f3c7fb9e1da1bd83c04f14ce4d9"
+ },
+ {
+  "slug": "luckperms",
+  "titulo": "LuckPerms",
+  "version": "v5.4.140-fabric",
+  "archivo": "LuckPerms-Fabric-5.4.140.jar",
+  "url": "https://cdn.modrinth.com/data/Vebnzrzj/versions/l47d4ZWk/LuckPerms-Fabric-5.4.140.jar",
+  "sha1": "5368c9a12f181eeeae124b70395691780e5cb657"
+ },
+ {
+  "slug": "macaws-holidays",
+  "titulo": "Macaw's Holidays",
+  "version": "1.1.2",
+  "archivo": "mcw-holidays-1.1.2-mc1.21.1fabric.jar",
+  "url": "https://cdn.modrinth.com/data/rH20L2Lp/versions/lUJ6xjps/mcw-holidays-1.1.2-mc1.21.1fabric.jar",
+  "sha1": "59a0d8de46d73ad29c907715d0e2c4973f7c369b"
+ },
+ {
+  "slug": "macaws-roofs",
+  "titulo": "Macaw's Roofs",
+  "version": "2.3.2",
+  "archivo": "mcw-roofs-2.3.2-mc1.21.1fabric.jar",
+  "url": "https://cdn.modrinth.com/data/B8jaH3P1/versions/BgPUaaiV/mcw-roofs-2.3.2-mc1.21.1fabric.jar",
+  "sha1": "2367e5972a8ab30cc4f764e6ec98841e3eaa341a"
+ },
+ {
+  "slug": "cobblemon-mega-showdown",
+  "titulo": "Cobblemon: Mega Showdown",
+  "version": "1.3.3+1.8.4+1.21.1-release",
+  "archivo": "mega_showdown-fabric-1.3.3+1.8.4+1.21.1-release.jar",
+  "url": "https://cdn.modrinth.com/data/SszvX85I/versions/pToIDLtC/mega_showdown-fabric-1.3.3%2B1.8.4%2B1.21.1-release.jar",
+  "sha1": "4330a4a1e6ca10aabe5ae1d1956687ead17f2673"
+ },
+ {
+  "slug": "modernfix",
+  "titulo": "ModernFix",
+  "version": "5.25.1+mc1.21.1",
+  "archivo": "modernfix-fabric-5.25.1+mc1.21.1.jar",
+  "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/NnNX8LBn/modernfix-fabric-5.25.1%2Bmc1.21.1.jar",
+  "sha1": "4ab39e9c736e7204146792c545ec5b29fc0a3872"
+ },
+ {
+  "slug": "moonlight",
+  "titulo": "Moonlight Lib",
+  "version": "1.21.1-3.8.3",
+  "archivo": "moonlight-1.21.1-3.8.3-fabric.jar",
+  "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/uANIaPO7/moonlight-1.21.1-3.8.3-fabric.jar",
+  "sha1": "35724514c6ab57ac255364c7b385dde7c0991a57"
+ },
+ {
+  "slug": "necronomicon",
+  "titulo": "Necronomicon API",
+  "version": "1.6.0+1.21",
+  "archivo": "Necronomicon-Fabric-1.6.0+1.21.jar",
+  "url": "https://cdn.modrinth.com/data/P1Kv5EAO/versions/O6odCETu/Necronomicon-Fabric-1.6.0%2B1.21.jar",
+  "sha1": "b6ac70d9ecac570f56e75db81d8281976fea1357"
+ },
+ {
+  "slug": "no-chat-reports",
+  "titulo": "No Chat Reports",
+  "version": "Fabric-1.21.1-v2.9.1",
+  "archivo": "NoChatReports-FABRIC-1.21.1-v2.9.1.jar",
+  "url": "https://cdn.modrinth.com/data/qQyHxfxd/versions/D8K0KJXM/NoChatReports-FABRIC-1.21.1-v2.9.1.jar",
+  "sha1": "789cabd9b1fed079af87f675d1d6c1c95b603e19"
+ },
+ {
+  "slug": "shatterbyte-lib",
+  "titulo": "ShatterLib | OctoLib",
+  "version": "0.6.3.2+1.21",
+  "archivo": "OctoLib-FABRIC-0.6.3.2+1.21.jar",
+  "url": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/auboAQ8R/OctoLib-FABRIC-0.6.3.2%2B1.21.jar",
+  "sha1": "db0884f7f447c48bcf7acdcbb321b3a8fc815996"
+ },
+ {
+  "slug": "open-parties-and-claims",
+  "titulo": "Open Parties and Claims",
+  "version": "fabric-1.21.1-0.33.0",
+  "archivo": "open-parties-and-claims-fabric-1.21.1-0.33.0.jar",
+  "url": "https://cdn.modrinth.com/data/gF3BGWvG/versions/4XHYA7yQ/open-parties-and-claims-fabric-1.21.1-0.33.0.jar",
+  "sha1": "685e5f46457d67e001a34c203c0d87b9ae28c27d"
+ },
+ {
+  "slug": "os-cobblemon-library",
+  "titulo": "OS Cobblemon Library",
+  "version": "1.5.2",
+  "archivo": "os-cobblemon-library-fabric-1.5.2.jar",
+  "url": "https://cdn.modrinth.com/data/8hdkMUPs/versions/hT3yLdDC/os-cobblemon-library-fabric-1.5.2.jar",
+  "sha1": "c41cdbeb87046c8fcb777190584964cca1a0959c"
+ },
+ {
+  "slug": "owo-lib",
+  "titulo": "oωo (owo-lib)",
+  "version": "0.12.15.4+1.21",
+  "archivo": "owo-lib-0.12.15.4+1.21.jar",
+  "url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/JB1fLQnc/owo-lib-0.12.15.4%2B1.21.jar",
+  "sha1": "45725e6d33b624e565a7a6e5d3627af40814288d"
+ },
+ {
+  "slug": "packet-fixer",
+  "titulo": "Packet Fixer",
+  "version": "3.3.1",
+  "archivo": "packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
+  "url": "https://cdn.modrinth.com/data/c7m1mi73/versions/2C41Q8WX/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
+  "sha1": "a8bb6e25807682e72c23bf4065f3cd5f6373ece3"
+ },
+ {
+  "slug": "pebbles-crate",
+  "titulo": "Pebble's Crate",
+  "version": "1.1.1-1.21.1",
+  "archivo": "pebbles-crates-1.1.1-1.21.1.jar",
+  "url": "https://cdn.modrinth.com/data/qAmOkKWl/versions/WZLsRUT8/pebbles-crates-1.1.1-1.21.1.jar",
+  "sha1": "4fbf6060f6ac5a51a43ff37df03b5920be794d62"
+ },
+ {
+  "slug": "placeholder-api",
+  "titulo": "Text Placeholder API",
+  "version": "2.4.2+1.21",
+  "archivo": "placeholder-api-2.4.2+1.21.jar",
+  "url": "https://cdn.modrinth.com/data/eXts2L7r/versions/U5bhVym2/placeholder-api-2.4.2%2B1.21.jar",
+  "sha1": "aa1b9a49f9f190dfe4825c502b150817dd2998c3"
+ },
+ {
+  "slug": "playeranimator",
+  "titulo": "playerAnimator",
+  "version": "2.0.4+1.21.1-fabric",
+  "archivo": "player-animation-lib-fabric-2.0.4+1.21.1.jar",
+  "url": "https://cdn.modrinth.com/data/gedNE4y2/versions/CkedfDp3/player-animation-lib-fabric-2.0.4%2B1.21.1.jar",
+  "sha1": "2985c208766cde078a39c22b5ad989b74b7bc490"
+ },
+ {
+  "slug": "pokebelt-cobblemon",
+  "titulo": "Pokebelt [Cobblemon]",
+  "version": "0.1.6",
+  "archivo": "pokebelt-0.1.6.jar",
+  "url": "https://cdn.modrinth.com/data/kgst0RnJ/versions/EYkSCLO8/pokebelt-0.1.6.jar",
+  "sha1": "3bde77ae9229cf78351ad66f429def89296678fd"
+ },
+ {
+  "slug": "pokebike",
+  "titulo": "PokeBike [Cobblemon & Pixelmon Addon]",
+  "version": "4.0",
+  "archivo": "pokebike-fabric-4.0.jar",
+  "url": "https://cdn.modrinth.com/data/8eqU62OI/versions/AK9vIaHl/pokebike-fabric-4.0.jar",
+  "sha1": "d1e026d78699f149d47f853224e813ed4689020c"
+ },
+ {
+  "slug": "pokeblocks",
+  "titulo": "Pokeblocks",
+  "version": "1.5.0-1.21.1",
+  "archivo": "pokeblocks-1.5.0-1.21.1.jar",
+  "url": "https://cdn.modrinth.com/data/hnOfcjSq/versions/qlp66lU8/pokeblocks-1.5.0-1.21.1.jar",
+  "sha1": "a767426171b3085775b57bfd53b66fe7fa6edd88"
+ },
+ {
+  "slug": "prickle",
+  "titulo": "Prickle",
+  "version": "21.1.11",
+  "archivo": "prickle-fabric-1.21.1-21.1.11.jar",
+  "url": "https://cdn.modrinth.com/data/aaRl8GiW/versions/Ef7P6Rb7/prickle-fabric-1.21.1-21.1.11.jar",
+  "sha1": "6d6032880be3b6469c5615fd2ea160bf5eb93ac2"
+ },
+ {
+  "slug": "puzzles-lib",
+  "titulo": "Puzzles Lib",
+  "version": "21.1.66",
+  "archivo": "puzzleslib-v21.1.66-mc1.21.1+fabric.jar",
+  "url": "https://cdn.modrinth.com/data/QAGBst4M/versions/IV6k1yRp/puzzleslib-v21.1.66-mc1.21.1%2Bfabric.jar",
+  "sha1": "fc946af8992dbf77a1de98b2e9fbdb72071b495c"
+ },
+ {
+  "slug": "quantumnet",
+  "titulo": "Quantum Network Core",
+  "version": "0.2.0",
+  "archivo": "quantumnet-0.2.0.jar",
+  "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/servidor/mods_propios/quantumnet-0.2.0.jar",
+  "sha1": "c5e33f033928b19691a3ced55103cf62e66e3592"
+ },
+ {
+  "slug": "rad-gyms",
+  "titulo": "Rad Gyms [Cobblemon]",
+  "version": "1.8.3_0.5.2",
+  "archivo": "rad-gyms-fabric-0.5.2.jar",
+  "url": "https://cdn.modrinth.com/data/eF8kqlHd/versions/phkPsqy1/rad-gyms-fabric-0.5.2.jar",
+  "sha1": "9bad8a8831e33b3130583e5cc234a5661e8d4dee"
+ },
+ {
+  "slug": "rctapi",
+  "titulo": "Radical Cobblemon Trainers API",
+  "version": "0.16.2-beta",
+  "archivo": "rctapi-fabric-1.21.1-0.16.2-beta.jar",
+  "url": "https://cdn.modrinth.com/data/CBfM2yw7/versions/DoQNDXAU/rctapi-fabric-1.21.1-0.16.2-beta.jar",
+  "sha1": "3514532fea28e2e1160894428302eb1000af8459"
+ },
+ {
+  "slug": "rctmod",
+  "titulo": "Radical Cobblemon Trainers",
+  "version": "0.19.2-beta",
+  "archivo": "rctmod-fabric-1.21.1-0.19.2-beta.jar",
+  "url": "https://cdn.modrinth.com/data/lRwTUnD7/versions/rgfBfnW9/rctmod-fabric-1.21.1-0.19.2-beta.jar",
+  "sha1": "dba27885e477a583dffe1a46c83b4df6af96fc4c"
+ },
+ {
+  "slug": "resourceful-lib",
+  "titulo": "Resourceful Lib",
+  "version": "3.0.12",
+  "archivo": "resourcefullib-fabric-1.21-3.0.12.jar",
+  "url": "https://cdn.modrinth.com/data/G1hIVOrD/versions/Hf91FuVF/resourcefullib-fabric-1.21-3.0.12.jar",
+  "sha1": "cb67e1302b5116953f45556cc61dbcf40d986ecd"
+ },
+ {
+  "slug": "sceneblocks",
+  "titulo": "SceneBlocks",
+  "version": "0.2.5",
+  "archivo": "sceneblocks-fabric-0.2.5.jar",
+  "url": "https://cdn.modrinth.com/data/xjdeFxEb/versions/GhJzuYxJ/sceneblocks-fabric-0.2.5.jar",
+  "sha1": "c5608ce7e78fffe6500bc43b2514f5e991ab7ec2"
+ },
+ {
+  "slug": "scholar",
+  "titulo": "Scholar",
+  "version": "1.2.10",
+  "archivo": "scholar-fabric-1.21.1-1.2.10.jar",
+  "url": "https://cdn.modrinth.com/data/fX4dIQCo/versions/DfKvxvXC/scholar-fabric-1.21.1-1.2.10.jar",
+  "sha1": "8746ff951879f05b7b49da1cb627bf9cc39103b2"
+ },
+ {
+  "slug": "servercore",
+  "titulo": "ServerCore",
+  "version": "1.5.19+1.21.1",
+  "archivo": "servercore-fabric-1.5.19+1.21.1.jar",
+  "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/GQ2a51Rl/servercore-fabric-1.5.19%2B1.21.1.jar",
+  "sha1": "a6982d25211a307416c6c050e41b087306caf6e8"
+ },
+ {
+  "slug": "shadowcrates",
+  "titulo": "ShadowCrates",
+  "version": "2.3",
+  "archivo": "ShadowCrates-2.3.jar",
+  "url": "https://cdn.modrinth.com/data/f136wypQ/versions/kma0bh77/ShadowCrates-2.3.jar",
+  "sha1": "8ef82df62c0df3649d1d1c834de63d8964e92533"
+ },
+ {
+  "slug": "skiescrates",
+  "titulo": "SkiesCrates",
+  "version": "1.0.5",
+  "archivo": "SkiesCrates-fabric-1.21.1-1.0.5.jar",
+  "url": "https://cdn.modrinth.com/data/Mo6LcIJr/versions/hOuRqXhW/SkiesCrates-fabric-1.21.1-1.0.5.jar",
+  "sha1": "10830d42d2f7c0d39f97cf6022442587c0b9be26"
+ },
+ {
+  "slug": "spark",
+  "titulo": "spark",
+  "version": "1.10.109-fabric",
+  "archivo": "spark-1.10.109-fabric.jar",
+  "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/cALUj9l1/spark-1.10.109-fabric.jar",
+  "sha1": "eff42cbeee6fe9a7f3c57031c23200256366dcd1"
+ },
+ {
+  "slug": "stoneworks",
+  "titulo": "Stoneworks",
+  "version": "v21.1.0-1.21.1-Fabric",
+  "archivo": "Stoneworks-v21.1.0-1.21.1-Fabric.jar",
+  "url": "https://cdn.modrinth.com/data/FzyTKtVF/versions/62fUqsGs/Stoneworks-v21.1.0-1.21.1-Fabric.jar",
+  "sha1": "4213f967f906ecf460837050b71517d5857c6f9f"
+ },
+ {
+  "slug": "styled-chat",
+  "titulo": "Styled Chat",
+  "version": "2.6.1+1.21",
+  "archivo": "styled-chat-2.6.1+1.21.jar",
+  "url": "https://cdn.modrinth.com/data/doqSKB0e/versions/4e1xZSk3/styled-chat-2.6.1%2B1.21.jar",
+  "sha1": "e6ab5db7b89994cb23e55de7f868731b22770a0b"
+ },
+ {
+  "slug": "styledplayerlist",
+  "titulo": "Styled Player List",
+  "version": "3.5.1+1.21",
+  "archivo": "styledplayerlist-3.5.1+1.21.jar",
+  "url": "https://cdn.modrinth.com/data/DQIfKUHf/versions/Ui7MOgqG/styledplayerlist-3.5.1%2B1.21.jar",
+  "sha1": "f33770ba71d3e24b46591cefee106cf0e18d9eb7"
+ },
+ {
+  "slug": "supplementaries",
+  "titulo": "Supplementaries",
+  "version": "1.21.1-4.1.2",
+  "archivo": "supplementaries-1.21.1-4.1.2-fabric.jar",
+  "url": "https://cdn.modrinth.com/data/fFEIiSDQ/versions/i2grVyOU/supplementaries-1.21.1-4.1.2-fabric.jar",
+  "sha1": "d86d67d0204817065c84426ad692fc2c59c3aa8b"
+ },
+ {
+  "slug": "tbcs",
+  "titulo": "Cobblemon Trainer Battle Commands",
+  "version": "0.15.0-beta",
+  "archivo": "tbcs-fabric-1.21.1-0.15.0-beta.jar",
+  "url": "https://cdn.modrinth.com/data/NApIzVVy/versions/38O58pij/tbcs-fabric-1.21.1-0.15.0-beta.jar",
+  "sha1": "8f1c7e2f1b9e7c9d58c9bae7da6857702fc713d5"
+ },
+ {
+  "slug": "guts",
+  "titulo": "Give Us Terracotta Stairs! (G.U.T.S)",
+  "version": "1.1",
+  "archivo": "terracotta-stairs-1.1.jar",
+  "url": "https://cdn.modrinth.com/data/K7vp8WNo/versions/uch4GHhi/terracotta-stairs-1.1.jar",
+  "sha1": "0adc4466a0373961c5192a519781e6cb2ece8e29"
+ },
+ {
+  "slug": "textile_backup",
+  "titulo": "Textile Backup",
+  "version": "3.1.3-1.21",
+  "archivo": "textile_backup-3.1.3-1.21.jar",
+  "url": "https://cdn.modrinth.com/data/wwcspvkr/versions/C73KkDD6/textile_backup-3.1.3-1.21.jar",
+  "sha1": "f390d2acd7e963d2087580fa94b6e4eafe7ac652"
+ },
+ {
+  "slug": "tmcraft",
+  "titulo": "TMCraft",
+  "version": "1.4.19+1.8.4",
+  "archivo": "tmcraft-1.4.19+1.8.4.jar",
+  "url": "https://cdn.modrinth.com/data/HU6mkUZs/versions/aZiPJqde/tmcraft-1.4.19%2B1.8.4.jar",
+  "sha1": "04c86dd02a2802d4eb934ebbc07593eedbb2efac"
+ },
+ {
+  "slug": "travelersbackpack",
+  "titulo": "Traveler's Backpack",
+  "version": "1.21.1-10.1.40",
+  "archivo": "travelersbackpack-fabric-1.21.1-10.1.40.jar",
+  "url": "https://cdn.modrinth.com/data/rlloIFEV/versions/q2nboqiM/travelersbackpack-fabric-1.21.1-10.1.40.jar",
+  "sha1": "ac9374f91473db9fc003dad283c1b81f00d13807"
+ },
+ {
+  "slug": "trinkets",
+  "titulo": "Trinkets",
+  "version": "3.10.0",
+  "archivo": "trinkets-3.10.0.jar",
+  "url": "https://cdn.modrinth.com/data/5aaWibi9/versions/JagCscwi/trinkets-3.10.0.jar",
+  "sha1": "f54756f938c7c273713b9f97d4a987eec551e892"
+ },
+ {
+  "slug": "simple-voice-chat",
+  "titulo": "Simple Voice Chat",
+  "version": "fabric-1.21.1-2.6.22",
+  "archivo": "voicechat-fabric-1.21.1-2.6.22.jar",
+  "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/VS5X7jZd/voicechat-fabric-1.21.1-2.6.22.jar",
+  "sha1": "2b3f229ed746955b756807a92e09e9a32d636776"
+ },
+ {
+  "slug": "waystones",
+  "titulo": "Waystones",
+  "version": "21.1.47+fabric-1.21.1",
+  "archivo": "waystones-fabric-1.21.1-21.1.47.jar",
+  "url": "https://cdn.modrinth.com/data/LOpKHB2A/versions/Uv6FtJUQ/waystones-fabric-1.21.1-21.1.47.jar",
+  "sha1": "a8991709a855f9f1cc2bc8bf5dfc0e7ad30efcdd"
+ },
+ {
+  "slug": "worldedit",
+  "titulo": "WorldEdit",
+  "version": "7.3.8",
+  "archivo": "worldedit-mod-7.3.8.jar",
+  "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/WTAFvuRx/worldedit-mod-7.3.8.jar",
+  "sha1": "924fe181a29bd66be6783f6d589968ab0ee02250"
+ },
+ {
+  "slug": "xaeros-minimap",
+  "titulo": "Xaero's Minimap",
+  "version": "fabric-1.21.1-26.6.0",
+  "archivo": "xaerominimap-fabric-1.21.1-26.6.0.jar",
+  "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/W4dcLcUs/xaerominimap-fabric-1.21.1-26.6.0.jar",
+  "sha1": "5fbb03dd3f22c0c3d5466d1366222d7d277a8df3"
+ },
+ {
+  "slug": "xaeros-world-map",
+  "titulo": "Xaero's World Map",
+  "version": "fabric-1.21.1-1.47.0",
+  "archivo": "xaeroworldmap-fabric-1.21.1-1.47.0.jar",
+  "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/XIR7GzC3/xaeroworldmap-fabric-1.21.1-1.47.0.jar",
+  "sha1": "db7ad23fe512dbc13a8286844fd9277c08a7ef5a"
+ },
+ {
+  "slug": "yacl",
+  "titulo": "YetAnotherConfigLib (YACL)",
+  "version": "3.8.2+1.21.1-fabric",
+  "archivo": "yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
+  "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/o3cDn8Vp/yet_another_config_lib_v3-3.8.2%2B1.21.1-fabric.jar",
+  "sha1": "e075503382f70715ab9fc6f66d603397a86eb3e0"
+ },
+ {
+  "slug": "yungs-api",
+  "titulo": "YUNG's API",
+  "version": "1.21.1-Fabric-5.1.9",
+  "archivo": "YungsApi-1.21.1-Fabric-5.1.9.jar",
+  "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/9rzwORd6/YungsApi-1.21.1-Fabric-5.1.9.jar",
+  "sha1": "28f46d1f21cf5b1ccb2efbccda6ba66ab2168407"
  }
 ]
