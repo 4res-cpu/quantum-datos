@@ -1,16 +1,16 @@
 {
   "_comentario": "Lo lee el launcher al abrirse.",
   "modpack": {
-    "version": "network-0.2.2",
+    "version": "network-0.2.3",
     "nombre": "Quantum Network",
     "minecraft": "1.21.1",
     "fabricLoader": "0.20.1",
-    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.2.2.mrpack",
-    "size": 3199724,
-    "sha1": "4cd4160d0c69f448c50fec393ea523d0a8e015b4",
-    "sha512": "849fa1ed422531bc5b354c9667b31a2249d1c1730c119f9a631a5f3fb871985abcb2f76f509f58a6e6a8c99190ad63bf1620a469174c820d872bf7a7243c5ba5",
-    "publicado": "2026-11-17T15:05:53.000Z",
-    "nota": "Mods de CobbleKanto: NPCs, bloques, modelos, escenas, teletransportes, objetos y spawners. Más construcción y Cobblemon."
+    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.2.3.mrpack",
+    "size": 3200287,
+    "sha1": "c2a5894d0a032db74d0d9281e14eb33d0053be5c",
+    "sha512": "531028659a9c6cc10573605e2192e09113331888ef74824aa4e4a5616d76e203d5bce8c03c98a93848336054c5bb90c687f42dc7ea4d989eed783e98484ec32a",
+    "publicado": "2026-11-17T15:26:28.000Z",
+    "nota": "Menú principal nuevo, pantalla de carga y arreglo del crash al abrir un mundo."
   },
   "launcher": {
     "version": "2.3.2",
