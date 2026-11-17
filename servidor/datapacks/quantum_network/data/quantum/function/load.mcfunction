@@ -12,7 +12,7 @@ execute unless score #leg qn_timer matches 1.. run scoreboard players set #leg q
 worldborder center 0 0
 worldborder set 20000
 scoreboard objectives remove qn_info
-scoreboard objectives add qn_info dummy {"text": "✦ QUANTUM ✦", "color": "#b57bff", "bold": true}
+scoreboard objectives add qn_info dummy {"text": "", "color": "white"}
 scoreboard objectives modify qn_info numberformat blank
 scoreboard objectives setdisplay sidebar qn_info
 scoreboard players set #l0 qn_info 10
@@ -41,38 +41,65 @@ scoreboard players display name #l3 qn_info {"text": "   ", "color": "white"}
 scoreboard players set #l_ip qn_info 1
 scoreboard players display name #l_ip qn_info {"text": "quantum network", "color": "dark_purple"}
 team add a_owner
-team modify a_owner prefix [{"text": "", "color": "white"}, {"text": " "}]
+team modify a_owner prefix [{"text": "", "color": "white"}, {"text": " "}]
 team modify a_owner color white
 team add b_coowner
-team modify b_coowner prefix [{"text": "", "color": "white"}, {"text": " "}]
+team modify b_coowner prefix [{"text": "", "color": "white"}, {"text": " "}]
 team modify b_coowner color white
 team add c_manager
-team modify c_manager prefix [{"text": "", "color": "white"}, {"text": " "}]
+team modify c_manager prefix [{"text": "", "color": "white"}, {"text": " "}]
 team modify c_manager color white
 team add d_admin
-team modify d_admin prefix [{"text": "", "color": "white"}, {"text": " "}]
+team modify d_admin prefix [{"text": "", "color": "white"}, {"text": " "}]
 team modify d_admin color white
-team add e_mod
-team modify e_mod prefix [{"text": "", "color": "white"}, {"text": " "}]
-team modify e_mod color white
-team add f_helper
-team modify f_helper prefix [{"text": "", "color": "white"}, {"text": " "}]
-team modify f_helper color white
+team add e_developer
+team modify e_developer prefix [{"text": "", "color": "white"}, {"text": " "}]
+team modify e_developer color white
+team add f_moderador
+team modify f_moderador prefix [{"text": "", "color": "white"}, {"text": " "}]
+team modify f_moderador color white
 team add g_soporte
-team modify g_soporte prefix [{"text": "", "color": "white"}, {"text": " "}]
+team modify g_soporte prefix [{"text": "", "color": "white"}, {"text": " "}]
 team modify g_soporte color white
-team add h_mvpplus
-team modify h_mvpplus prefix [{"text": "", "color": "white"}, {"text": " "}]
-team modify h_mvpplus color white
-team add i_mvp
-team modify i_mvp prefix [{"text": "", "color": "white"}, {"text": " "}]
-team modify i_mvp color white
-team add j_vipplus
-team modify j_vipplus prefix [{"text": "", "color": "white"}, {"text": " "}]
-team modify j_vipplus color white
-team add k_vip
-team modify k_vip prefix [{"text": "", "color": "white"}, {"text": " "}]
-team modify k_vip color white
-team add l_usuario
-team modify l_usuario prefix [{"text": "", "color": "white"}, {"text": " "}]
-team modify l_usuario color white
+team add h_helper
+team modify h_helper prefix [{"text": "", "color": "white"}, {"text": " "}]
+team modify h_helper color white
+team add i_builder
+team modify i_builder prefix [{"text": "", "color": "white"}, {"text": " "}]
+team modify i_builder color white
+team add j_artista
+team modify j_artista prefix [{"text": "", "color": "white"}, {"text": " "}]
+team modify j_artista color white
+team add k_tester
+team modify k_tester prefix [{"text": "", "color": "white"}, {"text": " "}]
+team modify k_tester color white
+team add l_partner
+team modify l_partner prefix [{"text": "", "color": "white"}, {"text": " "}]
+team modify l_partner color white
+team add m_booster
+team modify m_booster prefix [{"text": "", "color": "white"}, {"text": " "}]
+team modify m_booster color white
+team add n_campeon
+team modify n_campeon prefix [{"text": "", "color": "white"}, {"text": " "}]
+team modify n_campeon color white
+team add o_elite4
+team modify o_elite4 prefix [{"text": "", "color": "white"}, {"text": " "}]
+team modify o_elite4 color white
+team add p_lider
+team modify p_lider prefix [{"text": "", "color": "white"}, {"text": " "}]
+team modify p_lider color white
+team add q_mvpplus
+team modify q_mvpplus prefix [{"text": "", "color": "white"}, {"text": " "}]
+team modify q_mvpplus color white
+team add r_mvp
+team modify r_mvp prefix [{"text": "", "color": "white"}, {"text": " "}]
+team modify r_mvp color white
+team add s_vipplus
+team modify s_vipplus prefix [{"text": "", "color": "white"}, {"text": " "}]
+team modify s_vipplus color white
+team add t_vip
+team modify t_vip prefix [{"text": "", "color": "white"}, {"text": " "}]
+team modify t_vip color white
+team add u_usuario
+team modify u_usuario prefix [{"text": "", "color": "white"}, {"text": " "}]
+team modify u_usuario color white

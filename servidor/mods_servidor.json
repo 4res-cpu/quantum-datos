@@ -1206,5 +1206,53 @@
   "archivo": "cobblemon-horizon-mons-1.1.1.jar",
   "url": "https://cdn.modrinth.com/data/Digt9Ljb/versions/mDxi3pPi/cobblemon-horizon-mons-1.1.1.jar",
   "sha1": "285e0d982a43d7722c1dbed546df1ec479b7660f"
+ },
+ {
+  "slug": "cobblemon-rlm-fabric",
+  "titulo": "cobblemon-rlm-fabric-1.7.2.jar",
+  "version": "",
+  "archivo": "cobblemon-rlm-fabric-1.7.2.jar",
+  "url": "https://cdn.modrinth.com/data/GC58bFHM/versions/q5oNB4T2/cobblemon-rlm-fabric-1.7.2.jar",
+  "sha1": "024dc4f175f159b807e079c4ff474e7db4e6816a"
+ },
+ {
+  "slug": "spawnnotification-fabric-1.8.4",
+  "titulo": "spawnnotification-fabric-1.8.4-2.3.0.jar",
+  "version": "",
+  "archivo": "spawnnotification-fabric-1.8.4-2.3.0.jar",
+  "url": "https://cdn.modrinth.com/data/LPuJjiQz/versions/nHih61VP/spawnnotification-fabric-1.8.4-2.3.0.jar",
+  "sha1": "5ced076664b654e4d3676ea1d29a6d6fa7b0bea5"
+ },
+ {
+  "slug": "timcore-fabric-1.8.4",
+  "titulo": "timcore-fabric-1.8.4-1.38.0.jar",
+  "version": "",
+  "archivo": "timcore-fabric-1.8.4-1.38.0.jar",
+  "url": "https://cdn.modrinth.com/data/lVP9aUaY/versions/zeMnK5yC/timcore-fabric-1.8.4-1.38.0.jar",
+  "sha1": "2355def0d775baa7094d9ad421ce5a197d5369a0"
+ },
+ {
+  "slug": "almost-perfect-legendary-ivs-1.21.1",
+  "titulo": "almost-perfect-legendary-ivs-1.21.1-2.0.0.jar",
+  "version": "",
+  "archivo": "almost-perfect-legendary-ivs-1.21.1-2.0.0.jar",
+  "url": "https://cdn.modrinth.com/data/58Fnnj8R/versions/cdxEb29p/almost-perfect-legendary-ivs-1.21.1-2.0.0.jar",
+  "sha1": "7fde1ccf7effb5f95a20de611973f6a3a8c0ec6e"
+ },
+ {
+  "slug": "cobblemonrepel-1.8",
+  "titulo": "CobblemonRepel-1.8-1.4.jar",
+  "version": "",
+  "archivo": "CobblemonRepel-1.8-1.4.jar",
+  "url": "https://cdn.modrinth.com/data/u8TYP2M6/versions/ctV59pOE/CobblemonRepel-1.8-1.4.jar",
+  "sha1": "99554456ee36b2ae3d4c4b96a36e5eb41fab7b54"
+ },
+ {
+  "slug": "inventory-menu-1.21.1",
+  "titulo": "inventory-menu-1.21.1-1.0.8.jar",
+  "version": "",
+  "archivo": "inventory-menu-1.21.1-1.0.8.jar",
+  "url": "https://cdn.modrinth.com/data/qGmIHxuq/versions/EA6Ps8DR/inventory-menu-1.21.1-1.0.8.jar",
+  "sha1": "f4b793ba7a010baced3ac2e6bde9fbb2cff8b8cf"
  }
 ]

@@ -149,3 +149,9 @@ https://cdn.modrinth.com/data/nc4mnBEo/versions/6kN5TeWu/starlightfusion-fabric-
 https://cdn.modrinth.com/data/LcFlXgq6/versions/mdoj4egW/MLUM%2020.41.jar
 https://cdn.modrinth.com/data/88hsodcW/versions/WLZ1bmgl/baby-legends-cobblemon-2.4.jar
 https://cdn.modrinth.com/data/Digt9Ljb/versions/mDxi3pPi/cobblemon-horizon-mons-1.1.1.jar
+https://cdn.modrinth.com/data/GC58bFHM/versions/q5oNB4T2/cobblemon-rlm-fabric-1.7.2.jar
+https://cdn.modrinth.com/data/LPuJjiQz/versions/nHih61VP/spawnnotification-fabric-1.8.4-2.3.0.jar
+https://cdn.modrinth.com/data/lVP9aUaY/versions/zeMnK5yC/timcore-fabric-1.8.4-1.38.0.jar
+https://cdn.modrinth.com/data/58Fnnj8R/versions/cdxEb29p/almost-perfect-legendary-ivs-1.21.1-2.0.0.jar
+https://cdn.modrinth.com/data/u8TYP2M6/versions/ctV59pOE/CobblemonRepel-1.8-1.4.jar
+https://cdn.modrinth.com/data/qGmIHxuq/versions/EA6Ps8DR/inventory-menu-1.21.1-1.0.8.jar

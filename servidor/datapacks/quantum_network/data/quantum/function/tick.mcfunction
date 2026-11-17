@@ -3,7 +3,7 @@ execute as @a[tag=!qn_visto] in quantum:lobby run tp @s 3.5 102 2.5
 tag @a[tag=!qn_visto] add qn_visto
 execute as @a[scores={qn_salio=1..}] in quantum:lobby run tp @s 3.5 102 2.5
 scoreboard players set @a[scores={qn_salio=1..}] qn_salio 0
-team join l_usuario @a[team=]
+team join u_usuario @a[team=]
 # brujula de viaje
 execute as @a unless items entity @s container.* minecraft:compass[minecraft:custom_data~{qn_menu:1b}] unless items entity @s weapon.offhand minecraft:compass[minecraft:custom_data~{qn_menu:1b}] unless items entity @s player.cursor minecraft:compass[minecraft:custom_data~{qn_menu:1b}] run function quantum:menu/dar
 scoreboard players remove @a[scores={qn_cd=1..}] qn_cd 1

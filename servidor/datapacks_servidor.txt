@@ -6,3 +6,10 @@ https://cdn.modrinth.com/data/EOD7Mj1X/versions/uQe0jfbu/CobbledStops%201.2.zip 
 https://cdn.modrinth.com/data/DHn6JjmX/versions/1bExUxoJ/Cobblemon%20improvedmon%20v1.1.zip improvedmon-1.1.zip
 https://cdn.modrinth.com/data/kxduK1pT/versions/SMeomfRd/Cobblemon-Halloween-Costumes-1.0-Datapack.zip halloween-costumes-1.0.zip
 https://cdn.modrinth.com/data/ZOTfFv08/versions/8tWctsWd/Cobblemon%20ZA-Champions%20Movepool%20Additions%20V1.1.zip za-champions-movepool-1.1.zip
+https://cdn.modrinth.com/data/k1X1bPvt/versions/VHE4RtY6/PokeCostume%20v.3.4.zip poke-costume-3.4.zip
+https://cdn.modrinth.com/data/FZblDyXy/versions/KHAEIGnI/cobblemon_bonus_variants_v3_for_1.8.zip bonus-variants-v3.zip
+https://cdn.modrinth.com/data/DIZwq3Ml/versions/rJ8dVJxo/Xadok%27s%20Megas.zip xadoks-megas-1.4.8.zip
+https://cdn.modrinth.com/data/xroZOavg/versions/rQ8RS9yp/Seavls%20Bizarremon%201.2.2v.zip seavls-bizarremons-1.2.2.zip
+https://cdn.modrinth.com/data/57Aq2aBF/versions/1a1xbYF8/GG%26T%20Pack%20v1.3.4.zip ggt-fakemon-1.3.4.zip
+https://cdn.modrinth.com/data/F4TxEYXe/versions/UbNNUg3g/Winterglide%27s%20Extra%20Animations%20%5BCobblemon%5D.zip winterglide-animations-1.1.zip
+https://cdn.modrinth.com/data/1F6zfYqY/versions/Z9w5OyMZ/Legendary%201.4.zip legendary-structures-1.4.zip
