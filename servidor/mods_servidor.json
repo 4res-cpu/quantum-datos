@@ -8,6 +8,14 @@
   "sha1": "e1165f3d5b31d4296f932ec1bc428f2a832c5def"
  },
  {
+  "slug": "additional-items-for-cobblemon",
+  "titulo": "Additional items for Cobblemon",
+  "version": "4.0.0",
+  "archivo": "cobblemon-progress-items-4.0.0.jar",
+  "url": "https://cdn.modrinth.com/data/ykXd5c2f/versions/fo8URNBl/cobblemon-progress-items-4.0.0.jar",
+  "sha1": "22d3f175b682ad2fec275d37e0d7f80b80eb4633"
+ },
+ {
   "slug": "adventure-platform-mod",
   "titulo": "adventure-platform-mod",
   "version": "5.14.2",
@@ -80,14 +88,6 @@
   "sha1": "450919d97afac784962376364ebb19f13fa90343"
  },
  {
-  "slug": "cobblemon-badgebox",
-  "titulo": "【Cobblemon】BadgeBox",
-  "version": "1.3.0",
-  "archivo": "badgebox-fabric-1.3.0.jar",
-  "url": "https://cdn.modrinth.com/data/8J7TR166/versions/1iJ9oDN4/badgebox-fabric-1.3.0.jar",
-  "sha1": "627a4b2a43082a90e38438f6611affdec78ff4c5"
- },
- {
   "slug": "balm",
   "titulo": "Balm",
   "version": "21.0.67+fabric-1.21.1",
@@ -118,6 +118,14 @@
   "archivo": "blabber-1.8.0-standalone.jar",
   "url": "https://cdn.modrinth.com/data/2oRMVFgd/versions/ODQSSC9O/blabber-1.8.0-standalone.jar",
   "sha1": "88e37c46dab8f3466067f9acc40cdc466ae94806"
+ },
+ {
+  "slug": "blanketrtp",
+  "titulo": "B-RTP",
+  "version": "2.1.0",
+  "archivo": "blanketrtp-2.1.0.jar",
+  "url": "https://cdn.modrinth.com/data/vpbVW98n/versions/hw7tUOFJ/blanketrtp-2.1.0.jar",
+  "sha1": "7755b1000fa793b700b15ecc2286ad572f89dfaf"
  },
  {
   "slug": "bluemap",
@@ -160,6 +168,14 @@
   "sha1": "5d82342a2df53fd6df712bfdd583a811572918a4"
  },
  {
+  "slug": "cobblebattlerewards",
+  "titulo": "CobbleBattleRewards",
+  "version": "2.0.7.1",
+  "archivo": "cobblebattlerewards-2.0.7.1.jar",
+  "url": "https://cdn.modrinth.com/data/2Zbdnhhd/versions/7mR2zSZF/cobblebattlerewards-2.0.7.1.jar",
+  "sha1": "a342a4154f5b3d87c338deb7afa1e12a9ebe8f70"
+ },
+ {
   "slug": "cobblebetternpc",
   "titulo": "CobbleBetterNPC",
   "version": "1.1.1",
@@ -200,6 +216,14 @@
   "sha1": "a71f20907c3350680a11054584cf96963f5875e5"
  },
  {
+  "slug": "cobblehunts",
+  "titulo": "CobbleHunts",
+  "version": "1.1.2",
+  "archivo": "cobblehunts-1.1.2.jar",
+  "url": "https://cdn.modrinth.com/data/5bgqML6Z/versions/iTRyNljO/cobblehunts-1.1.2.jar",
+  "sha1": "dcbd99fc2a191258058df8127c8fcc14ebb361de"
+ },
+ {
   "slug": "cobblekanto-core",
   "titulo": "CobbleKanto Core",
   "version": "0.9.3",
@@ -232,12 +256,28 @@
   "sha1": "3d06f0d440f3e41a928e1580a8c4c08f47e94628"
  },
  {
-  "slug": "cobblemon-cities-structures",
-  "titulo": "Cobblemon Cities & Structures",
-  "version": "1.0.17",
-  "archivo": "Cobblemon Cities & Structures-1.0.17.jar",
-  "url": "https://cdn.modrinth.com/data/IqCPvv9e/versions/P5QkWkYQ/Cobblemon%20Cities%20%26%20Structures-1.0.17.jar",
-  "sha1": "7557ee920290882a152236939fee9e5c68d7e99f"
+  "slug": "cobblemon",
+  "titulo": "Cobblemon",
+  "version": "1.8.4F",
+  "archivo": "Cobblemon-fabric-1.8.4+1.21.1.jar",
+  "url": "https://cdn.modrinth.com/data/MdwFAVRL/versions/PdOzYHKU/Cobblemon-fabric-1.8.4%2B1.21.1.jar",
+  "sha1": "587973321ae6d0762b38a2e19632f5cfdce7c2df"
+ },
+ {
+  "slug": "cobblemon-armory",
+  "titulo": "Cobblemon: Armory",
+  "version": "1.5.4",
+  "archivo": "cobblemonarmory-1.5.4-fabric-1.21.1.jar",
+  "url": "https://cdn.modrinth.com/data/2GSJkNsi/versions/PtHN23gq/cobblemonarmory-1.5.4-fabric-1.21.1.jar",
+  "sha1": "f2ee46e0d7eb54f524392f8ab75c5d4bf94f28dc"
+ },
+ {
+  "slug": "cobblemon-badgebox",
+  "titulo": "【Cobblemon】BadgeBox",
+  "version": "1.3.0",
+  "archivo": "badgebox-fabric-1.3.0.jar",
+  "url": "https://cdn.modrinth.com/data/8J7TR166/versions/1iJ9oDN4/badgebox-fabric-1.3.0.jar",
+  "sha1": "627a4b2a43082a90e38438f6611affdec78ff4c5"
  },
  {
   "slug": "cobblemon-battle-extras",
@@ -248,6 +288,14 @@
   "sha1": "00fc76292c333eef66abf0ab5cb3591d69c52bd3"
  },
  {
+  "slug": "cobblemon-cities-structures",
+  "titulo": "Cobblemon Cities & Structures",
+  "version": "1.0.17",
+  "archivo": "Cobblemon Cities & Structures-1.0.17.jar",
+  "url": "https://cdn.modrinth.com/data/IqCPvv9e/versions/P5QkWkYQ/Cobblemon%20Cities%20%26%20Structures-1.0.17.jar",
+  "sha1": "7557ee920290882a152236939fee9e5c68d7e99f"
+ },
+ {
   "slug": "cobblemon-ev-pool",
   "titulo": "Cobblemon EV Pool",
   "version": "1.8.4",
@@ -256,20 +304,28 @@
   "sha1": "48a96177aa801ee38cd38fd5e4849a7e5244bbf9"
  },
  {
-  "slug": "cobblemon_expeditions",
-  "titulo": "Cobblemon Expeditions",
-  "version": "1.8.2",
-  "archivo": "cobblemon-expeditions-fabric-1.8.2.jar",
-  "url": "https://cdn.modrinth.com/data/HtRy1shF/versions/qTi5HUVz/cobblemon-expeditions-fabric-1.8.2.jar",
-  "sha1": "49bdd9ebc1f4c24a57b84f9fc8e5e1ef16e7fd5e"
+  "slug": "cobblemon-fight-or-flight-reborn",
+  "titulo": "Cobblemon Fight or Flight Reborn",
+  "version": "0.11.3",
+  "archivo": "fightorflight-fabric-0.11.3.jar",
+  "url": "https://cdn.modrinth.com/data/cTdIg5HZ/versions/FALL8mct/fightorflight-fabric-0.11.3.jar",
+  "sha1": "b5760bd2a7a80a0c21f26c96855bd8541511deee"
  },
  {
-  "slug": "cobblemon",
-  "titulo": "Cobblemon",
-  "version": "1.8.4F",
-  "archivo": "Cobblemon-fabric-1.8.4+1.21.1.jar",
-  "url": "https://cdn.modrinth.com/data/MdwFAVRL/versions/PdOzYHKU/Cobblemon-fabric-1.8.4%2B1.21.1.jar",
-  "sha1": "587973321ae6d0762b38a2e19632f5cfdce7c2df"
+  "slug": "cobblemon-gts",
+  "titulo": "Cobblemon GTS",
+  "version": "2.6.1",
+  "archivo": "Gts-2.6.1-fabric.jar",
+  "url": "https://cdn.modrinth.com/data/UTjx5ypK/versions/uAxVSR00/Gts-2.6.1-fabric.jar",
+  "sha1": "59b41a076e862cae5ce0f747029dac3c0d6e5c4d"
+ },
+ {
+  "slug": "cobblemon-hunt",
+  "titulo": "Cobblemon Hunt",
+  "version": "1.3.1",
+  "archivo": "Hunt-1.3.1-fabric.jar",
+  "url": "https://cdn.modrinth.com/data/QMAwqHhY/versions/Eq3nT99Z/Hunt-1.3.1-fabric.jar",
+  "sha1": "44fed9a635adb40c846de7e65e2b015a59d0ec66"
  },
  {
   "slug": "cobblemon-leaderboards",
@@ -280,12 +336,20 @@
   "sha1": "42cd64546463db005ffabf18bff0892739ab44ff"
  },
  {
-  "slug": "additional-items-for-cobblemon",
-  "titulo": "Additional items for Cobblemon",
-  "version": "4.0.0",
-  "archivo": "cobblemon-progress-items-4.0.0.jar",
-  "url": "https://cdn.modrinth.com/data/ykXd5c2f/versions/fo8URNBl/cobblemon-progress-items-4.0.0.jar",
-  "sha1": "22d3f175b682ad2fec275d37e0d7f80b80eb4633"
+  "slug": "cobblemon-mega-showdown",
+  "titulo": "Cobblemon: Mega Showdown",
+  "version": "1.3.3+1.8.4+1.21.1-release",
+  "archivo": "mega_showdown-fabric-1.3.3+1.8.4+1.21.1-release.jar",
+  "url": "https://cdn.modrinth.com/data/SszvX85I/versions/pToIDLtC/mega_showdown-fabric-1.3.3%2B1.8.4%2B1.21.1-release.jar",
+  "sha1": "4330a4a1e6ca10aabe5ae1d1956687ead17f2673"
+ },
+ {
+  "slug": "cobblemon-pokenav",
+  "titulo": "Cobblemon PokeNav",
+  "version": "2.4.2",
+  "archivo": "cobblenav-fabric-2.4.2.jar",
+  "url": "https://cdn.modrinth.com/data/bI8Nt3uA/versions/wq3mHFqw/cobblenav-fabric-2.4.2.jar",
+  "sha1": "3cc7b24e9a62c82191de5473764283333b1b4d76"
  },
  {
   "slug": "cobblemon-utility-plus",
@@ -304,12 +368,12 @@
   "sha1": "fad2623a915617aba29f50d6fadcc8ccda1a10d4"
  },
  {
-  "slug": "cobblemon-armory",
-  "titulo": "Cobblemon: Armory",
-  "version": "1.5.4",
-  "archivo": "cobblemonarmory-1.5.4-fabric-1.21.1.jar",
-  "url": "https://cdn.modrinth.com/data/2GSJkNsi/versions/PtHN23gq/cobblemonarmory-1.5.4-fabric-1.21.1.jar",
-  "sha1": "f2ee46e0d7eb54f524392f8ab75c5d4bf94f28dc"
+  "slug": "cobblemon_expeditions",
+  "titulo": "Cobblemon Expeditions",
+  "version": "1.8.2",
+  "archivo": "cobblemon-expeditions-fabric-1.8.2.jar",
+  "url": "https://cdn.modrinth.com/data/HtRy1shF/versions/qTi5HUVz/cobblemon-expeditions-fabric-1.8.2.jar",
+  "sha1": "49bdd9ebc1f4c24a57b84f9fc8e5e1ef16e7fd5e"
  },
  {
   "slug": "cobblemonnpcutils",
@@ -328,20 +392,20 @@
   "sha1": "599c8165036788794bf9b90f6cd2d4de55108700"
  },
  {
-  "slug": "cobblemon-pokenav",
-  "titulo": "Cobblemon PokeNav",
-  "version": "2.4.2",
-  "archivo": "cobblenav-fabric-2.4.2.jar",
-  "url": "https://cdn.modrinth.com/data/bI8Nt3uA/versions/wq3mHFqw/cobblenav-fabric-2.4.2.jar",
-  "sha1": "3cc7b24e9a62c82191de5473764283333b1b4d76"
- },
- {
   "slug": "cobblerun",
   "titulo": "Cobblemon Instant-Run",
   "version": "1.1.0",
   "archivo": "cobblerun-1.1.0.jar",
   "url": "https://cdn.modrinth.com/data/f3YlFSGV/versions/Vs8iNEju/cobblerun-1.1.0.jar",
   "sha1": "9567888c30112b4dc8ab240c780b57fbf8d60bf3"
+ },
+ {
+  "slug": "cobblespawnregions",
+  "titulo": "CobbleSpawnRegions",
+  "version": "1.0.8",
+  "archivo": "cobblespawnregions-1.0.8.jar",
+  "url": "https://cdn.modrinth.com/data/HVAuuRco/versions/liiVFg65/cobblespawnregions-1.0.8.jar",
+  "sha1": "7ecb31aa0298462844b0e3612f3205492af2a278"
  },
  {
   "slug": "cobbleverse-badges",
@@ -376,12 +440,12 @@
   "sha1": "06fb4500a127d71bae5c6eb38c8fe8d2d4bb28d6"
  },
  {
-  "slug": "easy-npc-core",
-  "titulo": "Easy NPC: Core",
-  "version": "7.19.0",
-  "archivo": "easy_npc-fabric-1.21.1-7.19.0.jar",
-  "url": "https://cdn.modrinth.com/data/Epm6R3P2/versions/Hi5e4DnV/easy_npc-fabric-1.21.1-7.19.0.jar",
-  "sha1": "c7090a8acdb4cc2241ba44d434def18cba5041a9"
+  "slug": "e-utils",
+  "titulo": "E-Utils",
+  "version": "1.1.6",
+  "archivo": "everlastingutils-1.1.6.jar",
+  "url": "https://cdn.modrinth.com/data/YG7mMy6f/versions/5TM7kH1u/everlastingutils-1.1.6.jar",
+  "sha1": "0b8a10a3c25e24a17b135d89189bcbc0c1526d94"
  },
  {
   "slug": "easy-npc",
@@ -398,6 +462,14 @@
   "archivo": "easy_npc_config_ui-fabric-1.21.1-7.19.0.jar",
   "url": "https://cdn.modrinth.com/data/uTGjf7vA/versions/5W9HBf8z/easy_npc_config_ui-fabric-1.21.1-7.19.0.jar",
   "sha1": "41babac9a98b65585e7e872350c6487df398bdfd"
+ },
+ {
+  "slug": "easy-npc-core",
+  "titulo": "Easy NPC: Core",
+  "version": "7.19.0",
+  "archivo": "easy_npc-fabric-1.21.1-7.19.0.jar",
+  "url": "https://cdn.modrinth.com/data/Epm6R3P2/versions/Hi5e4DnV/easy_npc-fabric-1.21.1-7.19.0.jar",
+  "sha1": "c7090a8acdb4cc2241ba44d434def18cba5041a9"
  },
  {
   "slug": "easyauth",
@@ -438,6 +510,14 @@
   "archivo": "essential_commands-0.35.2-mc1.21.jar",
   "url": "https://cdn.modrinth.com/data/6VdDUivB/versions/kev3hDqV/essential_commands-0.35.2-mc1.21.jar",
   "sha1": "1dda78e1ecace03b1a622611ef8783bb1259dc91"
+ },
+ {
+  "slug": "eventantixray",
+  "titulo": "EventAntiXray",
+  "version": "1.0.5",
+  "archivo": "eventantixray-1.0.5.jar",
+  "url": "https://cdn.modrinth.com/data/vFlGoUF1/versions/2AFSYdYJ/eventantixray-1.0.5.jar",
+  "sha1": "9bc72642e9cc9e20ec76a32c789798d7c03e3187"
  },
  {
   "slug": "exposure",
@@ -488,14 +568,6 @@
   "sha1": "a8a6a34fcda177da2828cedef44e0e538cf78aad"
  },
  {
-  "slug": "cobblemon-fight-or-flight-reborn",
-  "titulo": "Cobblemon Fight or Flight Reborn",
-  "version": "0.11.3",
-  "archivo": "fightorflight-fabric-0.11.3.jar",
-  "url": "https://cdn.modrinth.com/data/cTdIg5HZ/versions/FALL8mct/fightorflight-fabric-0.11.3.jar",
-  "sha1": "b5760bd2a7a80a0c21f26c96855bd8541511deee"
- },
- {
   "slug": "forge-config-api-port",
   "titulo": "Forge Config API Port",
   "version": "v21.1.6-1.21.1-Fabric",
@@ -536,12 +608,12 @@
   "sha1": "54f262263a277ffbf82eea9494418a4d6aadad26"
  },
  {
-  "slug": "cobblemon-gts",
-  "titulo": "Cobblemon GTS",
-  "version": "2.6.1",
-  "archivo": "Gts-2.6.1-fabric.jar",
-  "url": "https://cdn.modrinth.com/data/UTjx5ypK/versions/uAxVSR00/Gts-2.6.1-fabric.jar",
-  "sha1": "59b41a076e862cae5ce0f747029dac3c0d6e5c4d"
+  "slug": "guts",
+  "titulo": "Give Us Terracotta Stairs! (G.U.T.S)",
+  "version": "1.1",
+  "archivo": "terracotta-stairs-1.1.jar",
+  "url": "https://cdn.modrinth.com/data/K7vp8WNo/versions/uch4GHhi/terracotta-stairs-1.1.jar",
+  "sha1": "0adc4466a0373961c5192a519781e6cb2ece8e29"
  },
  {
   "slug": "handcrafted",
@@ -550,14 +622,6 @@
   "archivo": "handcrafted-fabric-1.21.1-4.0.3.jar",
   "url": "https://cdn.modrinth.com/data/pJmCFF0p/versions/f0pKpUWd/handcrafted-fabric-1.21.1-4.0.3.jar",
   "sha1": "a9579fecd7ed429c282be21d5c921d220197acc6"
- },
- {
-  "slug": "cobblemon-hunt",
-  "titulo": "Cobblemon Hunt",
-  "version": "1.3.1",
-  "archivo": "Hunt-1.3.1-fabric.jar",
-  "url": "https://cdn.modrinth.com/data/QMAwqHhY/versions/Eq3nT99Z/Hunt-1.3.1-fabric.jar",
-  "sha1": "44fed9a635adb40c846de7e65e2b015a59d0ec66"
  },
  {
   "slug": "iceberg",
@@ -728,14 +792,6 @@
   "sha1": "2367e5972a8ab30cc4f764e6ec98841e3eaa341a"
  },
  {
-  "slug": "cobblemon-mega-showdown",
-  "titulo": "Cobblemon: Mega Showdown",
-  "version": "1.3.3+1.8.4+1.21.1-release",
-  "archivo": "mega_showdown-fabric-1.3.3+1.8.4+1.21.1-release.jar",
-  "url": "https://cdn.modrinth.com/data/SszvX85I/versions/pToIDLtC/mega_showdown-fabric-1.3.3%2B1.8.4%2B1.21.1-release.jar",
-  "sha1": "4330a4a1e6ca10aabe5ae1d1956687ead17f2673"
- },
- {
   "slug": "modernfix",
   "titulo": "ModernFix",
   "version": "5.25.1+mc1.21.1",
@@ -768,12 +824,12 @@
   "sha1": "789cabd9b1fed079af87f675d1d6c1c95b603e19"
  },
  {
-  "slug": "shatterbyte-lib",
-  "titulo": "ShatterLib | OctoLib",
-  "version": "0.6.3.2+1.21",
-  "archivo": "OctoLib-FABRIC-0.6.3.2+1.21.jar",
-  "url": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/auboAQ8R/OctoLib-FABRIC-0.6.3.2%2B1.21.jar",
-  "sha1": "db0884f7f447c48bcf7acdcbb321b3a8fc815996"
+  "slug": "nomonsinmyworld",
+  "titulo": "NoMonsInMyWorld",
+  "version": "1.0.3",
+  "archivo": "nomonsinmyworld-1.0.3.jar",
+  "url": "https://cdn.modrinth.com/data/cCjisI64/versions/y2ZXf3sw/nomonsinmyworld-1.0.3.jar",
+  "sha1": "069e66bea7b4a2b17aab8053baaa8c7950d56e11"
  },
  {
   "slug": "open-parties-and-claims",
@@ -872,6 +928,14 @@
   "sha1": "fc946af8992dbf77a1de98b2e9fbdb72071b495c"
  },
  {
+  "slug": "qol-mega-showdown-recipes",
+  "titulo": "QOL Mega Showdown Recipes",
+  "version": "1.0.0",
+  "archivo": "Megashowdown Recipes 1.0.0.jar",
+  "url": "https://cdn.modrinth.com/data/XrVI7qkx/versions/V5FBbp3o/Megashowdown%20Recipes%201.0.0.jar",
+  "sha1": "7e31212fda24d08465ed82e82dd229c5809e7e25"
+ },
+ {
   "slug": "quantumnet",
   "titulo": "Quantum Network Core",
   "version": "0.2.0",
@@ -944,6 +1008,22 @@
   "sha1": "8ef82df62c0df3649d1d1c834de63d8964e92533"
  },
  {
+  "slug": "shatterbyte-lib",
+  "titulo": "ShatterLib | OctoLib",
+  "version": "0.6.3.2+1.21",
+  "archivo": "OctoLib-FABRIC-0.6.3.2+1.21.jar",
+  "url": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/auboAQ8R/OctoLib-FABRIC-0.6.3.2%2B1.21.jar",
+  "sha1": "db0884f7f447c48bcf7acdcbb321b3a8fc815996"
+ },
+ {
+  "slug": "simple-voice-chat",
+  "titulo": "Simple Voice Chat",
+  "version": "fabric-1.21.1-2.6.22",
+  "archivo": "voicechat-fabric-1.21.1-2.6.22.jar",
+  "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/VS5X7jZd/voicechat-fabric-1.21.1-2.6.22.jar",
+  "sha1": "2b3f229ed746955b756807a92e09e9a32d636776"
+ },
+ {
   "slug": "skiescrates",
   "titulo": "SkiesCrates",
   "version": "1.0.5",
@@ -1000,14 +1080,6 @@
   "sha1": "8f1c7e2f1b9e7c9d58c9bae7da6857702fc713d5"
  },
  {
-  "slug": "guts",
-  "titulo": "Give Us Terracotta Stairs! (G.U.T.S)",
-  "version": "1.1",
-  "archivo": "terracotta-stairs-1.1.jar",
-  "url": "https://cdn.modrinth.com/data/K7vp8WNo/versions/uch4GHhi/terracotta-stairs-1.1.jar",
-  "sha1": "0adc4466a0373961c5192a519781e6cb2ece8e29"
- },
- {
   "slug": "textile_backup",
   "titulo": "Textile Backup",
   "version": "3.1.3-1.21",
@@ -1038,14 +1110,6 @@
   "archivo": "trinkets-3.10.0.jar",
   "url": "https://cdn.modrinth.com/data/5aaWibi9/versions/JagCscwi/trinkets-3.10.0.jar",
   "sha1": "f54756f938c7c273713b9f97d4a987eec551e892"
- },
- {
-  "slug": "simple-voice-chat",
-  "titulo": "Simple Voice Chat",
-  "version": "fabric-1.21.1-2.6.22",
-  "archivo": "voicechat-fabric-1.21.1-2.6.22.jar",
-  "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/VS5X7jZd/voicechat-fabric-1.21.1-2.6.22.jar",
-  "sha1": "2b3f229ed746955b756807a92e09e9a32d636776"
  },
  {
   "slug": "waystones",
@@ -1094,5 +1158,53 @@
   "archivo": "YungsApi-1.21.1-Fabric-5.1.9.jar",
   "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/9rzwORd6/YungsApi-1.21.1-Fabric-5.1.9.jar",
   "sha1": "28f46d1f21cf5b1ccb2efbccda6ba66ab2168407"
+ },
+ {
+  "slug": "paxi-1.21.1-fabric",
+  "titulo": "Paxi-1.21.1-Fabric-5.1.3.jar",
+  "version": "",
+  "archivo": "Paxi-1.21.1-Fabric-5.1.3.jar",
+  "url": "https://cdn.modrinth.com/data/CU0PAyzb/versions/FfXyVbds/Paxi-1.21.1-Fabric-5.1.3.jar",
+  "sha1": "e91042c9cc9f358776afe3b69af73e6e38038cdd"
+ },
+ {
+  "slug": "extra-eeveelutions",
+  "titulo": "extra-eeveelutions-1.2.jar",
+  "version": "",
+  "archivo": "extra-eeveelutions-1.2.jar",
+  "url": "https://cdn.modrinth.com/data/vZ8CfI8h/versions/r25EiaMi/extra-eeveelutions-1.2.jar",
+  "sha1": "d422086e0123870c7b1cfab42ff5cdac89ce118a"
+ },
+ {
+  "slug": "starlightfusion-fabric",
+  "titulo": "starlightfusion-fabric-1.8.0.jar",
+  "version": "",
+  "archivo": "starlightfusion-fabric-1.8.0.jar",
+  "url": "https://cdn.modrinth.com/data/nc4mnBEo/versions/6kN5TeWu/starlightfusion-fabric-1.8.0.jar",
+  "sha1": "a8e562db541c77879457ad1fe479b007337d9fdf"
+ },
+ {
+  "slug": "mlum 20.41.jar",
+  "titulo": "MLUM 20.41.jar",
+  "version": "",
+  "archivo": "MLUM 20.41.jar",
+  "url": "https://cdn.modrinth.com/data/LcFlXgq6/versions/mdoj4egW/MLUM%2020.41.jar",
+  "sha1": "64667bc427beb615a572408d977da3373d651466"
+ },
+ {
+  "slug": "baby-legends-cobblemon",
+  "titulo": "baby-legends-cobblemon-2.4.jar",
+  "version": "",
+  "archivo": "baby-legends-cobblemon-2.4.jar",
+  "url": "https://cdn.modrinth.com/data/88hsodcW/versions/WLZ1bmgl/baby-legends-cobblemon-2.4.jar",
+  "sha1": "14b76820cd7bb8d78bb59e58a8c3d0757ecc8936"
+ },
+ {
+  "slug": "cobblemon-horizon-mons",
+  "titulo": "cobblemon-horizon-mons-1.1.1.jar",
+  "version": "",
+  "archivo": "cobblemon-horizon-mons-1.1.1.jar",
+  "url": "https://cdn.modrinth.com/data/Digt9Ljb/versions/mDxi3pPi/cobblemon-horizon-mons-1.1.1.jar",
+  "sha1": "285e0d982a43d7722c1dbed546df1ec479b7660f"
  }
 ]

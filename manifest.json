@@ -1,19 +1,19 @@
 {
   "_comentario": "Lo lee el launcher al abrirse.",
   "modpack": {
-    "version": "network-0.2.5",
+    "version": "network-0.2.6",
     "nombre": "Quantum Network",
     "minecraft": "1.21.1",
     "fabricLoader": "0.20.1",
-    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.2.5.mrpack",
-    "size": 3266365,
-    "sha1": "8fc3634ddf647e1b3e89d0630781366fc9111021",
-    "sha512": "b8d9f65083decf2ea1dd027321a922946da594673c7ce06630f4bb90d92af5fc1477e89ffb078cfbe525e75c3c16313c14f0ba81e81f9a99ffd1e169bba52da8",
-    "publicado": "2026-11-17T16:03:11.000Z",
-    "nota": "Arreglo del crash en un jugador y menú principal nuevo."
+    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.2.6.mrpack",
+    "size": 3274126,
+    "sha1": "cd8a1828b49a393105b50648559b70c1c4e62a1f",
+    "sha512": "02a1293a56e618f92d5cea3784c8b5275eba5e6ac0f1cdd317f0d8425dc0972c597722a7158b123bb800410e3b1beb16a3723fb82aad674a7105e0a9fd2e86f7",
+    "publicado": "2026-11-17T21:55:10.000Z",
+    "nota": "Nuevos Pokémon, evoluciones, cosméticos y PokeParadas."
   },
   "launcher": {
-    "version": "2.4.0",
+    "version": "2.4.2",
     "descarga": "https://github.com/4res-cpu/quantum-launcher/releases/latest"
   }
 }

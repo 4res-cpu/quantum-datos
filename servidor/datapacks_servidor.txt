@@ -1,0 +1,8 @@
+https://cdn.modrinth.com/data/7bGbiPV6/versions/vMTfqbRo/pokopia-1.1.zip pokopia-1.1.zip
+https://cdn.modrinth.com/data/2PwY98im/versions/dJs2Izci/Vivillon%20Pride%20Patterns%20v2.2.zip vivillon-pride-patterns-2.2.zip
+https://cdn.modrinth.com/data/D95WJWgg/versions/Xik4fgrk/extra%20paradox%20mons%201.8.zip extra-paradox-mons-1.8.zip
+https://cdn.modrinth.com/data/M4vjzYDD/versions/jN3II9NG/CobblemonMoreCosmetics%20Release%20v1.1.7-1.21.x.zip cobblemon-more-cosmetics-1.1.71.zip
+https://cdn.modrinth.com/data/EOD7Mj1X/versions/uQe0jfbu/CobbledStops%201.2.zip cobbledstops-1.2.zip
+https://cdn.modrinth.com/data/DHn6JjmX/versions/1bExUxoJ/Cobblemon%20improvedmon%20v1.1.zip improvedmon-1.1.zip
+https://cdn.modrinth.com/data/kxduK1pT/versions/SMeomfRd/Cobblemon-Halloween-Costumes-1.0-Datapack.zip halloween-costumes-1.0.zip
+https://cdn.modrinth.com/data/ZOTfFv08/versions/8tWctsWd/Cobblemon%20ZA-Champions%20Movepool%20Additions%20V1.1.zip za-champions-movepool-1.1.zip
