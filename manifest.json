@@ -1,19 +1,19 @@
 {
   "_comentario": "Lo lee el launcher al abrirse.",
   "modpack": {
-    "version": "network-0.2.8",
+    "version": "network-0.2.9",
     "nombre": "Quantum Network",
     "minecraft": "1.21.1",
     "fabricLoader": "0.20.1",
-    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.2.8.mrpack",
-    "size": 3563995,
-    "sha1": "b34c099f31dac3ceb0cabbe53081a407e8f466f3",
-    "sha512": "e2bf85e534cedf73d6e47503d94b617718eaf5146622443b2300f30a8fb94c0156a26be838ee190862926322dafab14d7b1003adb527d378b9dddeb6ca631216",
-    "publicado": "2026-11-17T23:19:26.000Z",
-    "nota": "Arreglo: faltaba Tim Core para los avisos de aparición."
+    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.2.9.mrpack",
+    "size": 3564011,
+    "sha1": "54bb7b59addd12d72c4f4f8e59338f8a3ea64aad",
+    "sha512": "471a1d0ff5c51c065b4c08da5df39556e1fd99f3ad4db64038197bdaa0f38a4a30190a7a8d307c7ce393db77a3328acf0511e83a447b341ae24c5bb31377b871",
+    "publicado": "2026-11-17T23:27:15.000Z",
+    "nota": "Arreglo del crash al entrar a un mundo con la edición Plus y skin centrada en el menú."
   },
   "launcher": {
-    "version": "2.5.1",
+    "version": "2.5.2",
     "descarga": "https://github.com/4res-cpu/quantum-launcher/releases/latest"
   }
 }
