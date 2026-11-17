@@ -1,19 +1,19 @@
 {
   "_comentario": "Lo lee el launcher al abrirse.",
   "modpack": {
-    "version": "network-0.2.7",
+    "version": "network-0.2.8",
     "nombre": "Quantum Network",
     "minecraft": "1.21.1",
     "fabricLoader": "0.20.1",
-    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.2.7.mrpack",
-    "size": 3563844,
-    "sha1": "58a48167736512634800cc96bebb78edcb9922d0",
-    "sha512": "b22d98edb51460637a393f522bcb3bdf3795ed8688bab5f3988a987a92b9f893b185b27f3b2e8a3e7d9a3373bf746622f6e4adbcccb7fd104c83abe090789c43",
-    "publicado": "2026-11-17T23:10:35.000Z",
-    "nota": "Edición Plus, insignias de rango, más Pokémon y skins, controles sin conflictos."
+    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.2.8.mrpack",
+    "size": 3563995,
+    "sha1": "b34c099f31dac3ceb0cabbe53081a407e8f466f3",
+    "sha512": "e2bf85e534cedf73d6e47503d94b617718eaf5146622443b2300f30a8fb94c0156a26be838ee190862926322dafab14d7b1003adb527d378b9dddeb6ca631216",
+    "publicado": "2026-11-17T23:19:26.000Z",
+    "nota": "Arreglo: faltaba Tim Core para los avisos de aparición."
   },
   "launcher": {
-    "version": "2.5.0",
+    "version": "2.5.1",
     "descarga": "https://github.com/4res-cpu/quantum-launcher/releases/latest"
   }
 }
