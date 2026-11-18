@@ -1,16 +1,16 @@
 {
   "_comentario": "Lo lee el launcher al abrirse.",
   "modpack": {
-    "version": "network-0.3.3",
+    "version": "network-0.3.4",
     "nombre": "Quantum Network",
     "minecraft": "1.21.1",
     "fabricLoader": "0.20.1",
-    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.3.3.mrpack",
-    "size": 3939881,
-    "sha1": "0902006c92a4a5e3305e156bfb6abc86571c1f9d",
-    "sha512": "8ccba1431145e0c14f8299b4a4e47ceffc263a6aa3080b0f1f306537490c63568fbbdfb8ec6b8ecfdf22805b6bf590e466559cace7659432f6456c0e46f0089f",
-    "publicado": "2026-11-18T03:47:16.000Z",
-    "nota": "Logo del marcador más grande."
+    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.3.4.mrpack",
+    "size": 4003131,
+    "sha1": "87ad913e510057abe744f2a73110da792a0ed158",
+    "sha512": "4663ef2ad44e0daa1b29b7d4f84e154bef1e1666efa87c211877d1991f94e3f69e458166c71776c0b01cd204e75b85cb395f88b06846357607d213288a86ea6d",
+    "publicado": "2026-11-18T04:16:22.000Z",
+    "nota": "Móvil Rotom en español."
   },
   "launcher": {
     "version": "2.5.3",
