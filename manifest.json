@@ -6,11 +6,11 @@
     "minecraft": "1.21.1",
     "fabricLoader": "0.20.1",
     "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.3.0.mrpack",
-    "size": 3566654,
-    "sha1": "5fc1e9d5e48cc9f6af1b5f3efef25d17aaedef2b",
-    "sha512": "6960f2f5133d5b11ca81f6951749927b0e0fb73c943f9df465c0c27241c92f60d9fd19ba20f63a62d11c8723b523950f8254a776c164e5136abc35e7d560f90a",
+    "size": 3566827,
+    "sha1": "711312bb75ab80e0f98a8f501dca8c1505c08e01",
+    "sha512": "66b11d724f015982f75ae65e12a4ae35ba22617cb1ec1cc03772ed4e13da3f3ee240a572d7e3df47df6089a14b522ea08ea0ee975d9ee0fed9df5cf6c11e51bf",
     "publicado": "2026-11-18T02:08:28.000Z",
-    "nota": "Red con Velocity: nueva IP, Metroids y trajes para Incineroar."
+    "nota": "Red con Velocity: nueva IP, Altered Pokémon, Metroids y trajes para Incineroar."
   },
   "launcher": {
     "version": "2.5.3",

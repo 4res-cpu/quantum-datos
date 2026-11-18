@@ -15,3 +15,4 @@ https://cdn.modrinth.com/data/F4TxEYXe/versions/UbNNUg3g/Winterglide%27s%20Extra
 https://cdn.modrinth.com/data/1F6zfYqY/versions/Z9w5OyMZ/Legendary%201.4.zip legendary-structures-1.4.zip
 https://cdn.modrinth.com/data/rpESWPZf/versions/gS5HeH95/MetroidsForCobblev1.2.zip metroids-for-cobblemon-1.2.zip
 https://cdn.modrinth.com/data/MyBgiUdg/versions/i0kTh4oX/FireFitsforFireCats.v.13.zip fire-fits-for-fire-cats-13.0.zip
+https://cdn.modrinth.com/data/RdFhfO5y/versions/pvUaBP9c/Altered%20Pokemon%20v1.2.2.zip altered-pokemon-1.2.2.zip
