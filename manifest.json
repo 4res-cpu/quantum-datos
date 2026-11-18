@@ -1,16 +1,16 @@
 {
   "_comentario": "Lo lee el launcher al abrirse.",
   "modpack": {
-    "version": "network-0.3.0",
+    "version": "network-0.3.1",
     "nombre": "Quantum Network",
     "minecraft": "1.21.1",
     "fabricLoader": "0.20.1",
-    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.3.0.mrpack",
-    "size": 3566827,
-    "sha1": "711312bb75ab80e0f98a8f501dca8c1505c08e01",
-    "sha512": "66b11d724f015982f75ae65e12a4ae35ba22617cb1ec1cc03772ed4e13da3f3ee240a572d7e3df47df6089a14b522ea08ea0ee975d9ee0fed9df5cf6c11e51bf",
-    "publicado": "2026-11-18T02:08:28.000Z",
-    "nota": "Red con Velocity: nueva IP, Altered Pokémon, Metroids y trajes para Incineroar."
+    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.3.1.mrpack",
+    "size": 3567127,
+    "sha1": "9651127c76bca62995e3d6fb854a677658aa4314",
+    "sha512": "c1b9430a0eeea8f525d187ae2997724e91696ce3c8350ff7de51066c995e30cccad9d6a580163fd112bf86f9611586aac1fde5672b47cef2b9799de0ad50f5c1",
+    "publicado": "2026-11-18T03:10:13.000Z",
+    "nota": "Móvil Rotom (Smartphone) y Arena competitiva."
   },
   "launcher": {
     "version": "2.5.3",

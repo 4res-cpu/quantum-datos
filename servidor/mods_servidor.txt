@@ -45,7 +45,6 @@ https://cdn.modrinth.com/data/bI8Nt3uA/versions/wq3mHFqw/cobblenav-fabric-2.4.2.
 https://cdn.modrinth.com/data/ePxok8ID/versions/JIzdem7c/Cobblemon-Utility%2B-fabric-1.8.0.jar
 https://cdn.modrinth.com/data/T6LZSJz0/versions/9QtZgCl7/cobblemon_wonder_trade_serveronly-fabric-1.0.0.jar
 https://cdn.modrinth.com/data/HtRy1shF/versions/qTi5HUVz/cobblemon-expeditions-fabric-1.8.2.jar
-https://cdn.modrinth.com/data/nS4IgIUN/versions/PGqR0B9O/CobblemonNPCUtils-fabric-1.21.1-1.1.1.jar
 https://cdn.modrinth.com/data/GebWh45l/versions/fQaQCnrv/cobblemonraiddens-fabric-0.14.3%2B1.21.1.jar
 https://cdn.modrinth.com/data/f3YlFSGV/versions/Vs8iNEju/cobblerun-1.1.0.jar
 https://cdn.modrinth.com/data/HVAuuRco/versions/liiVFg65/cobblespawnregions-1.0.8.jar
@@ -155,3 +154,7 @@ https://cdn.modrinth.com/data/lVP9aUaY/versions/zeMnK5yC/timcore-fabric-1.8.4-1.
 https://cdn.modrinth.com/data/58Fnnj8R/versions/cdxEb29p/almost-perfect-legendary-ivs-1.21.1-2.0.0.jar
 https://cdn.modrinth.com/data/u8TYP2M6/versions/ctV59pOE/CobblemonRepel-1.8-1.4.jar
 https://cdn.modrinth.com/data/qGmIHxuq/versions/EA6Ps8DR/inventory-menu-1.21.1-1.0.8.jar
+https://cdn.modrinth.com/data/n2f1HbK8/versions/cTi5BnNq/cobblemon_smartphone-fabric-2.0.2.jar
+https://cdn.modrinth.com/data/EY65vy2x/versions/zFirEPYp/cobblemon-random-battles-1.1.1-alpha.jar
+https://cdn.modrinth.com/data/yGilkOeo/versions/IrIq7m9d/cobblemon_arena-fabric-1.0.1.jar
+https://cdn.modrinth.com/data/4710ruM4/versions/a8AM0bsa/eclipse-playback-2.0.0.jar
