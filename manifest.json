@@ -1,16 +1,16 @@
 {
   "_comentario": "Lo lee el launcher al abrirse.",
   "modpack": {
-    "version": "network-0.3.5",
+    "version": "network-0.3.6",
     "nombre": "Quantum Network",
     "minecraft": "1.21.1",
     "fabricLoader": "0.20.1",
-    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.3.5.mrpack",
-    "size": 5171243,
-    "sha1": "7459c219a6d9e0fd5de4e6917a1b5d422e221b5a",
-    "sha512": "975c11fcbe46531a161611f96355b91925e39eca563b5ca225c25dcb151099c650bb28d24833517dfe0c63480d802ec6ae29a18062c294e11d421085c1a33f2d",
-    "publicado": "2026-11-18T04:42:08.000Z",
-    "nota": "Traducción al español de 60 mods."
+    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.3.6.mrpack",
+    "size": 5318651,
+    "sha1": "8785480e090503dbc4c1816c3cdaf1287b30be26",
+    "sha512": "db8e692bb2ca36619c8d83ca01b94aa42d689cdff2f9dbf86ca5dcba18e711f79cee2f19fa4bf443815b09a32c59c24f31c740efef51baa7121c30555ebfd243",
+    "publicado": "2026-11-18T11:47:31.000Z",
+    "nota": "Arreglo del crash de /arena y mod Quantum."
   },
   "launcher": {
     "version": "2.5.3",
