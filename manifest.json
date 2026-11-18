@@ -1,16 +1,16 @@
 {
   "_comentario": "Lo lee el launcher al abrirse.",
   "modpack": {
-    "version": "network-0.3.2",
+    "version": "network-0.3.3",
     "nombre": "Quantum Network",
     "minecraft": "1.21.1",
     "fabricLoader": "0.20.1",
-    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.3.2.mrpack",
-    "size": 3939867,
-    "sha1": "ff1f405ac9c6f5a687b7d27adc9dec2c5bd8914d",
-    "sha512": "25ac066dee6843433e1e66b24846ce9977a8839ca7fa1c874df76f8836059652bf543f06c87f2d46e1914f27e43e51a4c2e2ace6ea9ee403d2321cbcc2582d6e",
-    "publicado": "2026-11-18T03:23:16.000Z",
-    "nota": "Rotom-Móvil Quantum y logo nuevo."
+    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.3.3.mrpack",
+    "size": 3939881,
+    "sha1": "0902006c92a4a5e3305e156bfb6abc86571c1f9d",
+    "sha512": "8ccba1431145e0c14f8299b4a4e47ceffc263a6aa3080b0f1f306537490c63568fbbdfb8ec6b8ecfdf22805b6bf590e466559cace7659432f6456c0e46f0089f",
+    "publicado": "2026-11-18T03:47:16.000Z",
+    "nota": "Logo del marcador más grande."
   },
   "launcher": {
     "version": "2.5.3",
