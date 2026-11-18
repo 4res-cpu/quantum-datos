@@ -1,3 +1,4 @@
+execute unless data storage quantum:estado {iniciado:1b} run function quantum:load
 # entrada: siempre al lobby
 execute as @a[tag=!qn_visto] in quantum:lobby run tp @s 3.5 102 2.5
 tag @a[tag=!qn_visto] add qn_visto

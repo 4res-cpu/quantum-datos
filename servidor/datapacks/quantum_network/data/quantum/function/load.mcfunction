@@ -103,3 +103,4 @@ team modify t_vip color white
 team add u_usuario
 team modify u_usuario prefix [{"text": "", "color": "white"}, {"text": " "}]
 team modify u_usuario color white
+data modify storage quantum:estado iniciado set value 1b
