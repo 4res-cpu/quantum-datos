@@ -1,16 +1,16 @@
 {
   "_comentario": "Lo lee el launcher al abrirse.",
   "modpack": {
-    "version": "network-0.2.9",
+    "version": "network-0.3.0",
     "nombre": "Quantum Network",
     "minecraft": "1.21.1",
     "fabricLoader": "0.20.1",
-    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.2.9.mrpack",
-    "size": 3564011,
-    "sha1": "54bb7b59addd12d72c4f4f8e59338f8a3ea64aad",
-    "sha512": "471a1d0ff5c51c065b4c08da5df39556e1fd99f3ad4db64038197bdaa0f38a4a30190a7a8d307c7ce393db77a3328acf0511e83a447b341ae24c5bb31377b871",
-    "publicado": "2026-11-17T23:27:15.000Z",
-    "nota": "Arreglo del crash al entrar a un mundo con la edición Plus y skin centrada en el menú."
+    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.3.0.mrpack",
+    "size": 3566654,
+    "sha1": "5fc1e9d5e48cc9f6af1b5f3efef25d17aaedef2b",
+    "sha512": "6960f2f5133d5b11ca81f6951749927b0e0fb73c943f9df465c0c27241c92f60d9fd19ba20f63a62d11c8723b523950f8254a776c164e5136abc35e7d560f90a",
+    "publicado": "2026-11-18T02:08:28.000Z",
+    "nota": "Red con Velocity: nueva IP, Metroids y trajes para Incineroar."
   },
   "launcher": {
     "version": "2.5.3",

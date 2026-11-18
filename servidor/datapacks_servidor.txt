@@ -13,3 +13,5 @@ https://cdn.modrinth.com/data/xroZOavg/versions/rQ8RS9yp/Seavls%20Bizarremon%201
 https://cdn.modrinth.com/data/57Aq2aBF/versions/1a1xbYF8/GG%26T%20Pack%20v1.3.4.zip ggt-fakemon-1.3.4.zip
 https://cdn.modrinth.com/data/F4TxEYXe/versions/UbNNUg3g/Winterglide%27s%20Extra%20Animations%20%5BCobblemon%5D.zip winterglide-animations-1.1.zip
 https://cdn.modrinth.com/data/1F6zfYqY/versions/Z9w5OyMZ/Legendary%201.4.zip legendary-structures-1.4.zip
+https://cdn.modrinth.com/data/rpESWPZf/versions/gS5HeH95/MetroidsForCobblev1.2.zip metroids-for-cobblemon-1.2.zip
+https://cdn.modrinth.com/data/MyBgiUdg/versions/i0kTh4oX/FireFitsforFireCats.v.13.zip fire-fits-for-fire-cats-13.0.zip
