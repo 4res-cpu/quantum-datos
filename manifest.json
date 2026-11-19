@@ -1,16 +1,16 @@
 {
   "_comentario": "Lo lee el launcher al abrirse.",
   "modpack": {
-    "version": "network-0.3.11",
+    "version": "network-0.3.12",
     "nombre": "Quantum Network",
     "minecraft": "1.21.1",
     "fabricLoader": "0.20.1",
-    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.3.11.mrpack",
-    "size": 5790004,
-    "sha1": "f8e9e5dace447248522a727dfdd0c07426fd0b28",
-    "sha512": "31f606e238fb27ecdf76c7924660fa4865147028cb3adbbcd09fb0196e059d88ceae8b91d1a4dd7eaf6a1869060e434e0de48fa20089c4e3071cc508e8d5f716",
-    "publicado": "2026-11-19T21:23:13.000Z",
-    "nota": "Arregla el cierre del juego al abrir /arena."
+    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.3.12.mrpack",
+    "size": 5815306,
+    "sha1": "107f76d8bae8e2277e7a2ebbd3d3e3b41695f8b9",
+    "sha512": "5dff2052dbaf1ad56bc080c41b0ac7221ab6f7d617199bcdb727d931a814b55a9bcc33b694a66e6d627bbd99b48db09c301cc4595a1deab44b6e4410a8ac64c6",
+    "publicado": "2026-11-19T22:01:59.000Z",
+    "nota": "Arena: modos Draft y 2 vs 2, reglas nuevas, Pokémon visibles en el menú y barra de tiempo."
   },
   "launcher": {
     "version": "2.5.3",
