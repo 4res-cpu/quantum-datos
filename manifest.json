@@ -1,16 +1,16 @@
 {
   "_comentario": "Lo lee el launcher al abrirse.",
   "modpack": {
-    "version": "network-0.3.10",
+    "version": "network-0.3.11",
     "nombre": "Quantum Network",
     "minecraft": "1.21.1",
     "fabricLoader": "0.20.1",
-    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.3.10.mrpack",
-    "size": 5790268,
-    "sha1": "66a58c6f93b7f309decdce91794d80a89fcbb969",
-    "sha512": "9c1794418e66fdcab8d6d476082b140fa23614bd68896f1739244cb7407dfc4887f74121364ccde3828b31592227839e10abaa1af73d08d82c6e4c0d68a1ed09",
-    "publicado": "2026-11-19T20:53:16.000Z",
-    "nota": "Nueva Quantum Arena: modos ranked, ELO con recompensas, arenas nuevas y todo en español."
+    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.3.11.mrpack",
+    "size": 5790004,
+    "sha1": "f8e9e5dace447248522a727dfdd0c07426fd0b28",
+    "sha512": "31f606e238fb27ecdf76c7924660fa4865147028cb3adbbcd09fb0196e059d88ceae8b91d1a4dd7eaf6a1869060e434e0de48fa20089c4e3071cc508e8d5f716",
+    "publicado": "2026-11-19T21:23:13.000Z",
+    "nota": "Arregla el cierre del juego al abrir /arena."
   },
   "launcher": {
     "version": "2.5.3",
