@@ -1,16 +1,16 @@
 {
   "_comentario": "Lo lee el launcher al abrirse.",
   "modpack": {
-    "version": "network-0.3.14",
+    "version": "network-0.3.15",
     "nombre": "Quantum Network",
     "minecraft": "1.21.1",
     "fabricLoader": "0.20.1",
-    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.3.14.mrpack",
-    "size": 5843376,
-    "sha1": "cea34eb3ebe25f7f58b55e1d721fe7b87deaa65e",
-    "sha512": "b70881b66410cfabb52abce44c25abe0f471fe69d98dabbaca59fbddbf6ccc2926321527dd7e091a6a5403c1cb23a6769934684952ad0fd167b9ba6d1712258e",
-    "publicado": "2026-11-19T23:09:00.000Z",
-    "nota": "Arena con nueva fuente y colores de tu rango, elegir arena y partida rápida con todos los modos. Nuevo /menu."
+    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.3.15.mrpack",
+    "size": 5877433,
+    "sha1": "0bfd5a026bd21a24a463a136133faf1a02039590",
+    "sha512": "c6ba7aa77bc64a49a4391fafa71fc3f45956509bbb50da1d8351280386482d2f511f589e48b615807f7cb0c7b49e1bfc2baf8b5331b62f39f5b615ba7ed58204",
+    "publicado": "2026-11-19T23:46:33.000Z",
+    "nota": "Arena: arreglado el inicio de los combates y equipos random de Showdown. Logo de Genesect más grande en la scoreboard."
   },
   "launcher": {
     "version": "2.5.3",
