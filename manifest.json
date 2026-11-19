@@ -1,16 +1,16 @@
 {
   "_comentario": "Lo lee el launcher al abrirse.",
   "modpack": {
-    "version": "network-0.3.8",
+    "version": "network-0.3.9",
     "nombre": "Quantum Network",
     "minecraft": "1.21.1",
     "fabricLoader": "0.20.1",
-    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.3.8.mrpack",
-    "size": 3968853,
-    "sha1": "22318d6331bb22c34396a0f0340168ef0671dac1",
-    "sha512": "57700bb276a029fb194c6dccdbae205851a7212c3afd83830fa63785bf1cbe8faa0dd4a20fd599a41f1b2d944e582de082526e80196065b0b438d9d6b3801d88",
-    "publicado": "2026-11-19T00:17:14.302Z",
-    "nota": "Corrige los recursos de Extra Paradox Mons y añade modelos de Ultraentes y Paradoja."
+    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.3.9.mrpack",
+    "size": 3969457,
+    "sha1": "fe55b8fe04b0dc248b9ee727939eedb9dd60f1f6",
+    "sha512": "5f71dd45c2343ab70cb0c86faac72fae007c79e98181d7a412bdd8572038ea6839f1bdbe286f5a0a8de080eec24e55f104fb017c247b36828ea2cfdf22c5e6b6",
+    "publicado": "2026-11-19T18:00:57.962Z",
+    "nota": "Amplía el logo de la scoreboard a 23 píxeles y retira las mochilas físicas y Cobbreeding del cliente."
   },
   "launcher": {
     "version": "2.5.3",
