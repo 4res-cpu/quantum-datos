@@ -1096,14 +1096,6 @@
   "sha1": "04c86dd02a2802d4eb934ebbc07593eedbb2efac"
  },
  {
-  "slug": "travelersbackpack",
-  "titulo": "Traveler's Backpack",
-  "version": "1.21.1-10.1.40",
-  "archivo": "travelersbackpack-fabric-1.21.1-10.1.40.jar",
-  "url": "https://cdn.modrinth.com/data/rlloIFEV/versions/q2nboqiM/travelersbackpack-fabric-1.21.1-10.1.40.jar",
-  "sha1": "ac9374f91473db9fc003dad283c1b81f00d13807"
- },
- {
   "slug": "trinkets",
   "titulo": "Trinkets",
   "version": "3.10.0",
