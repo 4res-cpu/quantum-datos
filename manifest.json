@@ -1,16 +1,16 @@
 {
   "_comentario": "Lo lee el launcher al abrirse.",
   "modpack": {
-    "version": "network-0.3.17",
+    "version": "network-0.3.18",
     "nombre": "Quantum Network",
     "minecraft": "1.21.1",
     "fabricLoader": "0.20.1",
-    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.3.17.mrpack",
-    "size": 34313472,
-    "sha1": "a6ac851198574e19bb6dc6bafb5ce2ef8f734381",
-    "sha512": "50fbf0eb0848d6da40ba7eed51b465ab5cb94678065fb4eb35f900207e895d9f3d69579ac1c66a2b5f0c0e89b6174da2d64326163780f10a17cdc49b2cd8c9ab",
-    "publicado": "2026-11-20T10:13:12.414Z",
-    "nota": "Quantum DNA Assistant: asistente dron con menú de apps (tecla G)."
+    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.3.18.mrpack",
+    "size": 47421303,
+    "sha1": "f0bd9c048941a1ee89560b948b0f59eed07bf1ad",
+    "sha512": "71097575b0c3075169f1e1fe9fc2e6fdfd981a248de0f67794c476dd6754ec9f0e09faa868b0fb1c5b8942c104d3315a6e6f02f2467f4fd8e934fc7b107be664",
+    "publicado": "2026-11-20T10:46:21.255Z",
+    "nota": "Quarks como moneda global, oficios, cacerías y Fractura legendaria."
   },
   "launcher": {
     "version": "2.5.3",
