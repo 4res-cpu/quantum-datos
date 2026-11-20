@@ -1,16 +1,16 @@
 {
   "_comentario": "Lo lee el launcher al abrirse.",
   "modpack": {
-    "version": "network-0.3.18",
+    "version": "network-0.3.19",
     "nombre": "Quantum Network",
     "minecraft": "1.21.1",
     "fabricLoader": "0.20.1",
-    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.3.18.mrpack",
-    "size": 47421303,
-    "sha1": "f0bd9c048941a1ee89560b948b0f59eed07bf1ad",
-    "sha512": "71097575b0c3075169f1e1fe9fc2e6fdfd981a248de0f67794c476dd6754ec9f0e09faa868b0fb1c5b8942c104d3315a6e6f02f2467f4fd8e934fc7b107be664",
-    "publicado": "2026-11-20T10:46:21.255Z",
-    "nota": "Quarks como moneda global, oficios, cacerías y Fractura legendaria."
+    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.3.19.mrpack",
+    "size": 47445531,
+    "sha1": "9ac332b178d25e8dd0c89209359e65d4855beac1",
+    "sha512": "0237babe16c82bbaeb32978923936c7da5a166844b59d028417f78ae70242e8c14be4ba2ed3b83908a71636356ab01e7560649a6a27d074561e02d1171d3ba17",
+    "publicado": "2026-11-20T17:27:23.215Z",
+    "nota": "DexNova (nuevos diálogos y skins por rango), marcador con fondo propio y banner de temporada, mascota de Discord."
   },
   "launcher": {
     "version": "2.5.3",
