@@ -1,16 +1,16 @@
 {
   "_comentario": "Lo lee el launcher al abrirse.",
   "modpack": {
-    "version": "network-0.3.23",
+    "version": "network-0.3.24",
     "nombre": "Quantum Network",
     "minecraft": "1.21.1",
     "fabricLoader": "0.20.1",
-    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.3.23.mrpack",
-    "size": 47738795,
-    "sha1": "adcb20fd2e70172ca1f17ebdebde17a9971e4764",
-    "sha512": "97057065513a1fa67c964d205a84283ef0532338b539a4adec6c4ce870fbc8fc0aa62f2db0058d69ff34a77842a6e5837972ec3a67251438852d0f5cb95ea841",
-    "publicado": "2026-11-20T23:10:02.179Z",
-    "nota": "Liga Quantum, entrenadores y expediciones en espanol"
+    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.3.24.mrpack",
+    "size": 47738856,
+    "sha1": "612fff024f2bf0fda1061b5c33a90f87427b264b",
+    "sha512": "8ca323e1c5e45c8646c29c79f66c22cee023af4288be2810d631d7db72cde91f5095031d1e945915fc601e98f08ff1e822083ed85df0a8c364174d27c3323b73",
+    "publicado": "2026-11-20T23:20:41.640Z",
+    "nota": "Liga Quantum con la historia de Sinnoh"
   },
   "launcher": {
     "version": "2.5.3",
