@@ -1,16 +1,16 @@
 {
   "_comentario": "Lo lee el launcher al abrirse.",
   "modpack": {
-    "version": "network-0.3.20",
+    "version": "network-0.3.21",
     "nombre": "Quantum Network",
     "minecraft": "1.21.1",
     "fabricLoader": "0.20.1",
-    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.3.20.mrpack",
-    "size": 47322489,
-    "sha1": "43682f40e3fc3323edc3c259304a2a029ac66f2a",
-    "sha512": "ac627603c6799488a815dd21acb80ba0a1968baa950a79a41f5835425dbe0e8d0376975d3867738cfd2f48b856cf3fe6e9ab7a39bb397a9c6d1a8c61375f7870",
-    "publicado": "2026-11-20T17:56:24.297Z",
-    "nota": "DexNova: menú futurista animado y escáner de Pokémon (tecla J); banner de temporada."
+    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.3.21.mrpack",
+    "size": 47531917,
+    "sha1": "a130da30c99f3ff0d330c02ab24bf063652e3b5e",
+    "sha512": "bb5fdb243ce255cf9ebda6b69e5096c25cfadde580600634c8f222bb9e09ce05399d3b861e0eab6405b00e6aa48451e53ada89672a4ea64812c58a527219691f",
+    "publicado": "2026-11-20T18:24:27.599Z",
+    "nota": "DexNova tablet, encuentros entre DexNova, easter eggs y banner de temporada"
   },
   "launcher": {
     "version": "2.5.3",
