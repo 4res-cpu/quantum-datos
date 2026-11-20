@@ -1,16 +1,16 @@
 {
   "_comentario": "Lo lee el launcher al abrirse.",
   "modpack": {
-    "version": "network-0.3.16",
+    "version": "network-0.3.17",
     "nombre": "Quantum Network",
     "minecraft": "1.21.1",
     "fabricLoader": "0.20.1",
-    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.3.16.mrpack",
-    "size": 33258830,
-    "sha1": "9bba8d42a49770f8e13dbc72c9e1256cff47b953",
-    "sha512": "63dcb982f2ff902669d8183ddcc417f91d23fdab7e49135d554a79b4430251dc1e105efbf9f573f10cbb2452f0ac52a548770a55801ff9980df09382f45c459e",
-    "publicado": "2026-11-20T07:41:27.554Z",
-    "nota": "Todas las texturas en un solo paquete (Quantum.zip): rangos, menús, interfaz de Cobblemon y addons. Quitado Immersive Interfaces. El servidor ya no descarga ningún paquete al entrar."
+    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.3.17.mrpack",
+    "size": 34313472,
+    "sha1": "a6ac851198574e19bb6dc6bafb5ce2ef8f734381",
+    "sha512": "50fbf0eb0848d6da40ba7eed51b465ab5cb94678065fb4eb35f900207e895d9f3d69579ac1c66a2b5f0c0e89b6174da2d64326163780f10a17cdc49b2cd8c9ab",
+    "publicado": "2026-11-20T10:13:12.414Z",
+    "nota": "Quantum DNA Assistant: asistente dron con menú de apps (tecla G)."
   },
   "launcher": {
     "version": "2.5.3",
