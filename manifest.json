@@ -1,16 +1,16 @@
 {
   "_comentario": "Lo lee el launcher al abrirse.",
   "modpack": {
-    "version": "network-0.3.22",
+    "version": "network-0.3.23",
     "nombre": "Quantum Network",
     "minecraft": "1.21.1",
     "fabricLoader": "0.20.1",
-    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.3.22.mrpack",
-    "size": 47684217,
-    "sha1": "ac9118c45d6fa8290df15b0d54042b44fed74986",
-    "sha512": "c0736d2b1904c8f2e3a36d81d4fe12c916e430bbdc488d43ad30d232556397c08d3a7f643bd7cd80dc0ee30f4b2b4dba0454d7c7e6fa998491a9079173619ae9",
-    "publicado": "2026-11-20T22:23:56.736Z",
-    "nota": "DexNova: fuente nueva, bienvenida, mensajes, camara y galeria"
+    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.3.23.mrpack",
+    "size": 47738795,
+    "sha1": "adcb20fd2e70172ca1f17ebdebde17a9971e4764",
+    "sha512": "97057065513a1fa67c964d205a84283ef0532338b539a4adec6c4ce870fbc8fc0aa62f2db0058d69ff34a77842a6e5837972ec3a67251438852d0f5cb95ea841",
+    "publicado": "2026-11-20T23:10:02.179Z",
+    "nota": "Liga Quantum, entrenadores y expediciones en espanol"
   },
   "launcher": {
     "version": "2.5.3",
