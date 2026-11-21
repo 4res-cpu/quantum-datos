@@ -1,16 +1,16 @@
 {
   "_comentario": "Lo lee el launcher al abrirse.",
   "modpack": {
-    "version": "network-0.3.26",
+    "version": "network-0.3.27",
     "nombre": "Quantum Network",
     "minecraft": "1.21.1",
     "fabricLoader": "0.20.1",
-    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.3.26.mrpack",
-    "size": 48274361,
-    "sha1": "52ffed1ccc97a1122d992a614c628985bf5c3931",
-    "sha512": "60a5030539165be8f13b8be0fab3bdb77e1857ada1aa32d53bde5ca47600fed1250204a2971698175d039c7fba2d636db0440c19ed07a51092ab8fd200387c0b",
-    "publicado": "2026-11-21T21:54:40.892Z",
-    "nota": "Nuevo marcador de Cobblemon"
+    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.3.27.mrpack",
+    "size": 48271630,
+    "sha1": "19074e0380c881b280e52149e8e22bab0a932ff4",
+    "sha512": "8e3c546e2902e663c62af944e357fb7d3e8ddca8f22d189a8516ae6989dbe5b389a605e18135a2d694d4525e9b923977d9b9b193420654da8f8be44c88c3b090",
+    "publicado": "2026-11-21T22:30:01.335Z",
+    "nota": "Arreglado el marcador duplicado"
   },
   "launcher": {
     "version": "2.5.3",
