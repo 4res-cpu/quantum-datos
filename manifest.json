@@ -1,16 +1,16 @@
 {
   "_comentario": "Lo lee el launcher al abrirse.",
   "modpack": {
-    "version": "network-0.3.24",
+    "version": "network-0.3.25",
     "nombre": "Quantum Network",
     "minecraft": "1.21.1",
     "fabricLoader": "0.20.1",
-    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.3.24.mrpack",
-    "size": 47738856,
-    "sha1": "612fff024f2bf0fda1061b5c33a90f87427b264b",
-    "sha512": "8ca323e1c5e45c8646c29c79f66c22cee023af4288be2810d631d7db72cde91f5095031d1e945915fc601e98f08ff1e822083ed85df0a8c364174d27c3323b73",
-    "publicado": "2026-11-20T23:20:41.640Z",
-    "nota": "Liga Quantum con la historia de Sinnoh"
+    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.3.25.mrpack",
+    "size": 47747909,
+    "sha1": "f656a96986ff5bb8799e023db92944b7a08fec56",
+    "sha512": "7e8daf053b727fe0042c66082a729e81d683722c5e36e53b7a7df5b84997467b0b82f393b756f12c92ec0f8a24ff0ba0bf93d3b407d4158c7fa4eb6f8a0defa1",
+    "publicado": "2026-11-21T08:05:29.264Z",
+    "nota": "Chisel, nueva moneda Quark, banner de temporada y carga mas rapida"
   },
   "launcher": {
     "version": "2.5.3",
