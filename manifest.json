@@ -1,16 +1,16 @@
 {
   "_comentario": "Lo lee el launcher al abrirse.",
   "modpack": {
-    "version": "network-0.3.25",
+    "version": "network-0.3.26",
     "nombre": "Quantum Network",
     "minecraft": "1.21.1",
     "fabricLoader": "0.20.1",
-    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.3.25.mrpack",
-    "size": 47747909,
-    "sha1": "f656a96986ff5bb8799e023db92944b7a08fec56",
-    "sha512": "7e8daf053b727fe0042c66082a729e81d683722c5e36e53b7a7df5b84997467b0b82f393b756f12c92ec0f8a24ff0ba0bf93d3b407d4158c7fa4eb6f8a0defa1",
-    "publicado": "2026-11-21T08:05:29.264Z",
-    "nota": "Chisel, nueva moneda Quark, banner de temporada y carga mas rapida"
+    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.3.26.mrpack",
+    "size": 48274361,
+    "sha1": "52ffed1ccc97a1122d992a614c628985bf5c3931",
+    "sha512": "60a5030539165be8f13b8be0fab3bdb77e1857ada1aa32d53bde5ca47600fed1250204a2971698175d039c7fba2d636db0440c19ed07a51092ab8fd200387c0b",
+    "publicado": "2026-11-21T21:54:40.892Z",
+    "nota": "Nuevo marcador de Cobblemon"
   },
   "launcher": {
     "version": "2.5.3",
