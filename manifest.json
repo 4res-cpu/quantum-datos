@@ -1,16 +1,16 @@
 {
   "_comentario": "Lo lee el launcher al abrirse.",
   "modpack": {
-    "version": "network-0.3.28",
+    "version": "network-0.3.29",
     "nombre": "Quantum Network",
     "minecraft": "1.21.1",
     "fabricLoader": "0.20.1",
-    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.3.28.mrpack",
-    "size": 48278047,
-    "sha1": "e4b5171241f33c65e1babca1b941bb27d7e3995e",
-    "sha512": "6bad46616748ece195ae9cf4b1879bb3e5ac4f4b2ee71cb2707e1b6d9e190e32fbf49d33051697cb63ab04d86e0be930b31b1e27fb7287e7b5de9e8b5b46f638",
-    "publicado": "2026-11-21T22:51:09.096Z",
-    "nota": "Marcador pulido: se oculta con K y aparece con Tab"
+    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.3.29.mrpack",
+    "size": 48278085,
+    "sha1": "9022c462bcee8cbc8366743b7aedaf26959ac501",
+    "sha512": "bbe9ec7aafe45424ed8ce25474715b16342a832f09d9949557fd73af3ac7237ca040cb9146eb15ceb5314405ffb606ed3a1d25c7e7091d59745919efcb82c522",
+    "publicado": "2026-11-22T22:54:51.873Z",
+    "nota": "Cristales conectados activados"
   },
   "launcher": {
     "version": "2.5.3",
