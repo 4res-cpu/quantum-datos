@@ -1,16 +1,16 @@
 {
   "_comentario": "Lo lee el launcher al abrirse.",
   "modpack": {
-    "version": "network-0.3.29",
+    "version": "network-0.3.30-rc1",
     "nombre": "Quantum Network",
     "minecraft": "1.21.1",
     "fabricLoader": "0.20.1",
-    "url": "https://raw.githubusercontent.com/4res-cpu/quantum-datos/main/modpacks/Quantum_Network_0.3.29.mrpack",
-    "size": 48278085,
-    "sha1": "9022c462bcee8cbc8366743b7aedaf26959ac501",
-    "sha512": "bbe9ec7aafe45424ed8ce25474715b16342a832f09d9949557fd73af3ac7237ca040cb9146eb15ceb5314405ffb606ed3a1d25c7e7091d59745919efcb82c522",
-    "publicado": "2026-11-22T22:54:51.873Z",
-    "nota": "Cristales conectados activados"
+    "url": "https://github.com/4res-cpu/quantum-datos/releases/download/modpack-network-0.3.30-rc1/Quantum_Network_0.3.30-rc1.mrpack",
+    "size": 48153760,
+    "sha1": "4167630f56bc3e015f7add4c39c9197ce530ed67",
+    "sha512": "57074a12e283cd892092abd2a3377a07c57c60c3a2f0f25e511e66efb1620fa2789fb10471ba1dd576c642e023193233e4d4a8dc5ee89001daafb504b433618e",
+    "publicado": "2026-11-24T10:17:46.976334Z",
+    "nota": "Nuevos mods de Cobblemon y ambientación, Laser’s Fakemon Pack, DexNova y nueva interfaz de Quantum."
   },
   "launcher": {
     "version": "2.5.3",
