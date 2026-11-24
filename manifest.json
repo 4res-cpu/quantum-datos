@@ -1,16 +1,16 @@
 {
   "_comentario": "Lo lee el launcher al abrirse.",
   "modpack": {
-    "version": "network-0.3.31",
+    "version": "network-0.3.32",
     "nombre": "Quantum Network",
     "minecraft": "1.21.1",
     "fabricLoader": "0.20.1",
-    "url": "https://github.com/4res-cpu/quantum-datos/releases/download/modpack-network-0.3.31/Quantum_Network_0.3.31.mrpack",
-    "size": 48199536,
-    "sha1": "9f66297d67809c02ccc882b8a264e14f1229fd1f",
-    "sha512": "a76e8e29b9e201636e99e5f76f4541bfb8dffa5acee41a7389d40e1b8803b71040274146567ca9473f2bbc8b7924fda95be561e8f6fa83d0ed8619913273c9cc",
-    "publicado": "2026-11-24T14:51:06.889793Z",
-    "nota": "Retratos del equipo, HUD de Quarks y nuevos modelos de Gulpin, Swalot, Oranguru y Passimian."
+    "url": "https://github.com/4res-cpu/quantum-datos/releases/download/modpack-network-0.3.32/Quantum_Network_0.3.32.mrpack",
+    "size": 65021643,
+    "sha1": "fa8b98071ddfc49a94c17febfc5f6f69d41dd836",
+    "sha512": "80e4f29c4e745d629a855538fb0e4d2ae97c3031e504c69e754f5a4872349fd21ede2301554fab23d4d4d2a898ab0309058ea74922d31a74317365c5a974de10",
+    "publicado": "2026-11-24T15:39:40.5270498Z",
+    "nota": "QuantumPad, 15 nuevos modelos autorizados de PokeMania y mejoras generales."
   },
   "launcher": {
     "version": "2.5.3",
