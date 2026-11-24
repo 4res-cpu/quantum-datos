@@ -1,16 +1,16 @@
 {
   "_comentario": "Lo lee el launcher al abrirse.",
   "modpack": {
-    "version": "network-0.3.32",
+    "version": "network-0.3.33",
     "nombre": "Quantum Network",
     "minecraft": "1.21.1",
     "fabricLoader": "0.20.1",
-    "url": "https://github.com/4res-cpu/quantum-datos/releases/download/modpack-network-0.3.32/Quantum_Network_0.3.32.mrpack",
-    "size": 65021643,
-    "sha1": "fa8b98071ddfc49a94c17febfc5f6f69d41dd836",
-    "sha512": "80e4f29c4e745d629a855538fb0e4d2ae97c3031e504c69e754f5a4872349fd21ede2301554fab23d4d4d2a898ab0309058ea74922d31a74317365c5a974de10",
-    "publicado": "2026-11-24T15:39:40.5270498Z",
-    "nota": "QuantumPad, 15 nuevos modelos autorizados de PokeMania y mejoras generales."
+    "url": "https://github.com/4res-cpu/quantum-datos/releases/download/modpack-network-0.3.33/Quantum_Network_0.3.33.mrpack",
+    "size": 65021117,
+    "sha1": "2351a376fa193b350ada9a7fdb5b1dc879b503e7",
+    "sha512": "1fb5b67dd58f9cb87852f74f1c482d4ae7b7ab7b75b7a4d18248818ef743c3c2777f97d9dabf93b5e6ba1a810dca0d7521c7ec0625c000f0654362cf9c4ff8ad",
+    "publicado": "2026-11-24T19:51:56Z",
+    "nota": "Quita el panel flotante de Quantum Pad. El perfil y la cartera siguen disponibles con B. Incluye los modelos autorizados de PokeMania."
   },
   "launcher": {
     "version": "2.5.3",
