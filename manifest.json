@@ -1,16 +1,16 @@
 {
   "_comentario": "Lo lee el launcher al abrirse.",
   "modpack": {
-    "version": "network-0.3.30-rc1",
+    "version": "network-0.3.31",
     "nombre": "Quantum Network",
     "minecraft": "1.21.1",
     "fabricLoader": "0.20.1",
-    "url": "https://github.com/4res-cpu/quantum-datos/releases/download/modpack-network-0.3.30-rc1/Quantum_Network_0.3.30-rc1.mrpack",
-    "size": 48153760,
-    "sha1": "4167630f56bc3e015f7add4c39c9197ce530ed67",
-    "sha512": "57074a12e283cd892092abd2a3377a07c57c60c3a2f0f25e511e66efb1620fa2789fb10471ba1dd576c642e023193233e4d4a8dc5ee89001daafb504b433618e",
-    "publicado": "2026-11-24T10:17:46.976334Z",
-    "nota": "Nuevos mods de Cobblemon y ambientación, Laser’s Fakemon Pack, DexNova y nueva interfaz de Quantum."
+    "url": "https://github.com/4res-cpu/quantum-datos/releases/download/modpack-network-0.3.31/Quantum_Network_0.3.31.mrpack",
+    "size": 48199536,
+    "sha1": "9f66297d67809c02ccc882b8a264e14f1229fd1f",
+    "sha512": "a76e8e29b9e201636e99e5f76f4541bfb8dffa5acee41a7389d40e1b8803b71040274146567ca9473f2bbc8b7924fda95be561e8f6fa83d0ed8619913273c9cc",
+    "publicado": "2026-11-24T14:51:06.889793Z",
+    "nota": "Retratos del equipo, HUD de Quarks y nuevos modelos de Gulpin, Swalot, Oranguru y Passimian."
   },
   "launcher": {
     "version": "2.5.3",
