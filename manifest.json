@@ -1,16 +1,16 @@
 {
   "_comentario": "Lo lee el launcher al abrirse.",
   "modpack": {
-    "version": "network-0.3.33",
+    "version": "network-0.3.34",
     "nombre": "Quantum Network",
     "minecraft": "1.21.1",
     "fabricLoader": "0.20.1",
-    "url": "https://github.com/4res-cpu/quantum-datos/releases/download/modpack-network-0.3.33/Quantum_Network_0.3.33.mrpack",
-    "size": 65021117,
-    "sha1": "2351a376fa193b350ada9a7fdb5b1dc879b503e7",
-    "sha512": "1fb5b67dd58f9cb87852f74f1c482d4ae7b7ab7b75b7a4d18248818ef743c3c2777f97d9dabf93b5e6ba1a810dca0d7521c7ec0625c000f0654362cf9c4ff8ad",
-    "publicado": "2026-11-24T19:51:56Z",
-    "nota": "Quita el panel flotante de Quantum Pad. El perfil y la cartera siguen disponibles con B. Incluye los modelos autorizados de PokeMania."
+    "url": "https://github.com/4res-cpu/quantum-datos/releases/download/modpack-network-0.3.34/Quantum_Network_0.3.34.mrpack",
+    "size": 65032816,
+    "sha1": "55347fcd701f789fb29b4fb4188183d2dfa02cd8",
+    "sha512": "75a78b7aebb875557f5c09450839da7a0c59c960dac9be2a90d627f45d1b956cc8487c6300cc609c08c82f222706dc1811f5b46679d3560223a67253c8f595e1",
+    "publicado": "2026-11-24T21:11:04Z",
+    "nota": "QuantumFly, Constructor, GTS, Intercambio, Llamadas y Trabajos desde Quantum Pad. Marcadores de Lobby y Cobblemon simplificados."
   },
   "launcher": {
     "version": "2.5.3",
