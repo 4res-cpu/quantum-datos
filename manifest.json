@@ -7,8 +7,8 @@
     "fabricLoader": "0.20.1",
     "url": "https://github.com/4res-cpu/quantum-datos/releases/download/modpack-network-0.3.44/Quantum_Network_0.3.44.mrpack",
     "size": 133689194,
-    "sha1": "",
-    "sha512": "",
+    "sha1": "7c7fa240c250b619bfed7d4d40e5693c970b913b",
+    "sha512": "02df631b9eff7e33a1959f4dbd1807eacf7150a4a1b2dcd0533c8808291e6c518f3922b1d8a949f4fffd081fc33ffb0fdbe202f2cba27347fa1877e41448813a",
     "publicado": "2026-11-25T17:12:11Z",
     "nota": "Nuevos sistemas de bosses, cartas, tiendas, calendario y correcciones de compatibilidad."
   },
