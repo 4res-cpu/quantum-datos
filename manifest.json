@@ -1,16 +1,16 @@
 {
   "_comentario": "Lo lee el launcher al abrirse.",
   "modpack": {
-    "version": "network-0.3.39",
+    "version": "network-0.3.40",
     "nombre": "Quantum Network",
     "minecraft": "1.21.1",
     "fabricLoader": "0.20.1",
-    "url": "https://github.com/4res-cpu/quantum-datos/releases/download/modpack-network-0.3.39/Quantum_Network_0.3.39.mrpack",
-    "size": 65153289,
-    "sha1": "312a9691c94ff37c56ab9bdfdfddb7a145e50ca6",
-    "sha512": "8edd56d284681b33dc02928352fd254f82e8aedfe28c2da2459ccc3646ff519938dfdff5a39fd51704b6a6f4717b516509a60f2744f5a79835d4ff07cf5eac0e",
-    "publicado": "2026-11-25T06:27:45.839Z",
-    "nota": "Restaura los recursos de Rattata y retira la región Seavlian de la Pokédex."
+    "url": "https://github.com/4res-cpu/quantum-datos/releases/download/modpack-network-0.3.40/Quantum_Network_0.3.40.mrpack",
+    "size": 65153242,
+    "sha1": "4d1010e8dbc77cc9a3db04005f452509c525818e",
+    "sha512": "8dee35bfc4fc0ae7ae3b2389cbc92ba0fa9946623cfdd9dccd464d68ab5aa578360c1340476f53e50d9a48deb81235d3b476d0009c9f45939d425b62cf782052",
+    "publicado": "2026-11-25T06:46:54.936Z",
+    "nota": "Corrige el cierre de la Pokédex al cargar Bombirdier."
   },
   "launcher": {
     "version": "2.5.3",
