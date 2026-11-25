@@ -1,16 +1,16 @@
 {
   "_comentario": "Lo lee el launcher al abrirse.",
   "modpack": {
-    "version": "network-0.3.34",
+    "version": "network-0.3.35",
     "nombre": "Quantum Network",
     "minecraft": "1.21.1",
     "fabricLoader": "0.20.1",
-    "url": "https://github.com/4res-cpu/quantum-datos/releases/download/modpack-network-0.3.34/Quantum_Network_0.3.34.mrpack",
-    "size": 65032816,
-    "sha1": "55347fcd701f789fb29b4fb4188183d2dfa02cd8",
-    "sha512": "75a78b7aebb875557f5c09450839da7a0c59c960dac9be2a90d627f45d1b956cc8487c6300cc609c08c82f222706dc1811f5b46679d3560223a67253c8f595e1",
-    "publicado": "2026-11-24T21:11:04Z",
-    "nota": "QuantumFly, Constructor, GTS, Intercambio, Llamadas y Trabajos desde Quantum Pad. Marcadores de Lobby y Cobblemon simplificados."
+    "url": "https://github.com/4res-cpu/quantum-datos/releases/download/modpack-network-0.3.35/Quantum_Network_0.3.35-compatible.mrpack",
+    "size": 64945544,
+    "sha1": "af48a2462b4a06dd0abf942a4e9176f9b2d23d2d",
+    "sha512": "56fc53f3cd6bc09a92bcd611425b276378cd3006fd96726b3e90a05b427e6228de75dee20aa6cffb4ab1060f3e267c9ae29e23bf11d9e7f176327f3fdc9984e9",
+    "publicado": "2026-11-25T01:18:37Z",
+    "nota": "Quantum Pad, Cacerías, PokéNav, QuantumChat, QuantumAudio y el apartado Pantallas con WATERFRAMES."
   },
   "launcher": {
     "version": "2.5.3",
