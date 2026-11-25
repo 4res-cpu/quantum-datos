@@ -1,16 +1,16 @@
 {
   "_comentario": "Lo lee el launcher al abrirse.",
   "modpack": {
-    "version": "network-0.3.41",
+    "version": "network-0.3.42",
     "nombre": "Quantum Network",
     "minecraft": "1.21.1",
     "fabricLoader": "0.20.1",
-    "url": "https://github.com/4res-cpu/quantum-datos/releases/download/modpack-network-0.3.41/Quantum_Network_0.3.41.mrpack",
-    "size": 65172344,
-    "sha1": "111078a07bc1601769f0cf15d2a777e3972659c6",
-    "sha512": "1105c4d1f35979454ff366b6e33234884c71e30bdb61d0c4731ea37a807852054379a3f341c839331ee3d3d5c40f23acec1e9ba2787f09267b7c77cee13f60f8",
-    "publicado": "2026-11-25T11:13:23.980Z",
-    "nota": "Pokédex Quantum y 48 skins de Quanta."
+    "url": "https://github.com/4res-cpu/quantum-datos/releases/download/modpack-network-0.3.42/Quantum_Network_0.3.42.mrpack",
+    "size": 65195360,
+    "sha1": "45a7e8ea11529975ad0db546b4c3fd8e25285b8f",
+    "sha512": "cde77370e722b26ab0da093e08243376ae3ffb0648f3db96f06456555e5f1b5669a530f81aa70a83480061e4a8acd371cf507f8dce7e92e01b80f1037cf751cb",
+    "publicado": "2026-11-25T12:52:19.676Z",
+    "nota": "QuantumPad, Armería y Cobblemon Cards."
   },
   "launcher": {
     "version": "2.5.3",
