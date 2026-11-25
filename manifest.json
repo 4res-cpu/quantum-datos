@@ -1,16 +1,16 @@
 {
   "_comentario": "Lo lee el launcher al abrirse.",
   "modpack": {
-    "version": "network-0.3.35",
+    "version": "network-0.3.38",
     "nombre": "Quantum Network",
     "minecraft": "1.21.1",
     "fabricLoader": "0.20.1",
-    "url": "https://github.com/4res-cpu/quantum-datos/releases/download/modpack-network-0.3.35/Quantum_Network_0.3.35-compatible.mrpack",
-    "size": 64945544,
-    "sha1": "af48a2462b4a06dd0abf942a4e9176f9b2d23d2d",
-    "sha512": "56fc53f3cd6bc09a92bcd611425b276378cd3006fd96726b3e90a05b427e6228de75dee20aa6cffb4ab1060f3e267c9ae29e23bf11d9e7f176327f3fdc9984e9",
-    "publicado": "2026-11-25T01:18:37Z",
-    "nota": "Quantum Pad, Cacerías, PokéNav, QuantumChat, QuantumAudio y el apartado Pantallas con WATERFRAMES."
+    "url": "https://github.com/4res-cpu/quantum-datos/releases/download/modpack-network-0.3.38/Quantum_Network_0.3.38.mrpack",
+    "size": 65135067,
+    "sha1": "6486b4b97ff78753505340b522f3464b0c542775",
+    "sha512": "aecbab16b6f68cb27eac356fae6889068d2e675101488f9e9cc40505b869062d37487f48cb07f22737a9da41342fca7ae2f02cb547e53df17aeff0d3048e5cd7",
+    "publicado": "2026-11-25T06:07:12.430Z",
+    "nota": "Quantum Machine y Baby son aspectos cosméticos. Aplica las nuevas texturas al actualizar el modpack."
   },
   "launcher": {
     "version": "2.5.3",
