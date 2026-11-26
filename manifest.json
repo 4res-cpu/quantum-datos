@@ -1,16 +1,16 @@
 {
   "_comentario": "Lo lee el launcher al abrirse.",
   "modpack": {
-    "version": "network-0.3.47",
+    "version": "network-0.3.48",
     "nombre": "Quantum Network",
     "minecraft": "1.21.1",
     "fabricLoader": "0.20.1",
-    "url": "https://github.com/4res-cpu/quantum-datos/releases/download/modpack-network-0.3.47/Quantum_Network_0.3.47.mrpack",
-    "size": 149876522,
-    "sha1": "053ee14d9293efcba274df6ae4d0f39f80514903",
-    "sha512": "084c095ab3749b1a255518622b37da36e0c12269db7b6c8453a7d30a8414af0bedf8c658f97f3a8a386e5df10574f4fa5cd9c22979ef38a95507fb11620be541",
-    "publicado": "2026-11-26T14:19:34.177Z",
-    "nota": "PokeBuilder estilo original, ScalperTCG y app Cartas"
+    "url": "https://github.com/4res-cpu/quantum-datos/releases/download/modpack-network-0.3.48/Quantum_Network_0.3.48.mrpack",
+    "size": 149876535,
+    "sha1": "88c8e6bed397b8d3eefcc04e9ab0d6d7cb771331",
+    "sha512": "ec80cbc5a3170f66a81767a49a590a5c0f4185e8eb25e0a764a675f5b745f1237e1d8bd7a1a1d8785920e0f21a6e2784e28b6eaaee41de051159c43496147504",
+    "publicado": "2026-11-26T15:17:31.648Z",
+    "nota": "Cartas, Kits y Ranking con el diseño original"
   },
   "launcher": {
     "version": "2.5.3",
