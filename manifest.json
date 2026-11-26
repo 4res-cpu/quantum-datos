@@ -1,16 +1,16 @@
 {
   "_comentario": "Lo lee el launcher al abrirse.",
   "modpack": {
-    "version": "network-0.3.49",
+    "version": "network-0.3.50",
     "nombre": "Quantum Network",
     "minecraft": "1.21.1",
     "fabricLoader": "0.20.1",
-    "url": "https://github.com/4res-cpu/quantum-datos/releases/download/modpack-network-0.3.49/Quantum_Network_0.3.49.mrpack",
-    "size": 149876543,
-    "sha1": "7ec073f9a3e9e357b9cf51ee2b436b6d1e8e86eb",
-    "sha512": "701913ec2a48de46849f18895dccf400f79572708f1ea8ac9a05ea13279f136b347097f6e0076ba281323f95f3ca6dcfe7d962dd30fc1529a170817ee832e754",
-    "publicado": "2026-11-26T18:02:44.417Z",
-    "nota": "Calendario, Premios y Cacerías con el diseño original"
+    "url": "https://github.com/4res-cpu/quantum-datos/releases/download/modpack-network-0.3.50/Quantum_Network_0.3.50.mrpack",
+    "size": 149966636,
+    "sha1": "84d0a4f2181d4925e58765cb41263c080434c502",
+    "sha512": "55ae1eed199da9aa04ffa92dc7283a4435b096411a3f6247c3effcd813dfd3094e320890c05697a8b94463d6827a5c366480bd2cd062d5e285c2dc784600b87c",
+    "publicado": "2026-11-26T18:53:05.454Z",
+    "nota": "Todas las apps de la Pad con su diseño original y mapa del spawn"
   },
   "launcher": {
     "version": "2.5.3",
