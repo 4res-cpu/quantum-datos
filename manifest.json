@@ -1,16 +1,16 @@
 {
   "_comentario": "Lo lee el launcher al abrirse.",
   "modpack": {
-    "version": "network-0.3.52",
+    "version": "network-0.3.53",
     "nombre": "Quantum Network",
     "minecraft": "1.21.1",
     "fabricLoader": "0.20.1",
-    "url": "https://github.com/4res-cpu/quantum-datos/releases/download/modpack-network-0.3.52/Quantum_Network_0.3.52.mrpack",
-    "size": 149980071,
-    "sha1": "7a64bdf003bbc17ff5b6b17583216065e7ce6c47",
-    "sha512": "7cdc3d347f5093f4680f3415522f4ec37966802bf656d30c5207a2fbe8722aedfabb911358709819bfefc2273f40c1e285cb1edb0b5dd7027c97eb2c669ff8f2",
-    "publicado": "2026-11-26T23:38:28.093Z",
-    "nota": "Mapa de Quanta, Survival, Torre de Batalla, Tienda con QR, Pokédex, texturas de todos los sobres y mejoras en todas las apps de la Pad."
+    "url": "https://github.com/4res-cpu/quantum-datos/releases/download/modpack-network-0.3.53/Quantum_Network_0.3.53.mrpack",
+    "size": 149980221,
+    "sha1": "d8953c0966ae676b08868e9820e422d8deeb80f0",
+    "sha512": "0cc96c99c4a71f7d54e687c259de81d9c3514729f18d88246db73e6d02235f9cc57e4e37edf94fb38ce558623ea4c6a8e23f2eaf82aa6752b055b7a4b7ec72c2",
+    "publicado": "2026-11-26T23:52:18.372Z",
+    "nota": "Torre de Batalla (BattlePlus) también en el cliente."
   },
   "launcher": {
     "version": "2.5.3",
