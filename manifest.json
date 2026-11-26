@@ -1,16 +1,16 @@
 {
   "_comentario": "Lo lee el launcher al abrirse.",
   "modpack": {
-    "version": "network-0.3.44",
+    "version": "network-0.3.45",
     "nombre": "Quantum Network",
     "minecraft": "1.21.1",
     "fabricLoader": "0.20.1",
-    "url": "https://github.com/4res-cpu/quantum-datos/releases/download/modpack-network-0.3.44/Quantum_Network_0.3.44.mrpack",
-    "size": 133689194,
-    "sha1": "7c7fa240c250b619bfed7d4d40e5693c970b913b",
-    "sha512": "02df631b9eff7e33a1959f4dbd1807eacf7150a4a1b2dcd0533c8808291e6c518f3922b1d8a949f4fffd081fc33ffb0fdbe202f2cba27347fa1877e41448813a",
-    "publicado": "2026-11-25T17:12:11Z",
-    "nota": "Nuevos sistemas de bosses, cartas, tiendas, calendario y correcciones de compatibilidad."
+    "url": "https://github.com/4res-cpu/quantum-datos/releases/download/modpack-network-0.3.45/Quantum_Network_0.3.45.mrpack",
+    "size": 149835020,
+    "sha1": "143d510631e46eb32d47fa50bc27fd0d069c48d8",
+    "sha512": "e5f5489d5df50ae1808d8f909764594bc6b3ce623025c18dec1d3b6f8d250696894e1dc95845976c8b7662c57858b75a7e916cdc9a8b5a6ee5fac69d2f767f22",
+    "publicado": "2026-11-26T10:51:31.881Z",
+    "nota": "Quantum Pad sin Stellar, HUD original, cartera nueva, crates con modelo 3D, jefes, calendario y tiendas."
   },
   "launcher": {
     "version": "2.5.3",
