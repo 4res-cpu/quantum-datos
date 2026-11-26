@@ -1,16 +1,16 @@
 {
   "_comentario": "Lo lee el launcher al abrirse.",
   "modpack": {
-    "version": "network-0.3.45",
+    "version": "network-0.3.46",
     "nombre": "Quantum Network",
     "minecraft": "1.21.1",
     "fabricLoader": "0.20.1",
-    "url": "https://github.com/4res-cpu/quantum-datos/releases/download/modpack-network-0.3.45/Quantum_Network_0.3.45.mrpack",
-    "size": 149835020,
-    "sha1": "143d510631e46eb32d47fa50bc27fd0d069c48d8",
-    "sha512": "e5f5489d5df50ae1808d8f909764594bc6b3ce623025c18dec1d3b6f8d250696894e1dc95845976c8b7662c57858b75a7e916cdc9a8b5a6ee5fac69d2f767f22",
-    "publicado": "2026-11-26T10:51:31.881Z",
-    "nota": "Quantum Pad sin Stellar, HUD original, cartera nueva, crates con modelo 3D, jefes, calendario y tiendas."
+    "url": "https://github.com/4res-cpu/quantum-datos/releases/download/modpack-network-0.3.46/Quantum_Network_0.3.46.mrpack",
+    "size": 149834386,
+    "sha1": "3e22e19f6fa11ee0b732e878c8dfef289c1a46bb",
+    "sha512": "fb772a8a78d04e96215df5d2389388229e95521c3b91f12363f7a7b0ce58145c60b8430a4628d2389b1da988f2d153f4a37be59b8dd2d4fdef87d5005631c560",
+    "publicado": "2026-11-26T11:15:03.201Z",
+    "nota": "Quantum Pad: vuelve QuantumFly y el HUD de antes; crate de Legendarios Baby arreglada."
   },
   "launcher": {
     "version": "2.5.3",
