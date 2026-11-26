@@ -1,16 +1,16 @@
 {
   "_comentario": "Lo lee el launcher al abrirse.",
   "modpack": {
-    "version": "network-0.3.50",
+    "version": "network-0.3.51",
     "nombre": "Quantum Network",
     "minecraft": "1.21.1",
     "fabricLoader": "0.20.1",
-    "url": "https://github.com/4res-cpu/quantum-datos/releases/download/modpack-network-0.3.50/Quantum_Network_0.3.50.mrpack",
-    "size": 149966636,
-    "sha1": "84d0a4f2181d4925e58765cb41263c080434c502",
-    "sha512": "55ae1eed199da9aa04ffa92dc7283a4435b096411a3f6247c3effcd813dfd3094e320890c05697a8b94463d6827a5c366480bd2cd062d5e285c2dc784600b87c",
-    "publicado": "2026-11-26T18:53:05.454Z",
-    "nota": "Todas las apps de la Pad con su diseño original y mapa del spawn"
+    "url": "https://github.com/4res-cpu/quantum-datos/releases/download/modpack-network-0.3.51/Quantum_Network_0.3.51.mrpack",
+    "size": 149979737,
+    "sha1": "a77f756725b58ff94f86a01b4f1b7e76b08f9b3e",
+    "sha512": "4ca2969af16c5605decf0c7b590da5528a538b72f59e870ae26247b1e72941f23f99d8301d0a1d6571dafb60c4d9f894e0db3e68c28d4ad99b8c832638486fd6",
+    "publicado": "2026-11-26T23:33:26.708Z",
+    "nota": "Mapa de Quanta, Survival, Torre de Batalla, Tienda con QR, Pokédex y mejoras en todas las apps de la Pad."
   },
   "launcher": {
     "version": "2.5.3",
