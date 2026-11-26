@@ -1,16 +1,16 @@
 {
   "_comentario": "Lo lee el launcher al abrirse.",
   "modpack": {
-    "version": "network-0.3.46",
+    "version": "network-0.3.47",
     "nombre": "Quantum Network",
     "minecraft": "1.21.1",
     "fabricLoader": "0.20.1",
-    "url": "https://github.com/4res-cpu/quantum-datos/releases/download/modpack-network-0.3.46/Quantum_Network_0.3.46.mrpack",
-    "size": 149834386,
-    "sha1": "3e22e19f6fa11ee0b732e878c8dfef289c1a46bb",
-    "sha512": "fb772a8a78d04e96215df5d2389388229e95521c3b91f12363f7a7b0ce58145c60b8430a4628d2389b1da988f2d153f4a37be59b8dd2d4fdef87d5005631c560",
-    "publicado": "2026-11-26T11:15:03.201Z",
-    "nota": "Quantum Pad: vuelve QuantumFly y el HUD de antes; crate de Legendarios Baby arreglada."
+    "url": "https://github.com/4res-cpu/quantum-datos/releases/download/modpack-network-0.3.47/Quantum_Network_0.3.47.mrpack",
+    "size": 149876522,
+    "sha1": "053ee14d9293efcba274df6ae4d0f39f80514903",
+    "sha512": "084c095ab3749b1a255518622b37da36e0c12269db7b6c8453a7d30a8414af0bedf8c658f97f3a8a386e5df10574f4fa5cd9c22979ef38a95507fb11620be541",
+    "publicado": "2026-11-26T14:19:34.177Z",
+    "nota": "PokeBuilder estilo original, ScalperTCG y app Cartas"
   },
   "launcher": {
     "version": "2.5.3",
