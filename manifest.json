@@ -1,16 +1,16 @@
 {
   "_comentario": "Lo lee el launcher al abrirse.",
   "modpack": {
-    "version": "network-0.3.48",
+    "version": "network-0.3.49",
     "nombre": "Quantum Network",
     "minecraft": "1.21.1",
     "fabricLoader": "0.20.1",
-    "url": "https://github.com/4res-cpu/quantum-datos/releases/download/modpack-network-0.3.48/Quantum_Network_0.3.48.mrpack",
-    "size": 149876535,
-    "sha1": "88c8e6bed397b8d3eefcc04e9ab0d6d7cb771331",
-    "sha512": "ec80cbc5a3170f66a81767a49a590a5c0f4185e8eb25e0a764a675f5b745f1237e1d8bd7a1a1d8785920e0f21a6e2784e28b6eaaee41de051159c43496147504",
-    "publicado": "2026-11-26T15:17:31.648Z",
-    "nota": "Cartas, Kits y Ranking con el diseño original"
+    "url": "https://github.com/4res-cpu/quantum-datos/releases/download/modpack-network-0.3.49/Quantum_Network_0.3.49.mrpack",
+    "size": 149876543,
+    "sha1": "7ec073f9a3e9e357b9cf51ee2b436b6d1e8e86eb",
+    "sha512": "701913ec2a48de46849f18895dccf400f79572708f1ea8ac9a05ea13279f136b347097f6e0076ba281323f95f3ca6dcfe7d962dd30fc1529a170817ee832e754",
+    "publicado": "2026-11-26T18:02:44.417Z",
+    "nota": "Calendario, Premios y Cacerías con el diseño original"
   },
   "launcher": {
     "version": "2.5.3",
