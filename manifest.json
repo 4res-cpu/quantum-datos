@@ -1,16 +1,16 @@
 {
   "_comentario": "Lo lee el launcher al abrirse.",
   "modpack": {
-    "version": "network-0.3.51",
+    "version": "network-0.3.52",
     "nombre": "Quantum Network",
     "minecraft": "1.21.1",
     "fabricLoader": "0.20.1",
-    "url": "https://github.com/4res-cpu/quantum-datos/releases/download/modpack-network-0.3.51/Quantum_Network_0.3.51.mrpack",
-    "size": 149979737,
-    "sha1": "a77f756725b58ff94f86a01b4f1b7e76b08f9b3e",
-    "sha512": "4ca2969af16c5605decf0c7b590da5528a538b72f59e870ae26247b1e72941f23f99d8301d0a1d6571dafb60c4d9f894e0db3e68c28d4ad99b8c832638486fd6",
-    "publicado": "2026-11-26T23:33:26.708Z",
-    "nota": "Mapa de Quanta, Survival, Torre de Batalla, Tienda con QR, Pokédex y mejoras en todas las apps de la Pad."
+    "url": "https://github.com/4res-cpu/quantum-datos/releases/download/modpack-network-0.3.52/Quantum_Network_0.3.52.mrpack",
+    "size": 149980071,
+    "sha1": "7a64bdf003bbc17ff5b6b17583216065e7ce6c47",
+    "sha512": "7cdc3d347f5093f4680f3415522f4ec37966802bf656d30c5207a2fbe8722aedfabb911358709819bfefc2273f40c1e285cb1edb0b5dd7027c97eb2c669ff8f2",
+    "publicado": "2026-11-26T23:38:28.093Z",
+    "nota": "Mapa de Quanta, Survival, Torre de Batalla, Tienda con QR, Pokédex, texturas de todos los sobres y mejoras en todas las apps de la Pad."
   },
   "launcher": {
     "version": "2.5.3",
