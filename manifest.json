@@ -1,16 +1,16 @@
 {
   "_comentario": "Lo lee el launcher al abrirse.",
   "modpack": {
-    "version": "network-0.3.55",
+    "version": "network-0.3.56",
     "nombre": "Quantum Network",
     "minecraft": "1.21.1",
     "fabricLoader": "0.20.1",
-    "url": "https://github.com/4res-cpu/quantum-datos/releases/download/modpack-network-0.3.55/Quantum_Network_0.3.55.mrpack",
-    "size": 98010399,
-    "sha1": "68e8ea7fa48ded6aca629e947c1978b17bf4ae36",
-    "sha512": "a24fb3a2bcb23f4292eb3d5cfc02fa9ce3c0a8d4eddec4bb8ef023b150963970424603126d7ae994d643d286a93467eb53069adbc50619e2ebca7c21475222f0",
-    "publicado": "2026-11-27T04:12:42.124Z",
-    "nota": "Modpack más ligero, iconos propios de cajas y regalos, Arena mejorada."
+    "url": "https://github.com/4res-cpu/quantum-datos/releases/download/modpack-network-0.3.56/Quantum_Network_0.3.56.mrpack",
+    "size": 98024159,
+    "sha1": "be10a2b05f54ef094c8ba65e6253f00b419616ee",
+    "sha512": "b85c85b99866c3d2f80e6e2702e502cc3b86028bd1c0e6297a31e688541712331105e4bb019fa51dd5ea73381264b5dc5d33b948b81099b6c10163b27af1603d",
+    "publicado": "2026-11-27T05:18:41.261Z",
+    "nota": "Iconos propios en la Pad, QuantumFly con fiestas y QuantumChat mejorado"
   },
   "launcher": {
     "version": "2.5.3",
