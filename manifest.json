@@ -1,16 +1,16 @@
 {
   "_comentario": "Lo lee el launcher al abrirse.",
   "modpack": {
-    "version": "network-0.3.53",
+    "version": "network-0.3.54",
     "nombre": "Quantum Network",
     "minecraft": "1.21.1",
     "fabricLoader": "0.20.1",
-    "url": "https://github.com/4res-cpu/quantum-datos/releases/download/modpack-network-0.3.53/Quantum_Network_0.3.53.mrpack",
-    "size": 149980221,
-    "sha1": "d8953c0966ae676b08868e9820e422d8deeb80f0",
-    "sha512": "0cc96c99c4a71f7d54e687c259de81d9c3514729f18d88246db73e6d02235f9cc57e4e37edf94fb38ce558623ea4c6a8e23f2eaf82aa6752b055b7a4b7ec72c2",
-    "publicado": "2026-11-26T23:52:18.372Z",
-    "nota": "Torre de Batalla (BattlePlus) también en el cliente."
+    "url": "https://github.com/4res-cpu/quantum-datos/releases/download/modpack-network-0.3.54/Quantum_Network_0.3.54.mrpack",
+    "size": 149946653,
+    "sha1": "75d217e9e8eea961ee03f1af79a2158bf4576656",
+    "sha512": "f38895fbb94038b092976e6cec6beecb9081d925f56f234fa3d22a6b2a31a67cdc88a85d0cfa94c970cbd12cd8472349be56b7736c74d44242f8e894d0899d94",
+    "publicado": "2026-11-27T00:18:40.121Z",
+    "nota": "Crianza, Survival, Armaduras, Chapas, Cacerías y Calendario renovados en la Pad; Wiki, Torre y QuantumChat arreglados."
   },
   "launcher": {
     "version": "2.5.3",
