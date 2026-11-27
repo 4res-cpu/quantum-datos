@@ -1,16 +1,16 @@
 {
   "_comentario": "Lo lee el launcher al abrirse.",
   "modpack": {
-    "version": "network-0.3.57",
+    "version": "network-0.3.58",
     "nombre": "Quantum Network",
     "minecraft": "1.21.1",
     "fabricLoader": "0.20.1",
-    "url": "https://github.com/4res-cpu/quantum-datos/releases/download/modpack-network-0.3.57/Quantum_Network_0.3.57.mrpack",
-    "size": 98240729,
-    "sha1": "bab20d1a787b758a7d22b9af52b61cff332c2ed7",
-    "sha512": "99309c6a209867fe9f3a5e475e9eeabef160cc089312837f36ddad3b2bce2567be207633c0c5181b126fab313eb3f57dfd70c5cdac83e135cd15da19b3c0aebc",
-    "publicado": "2026-11-27T06:02:56.547Z",
-    "nota": "Ruleta de cajas, mapa de Quanta y Fábrica en español"
+    "url": "https://github.com/4res-cpu/quantum-datos/releases/download/modpack-network-0.3.58/Quantum_Network_0.3.58.mrpack",
+    "size": 98241544,
+    "sha1": "1cb50af435c1c90a22ab9b628a1c96e986731769",
+    "sha512": "ebe7c60d47c66963628c439798f9314f3a8c8416e8b76b6a57638db9ef4fdbdfae8c346b2d28d9fb86afef49544e77c270cea047be3966111b89bb9b27050685",
+    "publicado": "2026-11-27T21:18:01.785Z",
+    "nota": "Cacerías con crianza, nuevas monedas y karma, calendario, chapas, cosméticos y clanes."
   },
   "launcher": {
     "version": "2.5.3",
