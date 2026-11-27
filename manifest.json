@@ -1,16 +1,16 @@
 {
   "_comentario": "Lo lee el launcher al abrirse.",
   "modpack": {
-    "version": "network-0.3.59",
+    "version": "network-0.3.60",
     "nombre": "Quantum Network",
     "minecraft": "1.21.1",
     "fabricLoader": "0.20.1",
-    "url": "https://github.com/4res-cpu/quantum-datos/releases/download/modpack-network-0.3.59/Quantum_Network_0.3.59.mrpack",
-    "size": 98856277,
-    "sha1": "f116c0e1b295b2e3af31c01d2691771d78803c62",
-    "sha512": "d30470f1133492aa79ee822d9dd1a2ff7f157fc25d1d12555eaaea1359bce2ceb82ba57f826767f54a2bf90089a402219c37cd432eab7eb6e564db5340368f22",
-    "publicado": "2026-11-27T21:40:12.988Z",
-    "nota": "Trofeos Pokémon, taxis Corviknight y cámara de procesamiento."
+    "url": "https://github.com/4res-cpu/quantum-datos/releases/download/modpack-network-0.3.60/Quantum_Network_0.3.60.mrpack",
+    "size": 98878350,
+    "sha1": "48ca9652e53a39ff4f161c0d6fa1e469d4b2e4d5",
+    "sha512": "896159fceba15fecbf0d0692d6dc7bdabd7777b291fec44c1993d75039922ad213b7f518f9810384ea7e6cff587674af403ec4c1eb0d2416d2eef128690a284d",
+    "publicado": "2026-11-27T21:50:40.091Z",
+    "nota": "Arreglo del arranque: trofeos, taxis y cámara de procesamiento."
   },
   "launcher": {
     "version": "2.5.3",
