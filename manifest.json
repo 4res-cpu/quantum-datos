@@ -1,16 +1,16 @@
 {
   "_comentario": "Lo lee el launcher al abrirse.",
   "modpack": {
-    "version": "network-0.3.58",
+    "version": "network-0.3.59",
     "nombre": "Quantum Network",
     "minecraft": "1.21.1",
     "fabricLoader": "0.20.1",
-    "url": "https://github.com/4res-cpu/quantum-datos/releases/download/modpack-network-0.3.58/Quantum_Network_0.3.58.mrpack",
-    "size": 98241544,
-    "sha1": "1cb50af435c1c90a22ab9b628a1c96e986731769",
-    "sha512": "ebe7c60d47c66963628c439798f9314f3a8c8416e8b76b6a57638db9ef4fdbdfae8c346b2d28d9fb86afef49544e77c270cea047be3966111b89bb9b27050685",
-    "publicado": "2026-11-27T21:18:01.785Z",
-    "nota": "Cacerías con crianza, nuevas monedas y karma, calendario, chapas, cosméticos y clanes."
+    "url": "https://github.com/4res-cpu/quantum-datos/releases/download/modpack-network-0.3.59/Quantum_Network_0.3.59.mrpack",
+    "size": 98856277,
+    "sha1": "f116c0e1b295b2e3af31c01d2691771d78803c62",
+    "sha512": "d30470f1133492aa79ee822d9dd1a2ff7f157fc25d1d12555eaaea1359bce2ceb82ba57f826767f54a2bf90089a402219c37cd432eab7eb6e564db5340368f22",
+    "publicado": "2026-11-27T21:40:12.988Z",
+    "nota": "Trofeos Pokémon, taxis Corviknight y cámara de procesamiento."
   },
   "launcher": {
     "version": "2.5.3",
